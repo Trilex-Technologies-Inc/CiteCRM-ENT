@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/themes/advanced/docs/zh_cn/images"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="insert_image_window.gif"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="de85320b90312c0c5c57e41d5cddee57"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_table_window.gif"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e087169cddd28ac8a2588b39893a4a25"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_anchor_window.gif"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1c1b75b26ea33d2ab379676e06f70a17"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_link_window.gif"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2f7943b99d6e6acb84dda897f31954b7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+</wc-entries>

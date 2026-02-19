@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/bookmark"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="load_bookmark_toc.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9db5debad343cc42396c9a6e13fb65d1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_bookmarks.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2dcab90b006cd3a63b98b648ec8820d0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_delete_bookmark.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b986c6c93b7c320ed3651e95849fe832"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_bookmark.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ad7ebc4dafd7e963a38e6c0a704514e1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

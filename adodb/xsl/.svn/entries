@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/adodb/xsl"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="remove-0.2.xsl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0b2b85762fe8c79ec259c25098840e4d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="convert-0.1-0.3.xsl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6aadb6a50dc09f6e776d5847f70432d0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="remove-0.3.xsl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="678d96591452812ec32cfffc56877b51"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="convert-0.2-0.3.xsl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="409846921dd94e5bbb473ff65314ea2a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="convert-0.1-0.2.xsl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="29d98453a420d4cbaee77cf29e79ccea"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="convert-0.2-0.1.xsl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5d2788a525f2591249dedab11fa603b4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

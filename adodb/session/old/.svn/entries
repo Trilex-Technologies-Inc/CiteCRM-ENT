@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/adodb/session/old"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="crypt.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5a4e4fde0da690423376a99610929101"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="adodb-session.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3680b5859a7b912e3a8c9d784ecca3f9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="adodb-cryptsession.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="506f76fece7878c4ba8081dfb8c76873"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="adodb-session-clob.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4dc36e7ebadb41f5cd207499e9cb00ee"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

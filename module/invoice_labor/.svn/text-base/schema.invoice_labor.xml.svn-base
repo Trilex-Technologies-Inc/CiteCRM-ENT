@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="invoice_labor">
+		<field name="invoice_labor_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="invoice_id" type="I" size="20"></field>
+		<field name="invoice_labor_hours" type="N" size="10"></field>
+		<field name="invoice_labor_rate" type="N" size="10"></field>
+		<field name="invoice_labor_description" type="C" size="64"></field>
+		<field name="invoice_labor_sub_total" type="N" size="10"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="invoice_id">
+			<col>invoice_id</col>
+		</index>
+	</table>
+</schema>

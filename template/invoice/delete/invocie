@@ -1,0 +1,185 @@
+<!-- 
+function load_payment_options() {
+		urlVars = {}	
+		bodyVars = {invoice_total_amount:{/literal}
+		{if $invoice->get_invoice_total_amount() > 0}
+			{$invoice->get_invoice_total_amount()}
+		{else}	
+			'0.0'
+		{/if}
+		{literal}}	
+		ajaxCaller.postVars("index.php?page=invoice:ajax_load_payment_options", bodyVars, urlVars, on_payment_option_load, false, "a postVars request");
+
+		payment_box.style.display="none";
+
+	}
+
+
+	function loadOption() {
+			urlVars = {}	
+			bodyVars = {invoice_payment_type:document.getElementById("invoice_payment_type").value}	
+			ajaxCaller.postVars("index.php?page=payment_option:payment_options_details", bodyVars, urlVars, on_option_box_load, false, "a postVars request");	
+	}
+
+	function post_payment() {
+	
+	    // CC Payment
+		if( document.getElementById("invoice_payment_type").value == '1' ) {
+			bodyVars = {invoice_paid_amount:document.getElementById("invoice_paid_amount").value,
+                invoice_payment_type:document.getElementById("invoice_payment_type").value,
+				cc_number:document.getElementById("cc_number").value,
+                expirDateMonth:document.getElementById("expirDateMonth").value,
+                expirDateYear:document.getElementById("expirDateYear").value,
+				cc_card_type:document.getElementById("cc_card_type").value,
+				invoice_id:document.getElementById("invoice_id").value,
+                workorder_id:document.getElementById("workorder_id").value
+			}
+		}
+		
+        // Check
+		if(document.getElementById("invoice_payment_type").value == '2') {
+			bodyVars = {invoice_paid_amount:document.getElementById("invoice_paid_amount").value,
+                invoice_payment_type:document.getElementById("invoice_payment_type").value,
+				check_number:document.getElementById("check_number").value,
+                invoice_id:document.getElementById("invoice_id").value,
+                workorder_id:document.getElementById("workorder_id").value
+			}
+		}
+		
+		if(document.getElementById("invoice_payment_type").value == '4') {
+			bodyVars = {invoice_paid_amount:document.getElementById("invoice_paid_amount").value,
+                invoice_payment_type:document.getElementById("invoice_payment_type").value,
+				gift_id:document.getElementById("gift_id").value
+			}
+		}
+			
+		
+			ajaxCaller.postVars("index.php?page=invoice:proc_workorder_payment", bodyVars, urlVars, on_payment_option_load, false, "a postVars request");
+	
+	}
+
+
+	//
+	function on_payment_option_load(text, headers, callingContext) {
+	document.getElementById("payment_option").innerHTML = text;
+	}
+
+
+	function on_option_box_load(text, headers, callingContext) {
+	document.getElementById("option_box").innerHTML = text;
+	}
+
+
+-->
+<br>if $invoice->get_invoice_id() > 0 }
+
+	<div id="invoice_labor">
+		<br>
+		<span class="greetUser">Labor</span>
+		<table width="100%" cellpadding="3" cellspacing="0" border="0" class="productListing">
+			<tr>
+				<td class="productListing-heading" width="10">Hours</td>
+				<td class="productListing-heading" width="15">Date</td>
+				<td class="productListing-heading">Description</td>
+				<td class="productListing-heading" width="65">Rate</td>
+				<td class="productListing-heading" width="75">Sub Total</td>
+			</tr>
+			{foreach from=$invoice_labor_array item=labor name=timeArray}
+			<tr>
+				<td class="productListing-data" width="10">
+			
+					{$labor->get_invoice_labor_hours()|string_format:"%.2f"}
+				</td>
+				<td class="productListing-data" width="15">{$labor->get_last_modified()|date_format:"%Y-%d-%m"}</td>
+				<td class="productListing-data">{$labor->get_invoice_labor_description()}</td>
+				<td class="productListing-data" width="65">${$labor->get_invoice_labor_rate()|string_format:"%.2f"}</td>
+				<td class="productListing-data" ><b>{$labor->get_invoice_labor_sub_total()|string_format:"%.2f"}</b></td>
+			</tr>
+		{foreachelse}
+			<tr>
+				<td class="productListing-data" colspan="5">No time Available</td>
+			</tr>
+		{/foreach}
+		</table>		
+	</div>
+	
+{else}
+{if $invoice->get_invoice_id() > 0 }
+
+	<div id="invoice_parts">
+		<br>
+		<span class="greetUser">Parts</span>
+		<table cellpadding="5" cellspacing="0" class="productListing" width="100%">
+			<tr>
+				<td class="productListing-heading" width="25">Image</td>
+				<td class="productListing-heading" width="50">SKU</td>
+				<td class="productListing-heading">Model</td>
+				<td class="productListing-heading">Manufacture</td>
+				<td class="productListing-heading" width="25">Price</td>
+				<td class="productListing-heading" width="25">Qty</td>
+				<td class="productListing-heading" width="65">Sub Total</td>
+			</tr>
+			{foreach from=$invoice_part_array item=product name="productArray"}
+			<tr>
+				<td class="productListing-data"><img src="{$product->get_product_image()}" width="25" height="25" align="middle" border="0"></td>
+				<td class="productListing-data">
+					<input type="hidden" name="product_id[{$smarty.foreach.productArray.index}]" value="{$product->get_product_id()}">
+					{$product->get_product_sku()}
+				</td>
+				<td class="productListing-data">{$product->get_product_model()}</td>
+				<td class="productListing-data">{$product->get_manufacturer_id()|product_manufacture_name}</td>
+				<td class="productListing-data" width="25">
+					${$product->get_product_price()|string_format:"%.2f"}
+					<input type="hidden" name="product_amount[{$smarty.foreach.productArray.index}]" value="{$product->get_product_price()}">
+				</td>
+				<td class="productListing-data" align="center">{$product->get_invoice_part_qty()}</td>
+				<td class="productListing-data" width="65"><b>$
+				{math equation= "price * qty" 
+					price = $product->get_product_price()
+					qty = $product->get_invoice_part_qty()
+					format="%.2f"
+				}</b>
+				</td>
+			</tr>
+			{foreachelse}
+				<tr>
+					<td class="productListing-data" colspan="7">No Products Orderd</td>
+				</tr>
+			{/foreach}				
+		</table>
+	</div>
+
+{else}
+{* Total *}
+{if $invoice->get_invoice_id() > 0} 
+<br>
+<table cellpadding="5" cellspacing="0" class="formArea" width="100%">
+	<tr>
+		<td class="formAreaTitle" align="right">Labor Total</td>
+		<td class="fieldValue" align="right" width="25">${$labor_total|string_format:"%.2f"}</td>
+	</tr><tr>	
+		<td class="formAreaTitle" align="right">Parts Total</td>
+		<td class="fieldValue" align="right" width="25">${$parts_total|string_format:"%.2f"}</td>
+	</tr><tr>	
+		<td class="formAreaTitle" align="right">Tax</td>
+		<td class="fieldValue" align="right" width="25">${$tax_total|string_format:"%.2f"}</td>
+	</tr><tr>
+		<td class="formAreaTitle" align="right">Shipping</td>
+		<td class="fieldValue" align="right" width="25">${$shipping|string_format:"%.2f"}</td>
+	</tr><tr>
+		<td class="formAreaTitle" align="right">Discount</td>
+		<td class="fieldValue" align="right" width="25">- ${$discount_amount|string_format:"%.2f"}</td>
+	</tr><tr>
+		<td class="formAreaTitle" colspan="2"><hr></td>
+	</tr><tr>
+		<td class="formAreaTitle" align="right" >Total</td>
+		<td class="fieldValue" align="right" width="25">${$invoice->get_invoice_total_amount()|default:"0.00"|string_format:"%.2f"}</td>
+	</tr>
+</table>
+{/if}
+<br>{if $workorder->get_workorder_close_date() != 0} 
+	<div id="payment_box">
+		<input type="hidden" name="invoice_id" value="{$invoice->get_invoice_id()}">
+		<input type="button" name="payment" value="Record Payment" id="payment" onclick="load_payment_options()">
+	</div>
+{else}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="70"
+   name=""
+   committed-date="2007-10-25T03:39:06.038144Z"
+   url="svn://localhost/citecrm/application/css"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="print.css"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="04b150940783d27b504ece36fa4f7dcb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="chrome.css"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="677acb0dfc9283a470d482e61e7dd7c7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="trellis.css"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ec24d0cdfba86daf744105a0f9357032"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="70"
+   name="default.css"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-25T03:39:06.038144Z"
+   checksum="6407afe8421cb436bbb0b2240adbe843"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="menu.css"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="480e28fae71b04c21ad7fd2c01535507"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="original.css"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="83909a8c584ca3be4b2b9e00206735db"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+</wc-entries>

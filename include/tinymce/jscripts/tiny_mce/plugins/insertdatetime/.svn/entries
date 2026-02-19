@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/plugins/insertdatetime"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="editor_plugin.js"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fd4ba00b4793fbaa9b4aa1dbd18ba198"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:13.000000Z"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="editor_plugin_src.js"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="af95c0033b04da5acaa0870ce8ebdbfd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="readme.txt"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fe81b122bcf0e8599bb841cca33f967a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:13.000000Z"/>
+</wc-entries>

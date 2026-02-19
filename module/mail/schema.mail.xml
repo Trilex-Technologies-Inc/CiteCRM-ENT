@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="mail">
+		<field name="mail_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="mail_to_email" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="mail_to_name" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="mail_from_email" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="mail_from_name" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="mail_subject" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="mail_body" type="X">
+			<NOTNULL/>
+		</field>
+		<field name="mail_deliverd" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="mail_creation_unixtime" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="mail_to_email">
+			<col>mail_to_email</col>
+		</index>
+	</table>
+</schema>

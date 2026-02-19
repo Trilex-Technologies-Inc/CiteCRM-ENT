@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/adodb/docs"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="docs-session.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f2d68537916f57aee6a4a8220667c1b6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="docs-oracle.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2c7d7f70eb2c1fbf17154b79e8f72ae0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="readme.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9a0e51379d70a597d2be5cf38ee0dbed"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="docs-active-record.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4ec5fb4e37a17525b5d6fa6a0478ab56"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="docs-adodb.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="640d794f74fbe753e17245e11ae9b27d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tute.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="691e557cea6f1f8d7d07329459120954"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="docs-perf.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="45d8ef3feaa06b7eb686236c17e7528c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="docs-datadict.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="97d6b4e358090536ad13f5afca245a40"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="old-changelog.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3158a33f9d5eda38a369b5749198dd02"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tips_portable_sql.htm"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="40273e36d6d0b2c5e09a55698cd45ef7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+</wc-entries>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/state"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="delete_state.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="25f8dab7463cebfc7f3a24fbfd75a614"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_state.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="11b87020632d088fc832791b9e7ed0ac"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_state_frm.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4954895624a823164d0a8259950259b5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_state.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e7de22ca83cae073cd24b30939ebbb2c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_fetch_state.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="25a00443b17428626e441f94b63162f3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_state_frm.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ed7cf25f05e7e49373427a74c418d32f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+</wc-entries>

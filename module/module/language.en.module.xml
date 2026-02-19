@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<language id="module">
+
+<!-- fields -->
+<field_module_id>ID</field_module_id>
+<field_module_name>Location</field_module_name>
+<field_module_translate_name>Name</field_module_translate_name>
+<field_module_admin_menu>Admin Menu</field_module_admin_menu>
+<field_module_user_menu>User Menu</field_module_user_menu>
+<field_module_public_menu>Public Menu</field_module_public_menu>
+<field_last_modified>Last Modified</field_last_modified>
+
+
+
+<!-- Error -->
+
+<!-- Text -->
+<text_view>View</text_view>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_no_results_found>No Results Found</text_no_results_found>
+<text_view_module>View Module</text_view_module>
+
+
+</language>

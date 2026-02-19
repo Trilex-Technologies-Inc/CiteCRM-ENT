@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/docs"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="plugin_save.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3193710e8ec9c848c88a0dbc288ef581"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_encoding.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="97a43beca6e39c8d43100548e62a9482"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_debug.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="40336717442a660bb89027889ce6fda4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_path_location.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f94ad4dae04885e5a336f7f650f7ce52"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_accessibility_warnings.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="cada6f027e3bd0c0dce5f2a6293006b6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_path.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ce8cdf26da85ed74caa8d80a90465537"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_merge_styles_invalid_parents.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f65d2bce71da19bc9dd61769ad2e8890"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_cleanup_on_startup.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e2f0758773328b0e2de85570f09533b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_nowrap.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f3b1f79dbdb31f819ee43adf730994b3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_custom_undo_redo_keyboard_shortcuts.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="63aed64357c85dd0a58e2aeca1b7734f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_auto_focus.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3c32493ef7591142a34d52269bc53656"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reference_plugins.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c86927aa5ae9bf3932584d7c09eeef7b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_setupcontent_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1b5ba3ccda9a8c25851af6f7e2d73fe2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_zoom.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8e7aee16693f8f1a2c10165decb3cef2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_event_elements.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="80c94facefa57b20e48b7dda47557a3e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_layout_manager.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ca272f92cc66470abef6f2d768ae1f56"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_width.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="49c35f64ba0f4034915246abe2af09f7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_submit_patch.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f757de5e2a3082e84fea9bbddce213a7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="about.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3c2fe0e1992263262c83bbbe9c503294"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="installation_example_03.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="12c181dcfaf38a86be9c24cd73a6686f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_verify_html.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d1e74b131a5cf922d326e9de89a2cf4a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_auto_resize.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1fbe992f936468b044acd54829c93412"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="license.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="46c1f90a66583219a5f60451a3f3244e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_remove_linebreaks.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="999a82d5a7c01ec492c278c2f68c5a43"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_oninit.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2eab2ccaf9653593fedb7a759c07a942"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_external_image_list_url.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8f2502aa9731eea6d0395ec7da7a7048"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_resizing_use_cookie.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e1d6282b86536145bc166f548768cc65"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_browsers.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a9bc262b5652f7ff5c62f74d2f88adbb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_doctype.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9cc8fb3a7eb3e66056ece7498a559138"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_preview.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6e919b0f73220f2d73b45380394b782a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_containers.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8525f57dc232c73d5fde45e184ed5883"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_force_p_newlines.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4d45bc904d296c9df3551614c5bbddf3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="installation_example_00.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5be21dbe04a0017811a803e9ebbcf816"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reference_buttons.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bea640263b64f58499976924ebfd421c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="customization_themes.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0c5ff2afdb59a179b9c852278f1731a3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_cleanup.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="adccf45dd78967c70b40997d77ab27ed"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_styles.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c69814691162101aa0c9f05fb1559604"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_advhr.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0cfa9e909418fc16ea1360a594f86205"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_containers_default_align.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="801362729a665873127d968ac53aad48"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_valid_elements.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8e298fb174546157ea921c17ba98f8aa"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_preformatted.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="158e54166a1d62fa8e35208fb3803f07"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_popups_css.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="afc04241865a4e39e6ea1eb1a01df8f6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_editor_deselector.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fe1e00c0d63cd3a4c8d1744f14765fad"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_apply_source_formatting.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4cf0952d2b5a3061f4720ed63d749423"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_dialog_type.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8ba53dfb7f111f53dda19cd9f3339ba5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_container_align.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="417db55b644eedd6d91594bb84f885e8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_init_instance_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="22454e651fa8f1c9ca2381547d67b974"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_insertdatetime.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="792f98d67b7c9b1d0c7ef8a6e2af1005"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_height.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="925cdb90aab0ac2dd0972cdba4ad7fe1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="option_extended_valid_elements.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="db998aeb4b0cbe284e8eb5be47204830"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_advlink.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5d01d73c8e23d55ab84632cc45d9cf72"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="faq.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d37ff21e57dd22c061343d7a935d2647"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_insertimage_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a32799f263b00a535273f949c094ea1e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_emotions.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="17e0b05bc25543d3891f6be20469dbdf"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_entities.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d9707385d03995ef34a0a920aeffd7f7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_document_base_url.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7110cc8730037dd9d7cd95baa1f3d399"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_fonts.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c813d64cdb915630ec7ae950ad305409"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="093b00cd122e9ab430332bf122f1039d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_paste.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="56455afc51c25fe6df4e1824cc885e05"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_visual.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ee679037887c5dd76b911a2769197ab8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="credits.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="60ba5ead36ecd5ccc05ad9d37858bde8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_focus_alert.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="eb956af676fb3e21c86f36702a0fdf23"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_urlconverter_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5d3dc298b55d90b9e2004f84ce313fcb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_noneditable.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c58fc984b7a8aaae9318577a82a5a5e4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_remove_script_host.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="69f546cdae59caa7bd21262c577d42f9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_plugins.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="07dee1f4266b2076bdc34b6a4df5cce0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_resize_horizontal.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1b417a0ec20d064bac48f6d990a5f843"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_entity_encoding.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d307cce8161deecf6d6b7f1abce5ea4e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_buttons_n.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="33125e99a84315578fc7197fbf3d2059"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_content_css.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="63d0e7649b61eb79c678ad1d2af3a7bc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_flash.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0015e993e7c89cfbf02876e24a242a3f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_mode.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1e18e7cc11b858b7bf344bbe536d726d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_button_tile_map.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="49d1923baedd5f1ccc2146247d9bc913"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="installation_example_02.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="809cb5f64fcce090df5a440e2e8c7c2e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_table_inline_editing.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bf5562b71eae1b922ba8cfc1b488d1c9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_verify_css_classes.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a0a541a371c8882098bd2e7eb7404b63"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_link_targets.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1c613e53f25c8bdd6303f006cfe74342"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_file_browser_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a76a0b0640fd107edeeb608c7f23f355"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_textarea_trigger.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6cc7bc3fabcad66098efa00f7cce40d8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_cleanup_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3ca59e67a57961fec5b3a2469366b423"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_custom_undo_redo.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="695b277d0aaa3534d74c18364793b436"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_fix_content_duplication.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bae14b0054953dff9226e22a7bef13cc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_font_size_classes.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b7c738468428cfb7904d239884d1c2f4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_relative_urls.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5942b9bc39cb770f2e5c996e352506ec"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="customization_plugins.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="77570435ec0a12d4297cfa9232d0287e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_add_form_submit_trigger.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="57878580486a89ee293ed6a3638ed7cd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_print.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="26345fa4090accefa3202ab32c721670"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_toolbar_align.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f180c5b40e65d673b369b766e6183dc5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reference_javascript_functions.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="496d52b5b766541fb00c419f72ac2174"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_force_br_newlines.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8c53c2a85ffeaf485a1e40e8ddbcd550"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_accessibility_focus.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6bab6c8b10e2e0d88c9a053f1136bea1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_trim_span_elements.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7055d8fd14606bbbae2c0f173efd2c6c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_fullscreen.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3579cc07ba5c363b5c87940ab27b4906"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="compatiblity_chart.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5ea1099f352d5c566797897d4d96c742"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_container.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fc7df85d3cfe35087aa6708e58806c86"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_docs_language.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f302325e3a80172b94e4bd177541d591"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_blockformats.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d543a22c8e9579dc1bd38b27a5d562e0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_insertlink_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="080ac4141028d483314540cd7dc1cb80"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_onchange_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d9682e238aad438353d769116e9d73d6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_toolbar_location.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ef2976f7ea57e75a32e34c8241996e9f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_force_hex_style_colors.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="76051a36f2ec821876810d4f32ef7f41"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_containers_default_class.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d54dba3af1524e4607e04db28c90ac7f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_auto_reset_designmode.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7397cd04569fa37debf3ed188505c770"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_directionality.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="726ec000b52ea6803cc60c34b7e36a31"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="installing.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ccda1c8ba0a8720c4a1be177dd269823"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_container_class.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="75409f735c54c345cad5fad3ead089be"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_object_resizing.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1737f23f032a684265c04021bedfe4d4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_inline_styles.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="07634f32bb8d615ab75217525767ea10"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_fullpage.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e7f81122fd2ad889ba7e0c83c3052e1d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_searchreplace.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b4404960b2b93a7fb2ce08fbb9fc6a4f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_convert_newlines_to_brs.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="21e80ff040bc7b70504a28505df4f7a8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reference_configuration.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="220bc6f5190d9ff81ad0fd9d130c4119"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_editor_css.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="14c5ebd99416b0c2103a804a3b88e0b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_visual_table_class.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b5ae7b457b64c83044f8fb54926bde80"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_font_size_style_values.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bcb789881310300372294e96c2f73d1c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_contextmenu.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6dcd0ace63078a6904aeef61af4b0758"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_force_p_newliness.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ff327e13d9c5ad71f63685dea7c6397a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_source_editor_height.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0c39946d967c68982cc0b29536b85cef"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_statusbar_location.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8776e707316bd4e09376ba372db7a21f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_onpageload.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="076a48ba183512b52c0ab6d6e6ffd72f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_inlinepopups.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dc57d515b3ee2babf3c3b2d459118998"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_external_link_list_url.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2ec27bd1832ecea29fc5daf9e2a85ea4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_buttons_n_add_before.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ee880db0312ca75cb91a43f091fe680b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_ask.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a75e1a680a20edd9d8fe605e21e52168"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_custom_undo_redo_levels.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bb0b12366363cb8675e98817520b182d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_invalid_elements.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a4ee5f101628805ab6fb4ad66a279f41"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_language.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e8273a8ff944988acd40c805cbb151c2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_iespell.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ed0cbefd622bd1e345f4fd13a7a815ab"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="installation_example_01.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f243c515d34f2a3040a7e8a0da7f729d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_convert_urls.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6de6f8bc9c9a4f4cb1df57db07b76b39"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_editor_selector.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4947b4ebd8198490fc346f680e4f0a44"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_buttons_n_add.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="db59e29fc5845e6233ff9548c8dc56b1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_convert_fonts_to_spans.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8dfd3071159600fed027d85fb7412a32"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_resizing.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="997b24ca080b4272f57949f1eb5b9905"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_advimage.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="368a8ec52b65dc396dbc7092722cf007"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="customization_language_packs.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="38a5d1f7306934193c829498149a4d90"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_save_callback.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1491891282c35683e1ad47803f38360e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_disable.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="605517a0002ddf7fa480e395d20fc19b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_source_editor_width.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fa18f391d888b1ae94d9b4ee4309f264"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_elements.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="26f818a90c25ff0251b4deb4ccfb3f77"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_autosave.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e14331d92e6015c2e69e9d60cb93e8db"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_add_unload_trigger.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bcb567228c6d88f10c8f9b08b54caaf4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plugin_table.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="841e2403b57b3d0a0c673b4128ac3087"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_theme_advanced_custom_layout.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9d33230a543837a9387cdfe7d59e92e0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="662d95df225c1fe4400f4a2542c97ce1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="option_directionality.html"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e6db3732a37de9d3bf9a2b3dfc99937e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+</wc-entries>

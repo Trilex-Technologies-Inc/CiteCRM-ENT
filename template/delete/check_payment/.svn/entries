@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/delete/check_payment"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="view_check_payment.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b474e16cf138450c782352151c14ec8a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_check_payment_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0eb887d80f8562db308e0a0ec31cf87b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_check_payment.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="eedf4b3ae6d61f1760f97afe100a52dd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_check_payment.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="241b5912c3aa6f8a7e00260f0754da41"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_check_payment_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fb94f308ec84099c5d2b17ac34a9085c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+</wc-entries>

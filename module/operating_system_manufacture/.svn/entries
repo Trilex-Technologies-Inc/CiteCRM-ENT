@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/operating_system_manufacture"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="80"
+   name="search_operating_system_manufacture.php"
+   text-time="2007-10-29T13:46:28.000000Z"
+   committed-date="2007-10-30T15:12:08.207648Z"
+   checksum="4eb30b26df6beb350858750955e7e1f6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"
+   revision="80"/>
+<entry
+   committed-rev="1"
+   name="schema.operating_system_manufacture.xml"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="262da746b77a3b225fd2984dcf94b70e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_operating_system_manufacture.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4ee93207be959b033a1908e9be8a6972"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_operating_system_manufacture.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d84792ee8521e95f35d0e18c687a45d0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_operating_system_manufacture.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b5fc585bb4e25b30b6793c4a18c43c4e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_operating_system_manufacture.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="45330391420552ca3880b136a271c1b5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

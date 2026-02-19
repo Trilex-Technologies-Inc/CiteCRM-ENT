@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/plugins/zoom"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="editor_plugin.js"
+   text-time="2007-10-25T13:55:14.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="520862871f6cebadaf182f5da8b84c77"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:14.000000Z"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="editor_plugin_src.js"
+   text-time="2007-10-25T13:55:14.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0627afc2f5151e6d8f05c53618c61583"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:14.000000Z"/>
+<entry
+   committed-rev="1"
+   name="readme.txt"
+   text-time="2007-10-25T13:55:14.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fe81b122bcf0e8599bb841cca33f967a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:14.000000Z"/>
+</wc-entries>

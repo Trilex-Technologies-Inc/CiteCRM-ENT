@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/plugins/table/jscripts"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="row.js"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a90f77bea2cc7e976717654f84b270b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table.js"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="730b5bc4060b1d87f8bfe1d8fea4ab32"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cell.js"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fc3f02f6ca583c7397dad6e54caa9fe5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="merge_cells.js"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="25dbe3f7255ef01d61057d2cbdf61be6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+</wc-entries>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/plugins/table/images"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="buttons.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="015084b837c52667786a9ce47a24855e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_delete_row.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b6943c3ba64c56ea086d33b21d66004a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_row_props.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e0b5cd204cd7da90331abe4a1459c763"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_insert_row_after.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f244bea608118e1b6609d1ade714ecd5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_split_cells.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bd42313bb8c84c717d67de8b70d5e16d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_insert_row_before.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0e37e4c48dcddb1123bc6140ce323694"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_delete_col.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="05582820e152a8b53d3fb3e622a0c974"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3ca9c0469bf52d46fd0b939bac08eb8d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_merge_cells.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9d9729ba4fa733c60b65ef1819ee7611"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_cell_props.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="80b0c0e7d8112e83d3ffbfa49d2eeadb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_delete.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9ffee386cd63fea0e402447689ddb5dd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_insert_col_after.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="48b353ad270b0e05d7de456cd811c420"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+<entry
+   committed-rev="1"
+   name="table_insert_col_before.gif"
+   text-time="2007-10-25T13:55:15.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d5910a210405a8cc7a24086104b06fa1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:15.000000Z"/>
+</wc-entries>

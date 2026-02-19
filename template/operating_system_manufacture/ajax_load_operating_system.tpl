@@ -1,0 +1,1 @@
+<!-- ajax_load_operating_system.tpl -->

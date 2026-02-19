@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="61"
+   name=""
+   committed-date="2007-10-22T14:31:24.698916Z"
+   url="svn://localhost/citecrm/application/module/company_task"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="61"
+   name="ajax_edit_task.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="3de3b8656b52e3d31d029bc4f41b4324"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="61"
+   name="ajax_new_task.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="ac6d9d57de75c35f9c2bb5b1e65439f4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="61"
+   name="view_company_task.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="1925db580df042b3d1ac4cd9be0f697c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="61"
+   name="ajax_load_by_company.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="5ea70633948c8e46dc43a4259c62eac5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="61"
+   name="language.en.company_task.xml"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="6e64bb978289becc180f5121339f781f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

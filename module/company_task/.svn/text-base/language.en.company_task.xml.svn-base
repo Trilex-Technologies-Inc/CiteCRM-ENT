@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<language id="company_meeting">
+	
+	<!-- Fields -->
+	<field_company_task_id>Task Id</field_company_task_id>
+	<field_company_id>Company</field_company_id>
+	<field_company_task_name>Name</field_company_task_name>
+	<field_company_task_create>Created</field_company_task_create>
+	<field_company_task_due>Due</field_company_task_due>
+	<field_company_task_alarm>Alarm</field_company_task_alarm>
+	<field_company_task_priority>Priority</field_company_task_priority>
+	<field_company_task_category_id>Category</field_company_task_category_id>
+	<field_company_task_text>Description</field_company_task_text>
+	<field_company_task_status>Status</field_company_task_status>
+	<field_company_task_create_by>Created By</field_company_task_create_by>
+	
+	<!-- text -->
+	<text_company_tasks>Company Tasks</text_company_tasks>
+	<text_new_task>New Task</text_new_task>
+	<text_edit_task>Edit Task</text_edit_task>
+	<text_no_results_found>No Tasks Defined</text_no_results_found>
+	<text_no_due_date>No Due Date</text_no_due_date>
+	<text_none>None</text_none>
+	<text_hours>Hour(s)</text_hours>
+	<text_days>Day(s)</text_days>
+	<text_weeks>Week(s)</text_weeks>
+	<text_highest>(highest)</text_highest>
+	<text_lowest>(lowest)</text_lowest>
+	<text_active>Active</text_active>
+	<text_completed>Completed</text_completed>
+	<text_converted>Converted</text_converted>
+	<text_not_applicable>N/A</text_not_applicable>
+	<text_due_tasks>Task Due Today</text_due_tasks>
+	
+	<!-- Buttons -->
+	<button_save>Save</button_save>
+	<button_cancel>Cancel</button_cancel>
+
+</language>

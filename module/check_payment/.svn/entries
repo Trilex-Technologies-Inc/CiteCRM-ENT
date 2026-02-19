@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/check_payment"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="delete_check_payment.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b672630909370d3dd70489091c3a73a5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_check_payment.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="10d95ae62bcc482c33e7ca509cc4c059"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_check_payment.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ea34a51e86d646efaa9230c7b869625c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_check_payment.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7fe11085b5167fb7e0e324fb3dc7efa1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.check_payment.xml"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d2ea9ac153063c187813c2cf0a72c8ab"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_check_payment.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8bfc1fd543f9f71550c3365c9b10d39d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.check_payment.xml"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6751898c9c5db58ebc696372fd364547"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

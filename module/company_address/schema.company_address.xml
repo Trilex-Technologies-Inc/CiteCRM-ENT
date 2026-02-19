@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="company_address">
+		<field name="company_address_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="company_id" type="I" size="20"></field>
+		<field name="company_address_type" type="C" size="8">
+			<NOTNULL/>
+			<DEFAULT value="Billing"/>
+		</field>
+		<field name="company_street_1" type="C" size="60">
+			<NOTNULL/>
+		</field>
+		<field name="company_street_2" type="C" size="60"></field>
+		<field name="company_city" type="C" size="60">
+			<NOTNULL/>
+		</field>
+		<field name="company_state" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="company_postal_code" type="C" size="60">
+			<NOTNULL/>
+		</field>
+		<field name="company_country" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="company_id">
+			<col>company_id</col>
+		</index>
+	</table>
+</schema>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/suspension"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="adminSuspendUser.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f0b74c9f34e8b26eef5597ab0b240e65"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_suspension.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="14ae8f4b0ed13e95368894cef1659c91"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_suspension.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="07f22a14de7198ee1e45bdb0569a7944"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_suspension.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0b4b92e17260f3fc51af97ff2839e5cc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_suspension.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b66a4a91d8bf21e58b8855238ec8faae"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_suspension.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4827913d81d9ab681a0cd87c292eafe0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+</wc-entries>

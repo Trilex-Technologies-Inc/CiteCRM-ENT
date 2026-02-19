@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/delete/invoice_labor"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="update_invoice_labor_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a1c4c0a492c770ff15af51b9bfceff56"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_invoice_labor.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7d26bb985383b03028cf421eba220419"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_invoice_labor_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="29c6269f64c05ef62ede3cd014b45722"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_invoice_labor.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bcc4e73d02f67091f367fd4d610c2c14"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_invoice_labor.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="43f0471cee3ec92625d6a538857967d0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+</wc-entries>

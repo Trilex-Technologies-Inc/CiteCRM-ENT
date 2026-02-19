@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/langs"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="cs.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f67c42e489fe35cacc81264ee721f1c0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pt_br.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="398c69638d9f6881a20c7f07dd6a1a05"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="es.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="578a2bf896b36f5b9803917767af8f43"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ko.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="da78f002b33ae96c2703e6e447874c35"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fr_ca.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6863aed602a00af2d491f97dea689722"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="is.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0f15ed31ab657b0caace8d631502ef03"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cy.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5b8b779de129e587728fdc86437885a6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="si.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="df395a3bf09d9c4f07b7a91ea5c43e2f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="hu.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9aa325c6932e3e74db615475c0ebd0f6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="sk.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dc81930840763b15e05156d710c3e6f9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ru.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d6c2a9681d8f70f659ed8577dd3c57f2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="nb.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ca6bbc2df8101a1fb7cd519bfdbc490e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="el.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6339c72f5eb50c987632c38ac08e8975"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="en.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e212a5941858c1947dd4cb780f5664f3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ar.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f887a5a0775fb90c47351676d8454a19"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fr.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="94b6116969f1f1ee7790ae3e288dc394"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ru_UTF-8.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9fd9331f96e463f9cde16628132b0235"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="nl.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0424146b1e6a1ebe68af205d83ea3cd1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="nn.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="303c7669a8a479b604fe8c64718005fb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="th.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="787fc1fc5a617651c8ead2c01f86dea0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pl.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="74dbe7e1a7ea40c270a854ce5f6d89c6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="it.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e3120fa4ad3453e7d0aaf2aecd75bf40"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ru_KOI8-R.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d973f3478699f42914a5af277274bf12"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ca.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1289e7626e8e203244330218ab950d19"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pt.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="beda7b5b54990b03caa04770865bfc89"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="da.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2ed13d415d0a3f90bd7ec9698d3bce00"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tr.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="328aeefb66745b7f83bf5ceed805d0c8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fa.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="cae0632b7a24ba48074ff4c7c2cd6937"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="de.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="30821629301fd1678dc303f28d9277bf"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="sv.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2d6d52fc3c4f7207f174d42cb078e402"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ja.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f145a3724b871128afe424ec53d3ffae"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="zh_tw.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="23d3ccda031dc21aabc5bbfa93f0cc00"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="he.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="95d6eb34805f2bce56d4461cd9d30ef4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fi.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f41a26321f693e4a194d7bf55ad0e2c2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="readme.txt"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fabede6d7fde031f05e487a3409961ef"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="zh_cn.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6b96bff540a00ccc32d4914ba06e31ed"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="zh_tw_utf8.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="729793a554484d3b84c427e1b3f0d9ad"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+</wc-entries>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/system_to_workorder"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="search_system_to_workorder.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c43cb644f85966da0980b461c5885f84"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_system_to_workorder.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="936c72e033b18549b07ca2431f7b345e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.system_to_workorder.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f9243b658d8622b439a948349c26bdd3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_system_to_workorder.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6fe23ad11913ffafe2622ff0e6cf72ff"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_system_to_workorder.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="713528102bd8c1bcc14bfd1f0285b026"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_system_to_workorder.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6a17c80f735ec65ff2f1d5d8bcd478bb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+</wc-entries>

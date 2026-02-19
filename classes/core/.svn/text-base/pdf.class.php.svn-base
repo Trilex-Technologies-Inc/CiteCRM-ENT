@@ -1,0 +1,1070 @@
+<?php
+/**
+ * Type:     Cite CMS PHP Page<br>
+ * Name:     pdf.class.php<br>
+ * Purpose: PDF CLass for It's Managed<br>
+ * Custom Design
+ * @author Cite CRM 2007 http://www.citecrm.com
+ * @access Public
+ * @version 1.0
+*/
+
+require_once(CLASS_PATH."/core/fpdf.class.php");
+
+class workorder_pdf extends FPDF {
+	//Page header
+		//Cell(float w , float h, string txt, mixed border, int ln, string align , int fill, mixed link)
+		//Rect(float x, float y, float w, float h ,string style)
+		//MultiCell(float w, float h, string txt, mixed border, string align, int fill)
+	function Header() {		
+	}
+	
+	function load_info($companyObj,$workorderObj,$companyAddressObj,$companyContactObj,$workorder_timeObj,$productObj,$systemObj,$workorder_noteObj,$barcode,$display_logo) {
+		global $core;
+
+		// Future see http://www.pcssinc.com/Advanced_Technologies/eSignatures.htm
+		$workorder_id = $workorderObj->get_workorder_id();
+		// Load Company
+		$companyObj->load_company_by_workorder($workorder_id);
+
+		$companyName = $companyObj->get_company_name();
+	   
+	
+		// Load Billing Address
+		$companyAddressObj->load_by_company_id_and_type($companyObj->get_company_id(),"Billing");
+		$billingAddress = $companyAddressObj->get_company_street_1();
+
+		// Load Service Address
+		$companyAddressObj->load_by_company_id_and_type($companyObj->get_company_id(),"Service");
+
+		// Load Company Phone
+		$companyContactObj->load_by_company_and_type($companyObj->get_company_id(),'Business Phone');
+		$business_phone = $companyContactObj->get_company_contact_value();
+
+        // Load Primary Contact       
+        $companyContactObj->load_by_company_and_type($companyObj->get_company_id(),'Contact Name');
+		$contact = $companyContactObj->get_company_contact_value();
+
+		// Load Company Fax
+		$companyContactObj->load_by_company_and_type($companyObj->get_company_id(),'Business Fax');
+		$fax = $companyContactObj->get_company_contact_value();
+
+		// Load Tech
+		$tech_id = $workorderObj->get_workorder_assigned_to();
+		$tech = $workorderObj->get_workorder_assigned_to_name($tech_id);
+		
+		// Start Time && Endtime
+		$workorder_time_array = $workorder_timeObj->load_by_workorder($workorder_id,'workorder_time_start','ASC',0,1,&$total);
+
+        if(!empty($workorder_time_array[0]->fields['workorder_time_start'])) {
+		  $start_time = date("H:i m-d-Y", $workorder_time_array[0]->fields['workorder_time_start']);
+
+		  $end_time = date("H:i m-d-Y", $workorder_time_array[0]->fields['workorder_time_end']);
+        }
+
+
+		
+
+		if($display_logo) {			
+			$this->Image(ROOT_PATH.'/images/theme/logo.jpg',10,10,80);
+		}
+
+
+		$this->SetLeftMargin(10);
+		//Arial bold 15
+		$this->SetFont('Times','',18);
+		//Move to the right
+		$this->Cell(110);
+		//Title
+		$this->Cell(0,20,'SERVICE REQUEST',0,0,'L');
+		//Line break
+
+		$this->Ln(20);
+
+		$this->SetLineWidth(.125);
+		
+		// Company
+		$this->rect(100,35,75,8);
+		$this->SetFont('Times','',8);
+		$this->SetXY(100,37);
+		$this->Cell(0,0,'COMPANY',0,0,'L',0,0);
+		$this->SetXY(105,41);
+		$this->Cell(0,0,$companyName,0,0,'L',0,0);
+
+		// WO#
+		$this->SetXY(175,37);
+		$this->Cell(0,0,'WO#',0,0,'L',0,0);
+		$this->rect(175,35,27,8);
+		$this->SetXY(175,41);
+		$this->Cell(0,0,$workorderObj->get_workorder_id(),0,0,'L',0,0);
+
+		// Service Address
+		$this->SetXY(100,45);
+		$this->Cell(0,0,'SERVICE ADDRESS',0,0,'L',0,0);
+		$this->rect(100,43,75,8);
+		$this->SetXY(105,49);
+		$this->Cell(0,0,$companyAddressObj->get_company_street_1(),0,0,'L',0,0);
+
+		// Date
+		$this->SetXY(175,45);
+		$this->Cell(0,0,'DATE',0,0,'L',0,0);
+		$this->rect(175,43,27,8);
+		$this->SetXY(175,49);
+		$this->Cell(0,0,date("m",$workorderObj->get_workorder_open_date()) . "-" . date("d",$workorderObj->get_workorder_open_date()) . "-".date("Y",$workorderObj->get_workorder_open_date()),0,0,'L',0,0);
+
+		// Billing Address
+		$this->SetXY(77,53);
+		$this->Cell(0,0,'BILLING ADDRESS',0,0,'L',0,0);		
+		$this->rect(77,51,83,8);
+		$this->SetXY(77,57);
+		$this->Cell(0,0,$billingAddress,0,0,'L',0,0);
+
+		// Contact
+		$this->SetXY(160,53);
+		$this->Cell(0,0,'CONTACT',0,0,'L',0,0);
+		$this->rect(160,51,42,8);
+		$this->SetXY(160,57);
+		$this->Cell(0,0,$contact,0,0,'L',0,0);
+
+
+		// City
+		$this->SetXY(10,61);
+		$this->Cell(0,0,'CITY',0,0,'L',0,0);
+		$this->rect(10,59,67,8);
+		$this->SetXY(15,65);
+		$this->Cell(0,0,$companyAddressObj->get_company_city(),0,0,'L',0,0);
+
+
+		// State
+		$this->SetXY(77,61);
+		$this->Cell(0,0,'STATE',0,0,'L',0,0);
+		$this->rect(77,59,13,8);
+		$this->SetXY(78,65);
+		$this->Cell(0,0,$companyAddressObj->get_company_state(),0,0,'L',0,0);
+
+		//Zip
+		$this->SetXY(90,61);
+		$this->Cell(0,0,'ZIP',0,0,'L',0,0);
+		$this->rect(90,59,26,8);
+		$this->SetXY(95,65);
+		$this->Cell(0,0,$companyAddressObj->get_company_postal_code(),0,0,'L',0,0);
+
+		// Phone
+		$this->SetXY(116,61);
+		$this->Cell(0,0,'PHONE',0,0,'L',0,0);		
+		$this->rect(116,59,44,8);
+		$this->SetXY(116,65);
+		$this->Cell(0,0,$core->phone_format($business_phone),0,0,'L',0,0);
+		
+
+		// Fax
+		$this->SetXY(160,61);
+		$this->Cell(0,0,'FAX',0,0,'L',0,0);
+		$this->rect(160,59,42,8);
+		$this->SetXY(160,65);
+		$this->Cell(0,0,$core->phone_format($fax),0,0,'L',0,0);
+
+        // Description
+        $description = $core->prepare_edit($workorderObj->get_workorder_desription());
+        $description = $core->truncate($description,525);
+        
+
+		$this->SetXY(10,72);
+		$this->MultiCell(193,4,"DESCRIPTION\n".$description,0,'L',0);
+
+		// Quote
+		$this->SetXY(10,109	);
+		$this->Cell(0,0,'HOURLY RATE OR QUOTE $',0,0,'L',0,0);
+		$this->rect(10,107,62,8);
+
+		// Blank
+		$this->rect(72,107,130,8);
+
+		// Legal Disclaimer
+		$this->SetXY(10,118);
+		$this->SetFont('Times','',10);
+		$this->MultiCell(193,4,WORKORDER_DISCLAIMER,0,'L',0);
+
+		// Signature
+		$this->SetFont('Times','',8);
+		$this->SetXY(10,262	);
+		$this->Cell(0,0,'SIGNATURE',0,0,'L',0,0);
+		$this->rect(10,260,82,8);
+		
+		// TiTle
+		$this->rect(92,260,35,8);
+		$this->SetXY(92,262	);
+		$this->Cell(0,0,'TITLE OR POSITION',0,0,'L',0,0);
+
+		// DATE
+		$this->rect(127,260,35,8);
+		$this->SetXY(127,262);
+		$this->Cell(0,0,'DATE',0,0,'L',0,0);
+
+		// Page 2
+		$this->AddPage();
+
+		// Header
+		$this->SetXY(10,20);
+		$this->SetFont('Times','',18);
+		$this->Cell(0,0,'SERVICE PERFORMED',0,0,'C');
+
+		// Company
+		$this->SetFont('Times','',8);
+		$this->rect(10,30,78,8);
+		$this->SetXY(10,32);
+		$this->Cell(0,0,'COMPANY',0,0,'L');
+		$this->SetXY(15,36);
+		$this->Cell(0,0,$companyName,0,0,'L');
+
+		// Contact
+		$this->rect(88,30,53,8);
+		$this->SetXY(88,32);
+		$this->Cell(0,0,'CONTACT',0,0,'L');
+		$this->SetXY(88,36);
+		$this->Cell(0,0,$contact,0,0,'L');
+		
+		// Phone
+		$this->rect(141,30,33,8);
+		$this->SetXY(141,32);
+		$this->Cell(0,0,'PHONE',0,0,'L');
+		$this->SetXY(141,36);
+		$this->Cell(0,0,$core->phone_format($business_phone),0,0,'L');
+
+		// WO#
+		$this->rect(174,30,30,8);
+		$this->SetXY(174,32);
+		$this->Cell(0,0,'WO#',0,0,'L');
+		$this->SetXY(179,36);
+		$this->Cell(0,0,$workorderObj->get_workorder_id(),0,0,'L',0,0);
+
+		// Left BOX
+		$this->rect(10,42,96,8);
+		$this->SetXY(10,44);
+		$this->Cell(0,0,'EQUIPMENT REMOVED FROM SITE',0,0,'L');
+		$this->rect(10,50,96,8);
+		$this->rect(10,58,96,8);
+		$this->rect(10,66,96,8);
+		$this->rect(10,74,96,8);
+		$this->rect(10,82,96,8);
+
+
+		// Right Box Parts Used
+		$product_array = $productObj->load_product_by_workorder($workorder_id,'product.product_id','ASC',0,0,&$total);
+
+
+		$this->rect(108,42,96,8);
+		$this->SetXY(108,44);
+		$this->Cell(0,0,'PARTS USED',0,0,'L');
+		$count = 50;
+
+		foreach($product_array as $product) {
+				if($count <= 82) {
+					$part = "ID ".$product->get_product_id(). " " .$product->fields['product_name'] . " Price $" .money_format('%i',$product->fields['product_price']) ;
+
+					$this->SetXY(108,$count+3);
+					$this->Cell(0,0,$part,0,0,'L');
+					$this->rect(108,$count,96,8);
+				}
+				$count = $count + 8;
+		}
+		
+		While($count <= 82) {
+			$this->rect(108,$count,96,8);
+			$count = $count + 8;
+		}
+
+		// Work Preformed
+		$this->SetXY(10,96);
+		$this->Cell(0,0,'WORK PERFORMED',0,0,'L');
+		
+        
+        $string = $core->prepare_edit($workorderObj->get_workorder_resolution());
+       
+        $max_size = 144;
+        $words = preg_split("/[\040]+/",$string , -1);
+        
+        $r=0;
+        for($i=0; $i < count($words); $i++) {
+        if ( strlen($lines[$r] . $words[$i] . ' ') < $max_size){
+             $lines[$r] .= $words[$i] . ' ';
+        } else {            
+                $r++;
+                $lines[$r] .= $words[$i] . ' ';
+            }
+        } 
+
+        $_c = count($lines) * 8;
+        $_nc = 96 + 4;
+        $i = 0;
+        foreach($lines as $line){
+            $this->SetXY(14,$_nc);
+            $this->Cell(0,0,$lines[$i],0,0,'L');
+            $_nc = $_nc + 4;
+            $i++;
+        }
+        
+		$count = 94 + $_c;
+		while($count <= 230) {
+			$this->rect(10,$count,194,8);
+			$count = $count + 8;
+		}
+
+		$this->rect(10,238,68,8);
+
+		
+		$this->rect(78,238,48,8);
+		$this->SetXY(78,240);
+		$this->Cell(0,0,'TECH',0,0,'L');
+		$this->SetXY(78,244);
+		$this->Cell(0,0,$tech,0,0,'L');
+
+		$this->rect(126,238,39,8);
+		$this->SetXY(126,240);
+		$this->Cell(0,0,'ARRIVED',0,0,'L');
+		$this->SetXY(126,244);
+		if($workorderObj->get_workorder_start_time() > 0 ) {
+			$this->Cell(0,0,$start_time,0,0,'L');
+		}
+
+		$this->rect(165,238,39,8);
+		$this->SetXY(165,240);
+		$this->Cell(0,0,'DEPARTED',0,0,'L');
+		$this->SetXY(165,244);
+		if($workorderObj->get_workorder_end_time() > 0) {
+			$this->Cell(0,0,$end_time,0,0,'L');
+		}
+
+		$this->SetFont('Times','',10);
+		$this->SetXY(10,250);
+		$this->MultiCell(193,4,'The above described services have been performed and accepted, and I hereby take delivery of any hardware/software returned and agree to pay the resulting charges:',0,'L',0);
+
+
+		// Signature
+		$this->SetFont('Times','',8);
+		$this->SetXY(10,262	);
+		$this->Cell(0,0,'SIGNATURE',0,0,'L',0,0);
+		$this->rect(10,260,82,8);
+		
+		// TiTle
+		$this->rect(92,260,35,8);
+		$this->SetXY(92,262	);
+		$this->Cell(0,0,'TITLE OR POSITION',0,0,'L',0,0);
+
+		// DATE
+		$this->rect(127,260,35,8);
+		$this->SetXY(127,262);
+		$this->Cell(0,0,'DATE',0,0,'L',0,0);
+
+
+		// PAGE Three TEch notes
+		
+		$this->AddPage();
+
+		// Header
+		$this->SetXY(10,20);
+		$this->SetFont('Times','',18);
+		$this->Cell(0,0,'TECH NOTES',0,0,'C');
+
+		// Company
+		$this->SetFont('Times','',8);
+		$this->rect(10,30,78,8);
+		$this->SetXY(10,32);
+		$this->Cell(0,0,'COMPANY',0,0,'L');
+		$this->SetXY(15,36);
+		$this->Cell(0,0,$companyName,0,0,'L');
+
+		// Contact
+		$this->rect(88,30,53,8);
+		$this->SetXY(88,32);
+		$this->Cell(0,0,'CONTACT',0,0,'L');
+		$this->SetXY(88,36);
+		$this->Cell(0,0,$contact,0,0,'L');
+		
+		// Phone
+		$this->rect(141,30,33,8);
+		$this->SetXY(141,32);
+		$this->Cell(0,0,'PHONE',0,0,'L');
+		$this->SetXY(141,36);
+		$this->Cell(0,0,$core->phone_format($business_phone),0,0,'L');
+
+		// WO#
+		$this->rect(174,30,30,8);
+		$this->SetXY(174,32);
+		$this->Cell(0,0,'WO#',0,0,'L');
+		$this->SetXY(179,36);
+		$this->Cell(0,0,$workorderObj->get_workorder_id(),0,0,'L',0,0);
+	
+
+		$system_array = $systemObj->load_by_workorder_id($workorder_id,'system.system_id','ASC',0,0,&$total);
+		$this->SetXY(10,44);
+		$this->SetFont('Times','',10);
+		$this->Cell(0,0,'Systems',0,0,'L');
+
+		$this->SetFont('Times','',8);
+		$count = 46;
+		foreach($system_array as $system) {
+			// ID			
+			$this->rect(10,$count,20,8);
+			$this->SetXY(10,$count +3);
+			$this->Cell(0,0,'UPC',0,0,'L');
+			$this->SetXY(15,$count +6);
+			$this->Cell(0,0,"SYS".$system->get_system_id(),0,0,'L');
+
+			// Name
+			$this->rect(30,$count,30,8);
+			$this->SetXY(30,$count +3);
+			$this->Cell(0,0,'Name',0,0,'L');
+			$this->SetXY(35,$count +6);
+			$this->Cell(0,0,$system->get_system_name(),0,0,'L');
+			
+
+			// Make
+			$this->rect(60,$count,40,8);
+			$this->SetXY(60,$count +3);
+			$this->Cell(0,0,'Make',0,0,'L');
+			$this->SetXY(65,$count +6);
+			$this->Cell(0,0,$core->system_manufacture_name($system->get_system_manufacture_id()),0,0,'L');
+			
+			// Model
+			$this->rect(100,$count,50,8);
+			$this->SetXY(100,$count +3);
+			$this->Cell(0,0,'Model',0,0,'L');
+			$this->SetXY(105,$count +6);
+			$this->Cell(0,0,$system->get_system_model_id(),0,0,'L');
+
+			// OS
+			$this->rect(150,$count,54,8);
+			$this->SetXY(150,$count +3);
+			$this->Cell(0,0,'OS',0,0,'L');
+			$this->SetXY(155,$count +6);
+			$this->Cell(0,0,$core->operating_system_name($system->get_operating_system_id()),0,0,'L');
+
+			$count= $count + 8;
+		}
+
+		$count = $count + 10;
+
+		// Notes
+		$workorder_note_array = $workorder_noteObj->load_by_workorder_id($workorder_id,'workorder_note_create_by','DESC',0,0,&$total);
+	
+		$this->SetXY(10,$count);
+		$this->SetFont('Times','',10);
+		$this->Cell(0,0,'Notes',0,0,'L');
+
+		$this->SetFont('Times','',8);
+		$count = $count + 2;
+		foreach($workorder_note_array as $note) {
+			$this->rect(10,$count,35,8);
+			$this->SetXY(10,$count +3);
+			$this->Cell(0,0,'Enterd By',0,0,'L');
+			$this->SetXY(15,$count +6);
+			$this->Cell(0,0,$core->display_names($note->get_workorder_note_create_by()),0,0,'L');
+			$this->SetXY(45,$count +6);
+            $this->rect(45,$count,159,8);
+            $this->Cell(0,0,$core->truncate($core->prepare_edit($note->get_workorder_note_text()),135),0,0,'L');
+
+			$count = $count + 8;
+		
+		}
+
+		$count = $count + 10;
+
+		while($count <= 250) {
+			$this->rect(10,$count,194,8);
+			$count = $count + 8;
+
+		}
+
+		$count = $count + 8;
+		// Bar Code
+		$this->SetXY(10,$count);
+		$img = $barcode->draw("WRD".$workorder_id, 'Code39', 'png');
+		$this->Image(ROOT_PATH.'/images/barcode/WRD'.$workorder_id.'.png',20,$count,0);
+	}
+	
+	
+
+
+	//Page footer
+	function Footer() {
+		//Position at 1.5 cm from bottom				
+		$this->SetY(-20);
+		//Arial italic 8
+		$this->SetFont('Arial','I',8);
+		//Page number
+		$this->Cell(0,10,'Page '.$this->PageNo().'/{nb}',0,0,'C');
+	}
+}
+
+
+class invoice_pdf extends FPDF {
+
+	//Page footer
+	function Footer() {
+		//Position at 1.5 cm from bottom				
+		$this->SetY(-20);
+		//Arial italic 8
+		$this->SetFont('Arial','I',8);
+		//Page number
+		$this->Cell(0,10,'Page '.$this->PageNo().'/{nb}',0,0,'C');
+	}
+
+    function print_invoice($invoiceObj,$companyObj) {
+        global $core;
+
+		if(COMPANY_LOGO != '') {			
+			$this->Image(ROOT_PATH.'/images/theme/logo.jpg',120,20,80);
+		}
+
+       // Draw Invoice
+        $this->SetLeftMargin(10);
+		//Arial bold 15
+		$this->SetFont('Times','',18);	
+
+        //Move to the right
+        $this->SetXY(10,20);
+		//Title
+		$this->Cell(0,20,'Invoice',0,0,'L');
+        $this->SetXY(10,40);
+        $this->SetFont('Times','',8);
+        $this->Cell(0,0,SITE_NAME,0,0,'L',0,0);
+        $this->SetXY(10,44);
+        $this->Cell(0,0,COMPANY_STREET_1,0,0,'L',0,0);
+        if(COMPANY_STREET_2 != "" ) {
+            $this->SetXY(10,48);
+            $this->Cell(0,0,COMPANY_STREET_2,0,0,'L',0,0);
+            $this->SetXY(10,52);
+            $this->Cell(0,0,COMPANY_CITY . ", " . COMPANY_STATE  . " " . COMPANY_POSTAL_CODE . " " .  COMPANY_COUNTRY,0,0,'L',0,0);
+            $this->SetXY(10,56);
+            $this->Cell(0,0,"Phone: " . COMPANY_PHONE . " Fax: " .COMPANY_FAX ,0,0,'L',0,0);
+            $this->SetXY(10,60);
+            $this->Cell(0,0,COMPANY_EMAIL,0,0,'L',0,0);
+        } else {
+            $this->SetXY(10,48);
+            $this->Cell(0,0,COMPANY_CITY . ", " . COMPANY_STATE . " " . COMPANY_POSTAL_CODE . " " .  COMPANY_COUNTRY,0,0,'L',0,0);
+            $this->SetXY(10,52);
+            $this->Cell(0,0,"Phone: " . COMPANY_PHONE . " Fax: " .COMPANY_FAX ,0,0,'L',0,0);
+            $this->SetXY(10,56);
+            $this->Cell(0,0,COMPANY_EMAIL,0,0,'L',0,0);
+        }
+
+		$this->SetLineWidth(.125);
+		$this->Line(10, 66, 200, 66);
+
+        // Bill to Company
+    
+        if($companyObj->get_company_id() != "" ) {
+            require_once(CLASS_PATH."/core/company_address.class.php");
+            require_once(CLASS_PATH."/core/company_contact.class.php");
+
+            $company_addressObj = new company_address();
+            $company_contactObj = new company_contact();
+
+            // Load Company Contact Info
+            $company_contactObj->load_by_company_and_type($companyObj->get_company_id(),'Business Phone');
+            $company_phone = $core->phone_format($company_contactObj->get_company_contact_value());
+            $company_contactObj->load_by_company_and_type($companyObj->get_company_id(),'Business Fax');
+            $company_fax = $core->phone_format($company_contactObj->get_company_contact_value());
+            $company_contactObj->load_by_company_and_type($companyObj->get_company_id(),'Email');
+            $company_email = $company_contactObj->get_company_contact_value();
+
+            // Bill To name
+            $this->SetXY(10,74);
+            $this->SetFont('Times','B',11);
+            $this->Cell(0,0,"Bill To: ",0,0,'L',0,0);
+            $this->SetFont('Times','',8);
+            $this->SetXY(25,74);
+            $this->Cell(0,0,$companyObj->get_company_name(),0,0,'L',0,0);
+            $this->SetXY(25,78);
+
+            // Load Billing Address
+            $company_addressObj->load_by_company_id_and_type($companyObj->get_company_id(),'Billing');
+            if($company_addressObj->get_company_address_id() > 0 ) { 
+                // We have Billing Address
+                $this->Cell(0,0,$company_addressObj->get_company_name(),0,0,'L',0,0);
+                $this->SetXY(25,82);
+                if($company_addressObj->get_company_street_2() != "") {
+                    $this->Cell(0,0,$company_addressObj->get_company_street_2(),0,0,'L',0,0);
+                    $this->SetXY(25,86);
+                    $this->Cell(0,0,$company_addressObj->get_company_city() . ", " .$company_addressObj->get_company_state_code($company_addressObj->get_company_state()) . " " . $company_addressObj->get_company_postal_code() ,0,0,'L',0,0);
+                    $this->SetXY(25,90);
+                    $this->Cell(0,0,"Phone: " . $company_phone . " Fax: " . $company_fax,0,0,'L',0,0);
+                    $this->SetXY(25,94);
+                    $this->Cell(0,0,$company_email,0,0,'L',0,0);
+                } else {
+                    $this->Cell(0,0,$company_addressObj->get_company_city() . ", " .$company_addressObj->get_company_state_code($company_addressObj->get_company_state()) . " " . $company_addressObj->get_company_postal_code() ,0,0,'L',0,0);
+                    $this->SetXY(25,86);
+                    $this->Cell(0,0,"Phone: " . $company_phone . " Fax: " . $company_fax,0,0,'L',0,0);
+                    $this->SetXY(25,92);
+                    $this->Cell(0,0,$company_email,0,0,'L',0,0);
+                }               
+            } else {
+                // Use Service Address
+                $company_addressObj->load_by_company_id_and_type($companyObj->get_company_id(),'Service');
+                $this->Cell(0,0,$company_addressObj->get_company_street_1(),0,0,'L',0,0);
+                $this->SetXY(25,82);
+                if($company_addressObj->get_company_street_2() != "") {                    
+                    $this->Cell(0,0,$company_addressObj->get_company_street_2(),0,0,'L',0,0);
+                    $this->SetXY(25,86);
+                    $this->Cell(0,0,$company_addressObj->get_company_city() . ", " .$company_addressObj->get_company_state_code($company_addressObj->get_company_state()) . " " . $company_addressObj->get_company_postal_code() ,0,0,'L',0,0);
+                    $this->SetXY(25,90);
+                    $this->Cell(0,0,"Phone: " . $company_phone . " Fax: " . $company_fax,0,0,'L',0,0);
+                    $this->SetXY(25,94);
+                    $this->Cell(0,0,$company_email,0,0,'L',0,0);
+                } else {                
+                    $this->Cell(0,0,$company_addressObj->get_company_city() . ", " .$company_addressObj->get_company_state_code($company_addressObj->get_company_state()) . " " . $company_addressObj->get_company_postal_code() ,0,0,'L',0,0);
+                    $this->SetXY(25,86);
+                    $this->Cell(0,0,"Phone: " . $company_phone . " Fax: " . $company_fax,0,0,'L',0,0);
+                    $this->SetXY(25,90);
+                    $this->Cell(0,0,$company_email,0,0,'L',0,0);
+                }
+            }
+
+            // Service Address
+            $this->SetXY(100,74);
+            $this->SetFont('Times','B',11);
+            $this->Cell(0,0,"Service Address: ",0,0,'L',0,0);
+            $this->SetFont('Times','',8);
+            $this->SetXY(130,74);
+            $this->Cell(0,0,$companyObj->get_company_name(),0,0,'L',0,0);
+            $this->SetXY(130,78);
+            $company_addressObj->load_by_company_id_and_type($companyObj->get_company_id(),'Service');
+            $this->Cell(0,0,$company_addressObj->get_company_street_1(),0,0,'L',0,0);
+                $this->SetXY(130,82);
+                if($company_addressObj->get_company_street_2() != "") {                    
+                    $this->Cell(0,0,$company_addressObj->get_company_street_2(),0,0,'L',0,0);
+                    $this->SetXY(130,86);
+                    $this->Cell(0,0,$company_addressObj->get_company_city() . ", " .$company_addressObj->get_company_state_code($company_addressObj->get_company_state()) . " " . $company_addressObj->get_company_postal_code() ,0,0,'L',0,0);
+                    $this->SetXY(130,90);
+                    $this->Cell(0,0,"Phone: " . $company_phone . " Fax: " . $company_fax,0,0,'L',0,0);
+                    $this->SetXY(130,94);
+                    $this->Cell(0,0,$company_email,0,0,'L',0,0);
+                } else {                
+                    $this->Cell(0,0,$company_addressObj->get_company_city() . ", " .$company_addressObj->get_company_state_code($company_addressObj->get_company_state()) . " " . $company_addressObj->get_company_postal_code() ,0,0,'L',0,0);
+                    $this->SetXY(130,86);
+                    $this->Cell(0,0,"Phone: " . $company_phone . " Fax: " . $company_fax,0,0,'L',0,0);
+                    $this->SetXY(130,90);
+                    $this->Cell(0,0,$company_email,0,0,'L',0,0);
+                }
+
+        // Bill to User
+        } else {
+            
+
+        }
+
+        // Invoice Information
+        $this->SetFillColor(225,225,225);
+        $this->rect(10,100,125,6,'F');
+        $this->rect(10,100,25,6);
+        $this->rect(35,100,25,6);
+        $this->rect(60,100,25,6);
+        $this->rect(85,100,25,6);
+        $this->rect(110,100,25,6);
+
+        $this->SetXY(10,103);
+        $this->Cell(0,0,"Invoice ID",0,0,'L',0  );
+        $this->SetXY(35,103);
+        $this->Cell(0,0,"Created",0,0,'L',0,0);
+        $this->SetXY(60,103);
+        $this->Cell(0,0,"Due",0,0,'L',0,0);
+        $this->SetXY(85,103);
+        $this->Cell(0,0,"Amount",0,0,'L',0,0);
+        $this->SetXY(110,103);
+        $this->Cell(0,0,"Status",0,0,'L',0,0);
+
+        $this->rect(10,106,25,6);
+        $this->SetXY(10,109);
+        $this->Cell(0,0,$invoiceObj->get_invoice_id(),0,0,'L',0,0);
+
+        $this->rect(35,106,25,6);
+        $this->SetXY(35,109);
+        $this->Cell(0,0,date(PHP_DATE_FORMAT,$invoiceObj->get_invoice_create_date()),0,0,'L',0,0);
+
+        $this->rect(60,106,25,6);
+        $this->SetXY(60,109);
+        $this->Cell(0,0,date(PHP_DATE_FORMAT,$invoiceObj->get_invoice_due_date()),0,0,'L',0,0);    
+
+        $this->rect(85,106,25,6);
+        $this->SetXY(85,109);
+        $this->Cell(0,0,"$".sprintf("%01.2f",$invoiceObj->get_invoice_amount()),0,0,'L',0,0);
+
+        $this->rect(110,106,25,6);
+        $this->SetXY(110,109);
+        $this->Cell(0,0,$invoiceObj->get_invoice_status(),0,0,'L',0,0);
+
+        // line Items
+        $this->SetXY(10,122);
+        $this->SetFont('Times','B',11);
+        $this->Cell(0,0,'Invoice Details',0,0,'L',0,0);
+
+        $this->SetXY(10,126);
+        $this->SetFont('Times','',8);
+
+        $this->rect(10,126,180,6,'F');
+        $this->rect(10,126,25,6);
+        $this->SetXY(35,126);
+        $this->rect(35,126,15,6);
+        $this->SetXY(50,126);
+        $this->rect(50,126,100,6);
+        $this->SetXY(150,126);
+        $this->rect(150,126,20,6);
+        $this->SetXY(170,126);
+        $this->rect(170,126,20,6);
+
+
+        $this->SetXY(10,129);
+        $this->Cell(0,0,'Date',0,0,'L',0,0);
+        $this->SetXY(35,129);
+        $this->Cell(0,0,'Qty',0,0,'L',0,0);
+        $this->SetXY(50,129);
+        $this->Cell(0,0,'Description',0,0,'L',0,0);
+        $this->SetXY(150,129);
+        $this->Cell(0,0,'Amount',0,0,'L',0,0);
+        $this->SetXY(170,129);
+        $this->Cell(0,0,'Sub-Total',0,0,'L',0,0);
+
+        $items_array = $invoiceObj->load_items_by_invoice($invoiceObj->get_invoice_id());
+
+        $line = 132;
+        $text_ln = 136;
+        foreach($items_array as $item) {
+            $this->SetXY(10,$line);
+            $this->rect(10,$line,25,6);
+            $this->SetXY(10,$text_ln);
+            $this->Cell(0,0,date(PHP_DATE_FORMAT,$item->get_invoice_item_date()),0,0,'L',0,0);
+
+            $this->SetXY(35,$line);
+            $this->rect(35,$line,15,6);
+            $this->SetXY(35,$text_ln);
+            $this->Cell(0,0,$item->get_invoice_item_qty(),0,0,'L',0,0);
+
+            $this->SetXY(50,$line);
+            $this->rect(50,$line,100,6);
+            $this->SetXY(50,$text_ln);
+            $this->Cell(0,0,$item->get_invoice_item_description(),0,0,'L',0,0);
+
+            $this->SetXY(150,$line);
+            $this->rect(150,$line,20,6);
+            $this->SetXY(150,$text_ln);
+            $this->Cell(0,0,"$".sprintf("%01.2f",$item->get_invoice_item_amount()),0,0,'L',0,0);
+
+            $this->SetXY(170,$line);
+            $this->rect(170,$line,20,6);
+            $this->SetXY(170,$text_ln);
+            $this->Cell(0,0,"$".sprintf("%01.2f",$item->get_invoice_item_subtotal()),0,0,'L',0,0);
+
+            $text_ln = $text_ln + 6;
+            $line = $line + 6;
+        }
+
+        //Credit
+        $credit_array = $invoiceObj->load_credits($invoiceObj->get_invoice_id());
+
+        foreach($credit_array as $credit) {
+            $this->SetXY(10,$line);
+            $this->rect(10,$line,25,6);
+            $this->SetXY(10,$text_ln);
+            $this->Cell(0,0,date(PHP_DATE_FORMAT,$credit->get_invoice_item_date()),0,0,'L',0,0);
+
+            $this->SetXY(35,$line);
+            $this->rect(35,$line,15,6);
+            $this->SetXY(35,$text_ln);
+            $this->Cell(0,0,$credit->get_invoice_item_qty(),0,0,'L',0,0);
+
+            $this->SetXY(50,$line);
+            $this->rect(50,$line,100,6);
+            $this->SetXY(50,$text_ln);
+            $this->Cell(0,0,$credit->get_invoice_item_description(),0,0,'L',0,0);
+
+            $this->SetXY(150,$line);
+            $this->rect(150,$line,20,6);
+            $this->SetXY(150,$text_ln);
+            $this->Cell(0,0,"- $".sprintf("%01.2f",$credit->get_invoice_item_amount()),0,0,'L',0,0);
+
+            $this->SetXY(170,$line);
+            $this->rect(170,$line,20,6);
+            $this->SetXY(170,$text_ln);
+            $this->Cell(0,0,"- $".sprintf("%01.2f",$credit->get_invoice_item_subtotal()),0,0,'L',0,0);
+
+            $text_ln = $text_ln + 6;
+            $line = $line + 6;
+
+        }
+
+        // Totals
+        $this->SetXY(10,$line);
+        $this->rect(10,$line,160,6);
+        $this->SetXY(10,$text_ln);
+        $this->Cell(0,0,'Discount',0,0,'L',0,0);
+
+        $this->SetXY(170,$line);
+        $this->rect(170,$line,20,6);
+        $this->SetXY(170,$text_ln);
+        $this->Cell(0,0,"- $".sprintf("%01.2f",$invoiceObj->get_invoice_discount_amount()),0,0,'L',0,0);
+
+        $line = $line + 6;
+        $text_ln = $text_ln + 6;
+        $this->SetXY(10,$line);
+        $this->rect(10,$line,160,6);
+        $this->SetXY(10,$text_ln);
+        $this->Cell(0,0,'Tax',0,0,'L',0,0);
+
+        $this->SetXY(170,$line);
+        $this->rect(170,$line,20,6);
+        $this->SetXY(170,$text_ln);
+        $this->Cell(0,0,"$".sprintf("%01.2f",$invoiceObj->get_invoice_tax_amount()),0,0,'L',0,0);
+
+        $line = $line + 6;
+        $text_ln = $text_ln + 6;
+        $this->SetXY(10,$line);
+        $this->rect(10,$line,160,6);
+        $this->SetXY(10,$text_ln);
+        $this->Cell(0,0,'Total',0,0,'L',0,0);
+
+        $this->SetXY(170,$line);
+        $this->rect(170,$line,20,6);
+        $this->SetXY(170,$text_ln);
+        $this->Cell(0,0,"$".sprintf("%01.2f",$invoiceObj->get_invoice_total_amount()),0,0,'L',0,0);
+
+
+        // Payments
+        $line = $line + 12;
+        $text_ln = $text_ln + 12;
+        $this->SetXY(10,$line);
+        $this->SetFont('Times','B',11);
+        $this->Cell(0,0,'Payment Details',0,0,'L',0,0);
+
+        $line = $line + 6;
+        $text_ln = $text_ln + 6;
+
+        $this->SetXY(10,$line);
+        $this->SetFont('Times','',8);
+        if($invoiceObj->get_invoice_paid_amount() > 0) {
+            $this->rect(10,$line,180,6,'F');
+
+            $this->SetXY(10,$line);
+            $this->rect(10,$line,25,6);
+            $this->SetXY(10,$text_ln);
+            $this->Cell(0,0,'Date',0,0,'L',0,0);
+            
+            $this->SetXY(35,$line);
+            $this->rect(35,$line,115,6);
+            $this->SetXY(35,$text_ln);
+            $this->Cell(0,0,'Payment type',0,0,'L',0,0);
+
+            $this->SetXY(150,$line);
+            $this->rect(150,$line,20,6);
+            $this->SetXY(150,$text_ln);
+            $this->Cell(0,0,'Amount',0,0,'L',0,0);
+
+            $this->SetXY(170,$line);
+            $this->rect(170,$line,20,6);
+            $this->SetXY(170,$text_ln);
+            $this->Cell(0,0,'Balance',0,0,'L',0,0);
+
+            $line = $line + 6;
+            $text_ln = $text_ln + 6;
+            
+            $this->SetXY(10,$line);
+            $this->rect(10,$line,25,6);
+            $this->SetXY(10,$text_ln);
+            $this->Cell(0,0,date(PHP_DATE_FORMAT,$invoiceObj->get_invoice_paid_date()),0,0,'L',0,0);
+            
+            
+            $this->SetXY(35,$line);
+            $this->rect(35,$line,115,6);
+            $this->SetXY(35,$text_ln);
+            $this->Cell(0,0,$invoiceObj->get_invoice_payment_type(),0,0,'L',0,0);
+
+            $this->SetXY(150,$line);
+            $this->rect(150,$line,20,6);
+            $this->SetXY(150,$text_ln);
+            $this->Cell(0,0,"$".sprintf("%01.2f",$invoiceObj->get_invoice_paid_amount()),0,0,'L',0,0);
+
+            $balance = $invoiceObj->get_invoice_total_amount() - $invoiceObj->get_invoice_paid_amount();
+            $this->SetXY(170,$line);
+            $this->rect(170,$line,20,6);
+            $this->SetXY(170,$text_ln);
+            $this->Cell(0,0,"$".sprintf("%01.2f",$balance),0,0,'L',0,0);
+
+
+        } else {
+            // No Payment
+            $this->Cell(0,0,'No Payment',0,0,'L',0,0);
+        }
+    
+
+        // memo
+        $line = $line + 24;
+        $this->SetXY(10,$line);
+        $this->MultiCell(0,0,$invoiceObj->get_invoice_memo());
+
+
+        // Barcode
+        
+        $this->SetXY(10,-30);
+        //$this->Image($invoiceObj->get_invoice_barcode(),0,0,0);
+		
+    }
+
+
+
+
+
+
+}
+
+class statement_pdf extends FPDF {
+
+    function Header() {
+
+	}
+
+
+    function print_statement($statementArray,$account_type,$account_type_id) {
+        global $core;
+
+        // Company
+        if($account_type == "company_id") {
+            require_once(CLASS_PATH."/core/company.class.php");
+            require_once(CLASS_PATH."/core/company_address.class.php");
+
+            $company_id = $account_type_id;
+            $companyObj = new company();
+            $company_addressObj = new company_address();
+
+            $companyObj->view_company($company_id);
+            $company_addressObj->load_by_company_id_and_type($company_id,'Service');
+
+        }
+
+        // User
+        if($account_type == 'user_id') {
+
+        }
+
+        $this->SetLeftMargin(10);
+		//Arial bold 15
+		$this->SetFont('Times','',8);
+		//Move to the right
+        $this->SetXY(10,20);
+       
+        $this->Cell(0,0,$companyObj->get_company_name(),0,0,'L');
+        $this->SetXY(10,24);
+        $this->Cell(0,0,$company_addressObj->get_company_street_1(),0,0,'L');
+        $this->SetXY(10,28);
+        $this->Cell(0,0,$company_addressObj->get_company_city() . " " .$company_addressObj->get_company_state().", ".$company_addressObj->get_company_postal_code() ,0,0,'L');
+        $this->SetXY(80,20);
+        $this->SetFont('Times','B',16);
+        $this->Cell(0,0,'Statements',0,0,'L',0,0);
+        
+
+		$this->SetLineWidth(.125);
+
+        $this->SetFillColor(225,225,225);
+        $this->rect(10,34,190,6,'F');
+
+        $this->rect(10,34,15,6);
+        $this->rect(25,34,15,6);
+        $this->rect(40,34,75,6);
+        $this->rect(115,34,10,6);
+        $this->rect(125,34,15,6);
+        $this->rect(140,34,15,6);
+        $this->rect(155,34,15,6);
+        $this->rect(170,34,15,6);
+        $this->rect(185,34,15,6);
+        
+
+
+        
+        $this->SetFont('Times','',8);
+        $this->SetXY(10,38);
+        $this->Cell(0,0,'Invoice',0,0,'L');
+        $this->SetXY(25,38);
+        $this->Cell(0,0,'Date',0,0,'L');
+        $this->SetXY(40,38);
+        $this->Cell(0,0,'Description',0,0,'L');
+        $this->SetXY(115,38);
+        $this->Cell(0,0,'QTY',0,0,'L');
+        $this->SetXY(125,38);
+        $this->Cell(0,0,'Amount',0,0,'L');
+        $this->SetXY(140,38);
+        $this->Cell(0,0,'Charge',0,0,'L');
+        $this->SetXY(155,38);
+        $this->Cell(0,0,'Payment',0,0,'L');
+        $this->SetXY(170,38);
+        $this->Cell(0,0,'Credit',0,0,'L');
+        $this->SetXY(185,38);
+        $this->Cell(0,0,'Balance',0,0,'L');
+
+
+        $line = 40;
+        $text = 44;
+        foreach($statementArray as $statement) {
+            $this->rect(10,$line,190,6);
+
+            $this->rect(10,$line,15,6);          
+            $this->rect(25,$line,15,6);
+            $this->rect(40,$line,75,6);
+            $this->rect(115,$line,10,6);
+            $this->rect(125,$line,15,6);
+            $this->rect(140,$line,15,6);
+            $this->rect(155,$line,15,6);
+            $this->rect(170,$line,15,6);
+            $this->rect(185,$line,15,6);
+
+            $this->SetXY(10,$text);
+            $this->Cell(0,0,$statement->get_invoice_id(),0,0,'L',0,0);
+            $this->SetXY(25,$text);
+            $this->Cell(0,0,date("m-d-Y",$statement->get_invoice_item_date()),0,0,'L',0,0);
+            $this->SetXY(40,$text);
+            $this->Cell(0,0,$statement->get_invoice_item_description(),0,0,'L',0,0);
+            $this->SetXY(115,$text);
+            $this->Cell(0,0,$statement->get_invoice_item_qty(),0,0,'L');
+            $this->SetXY(125,$text);
+            $this->Cell(0,0,"$".number_format($statement->get_invoice_item_amount(),2),0,0,'L');
+            $this->SetXY(140,$text);
+            if($statement->get_invoice_item_line_type() == 'Debit') {
+                 $this->Cell(0,0,"$".number_format($statement->get_invoice_item_subtotal(),2),0,0,'L');
+            }
+            $this->SetXY(155,$text);
+            if($statement->get_invoice_item_line_type() == 'Payment') {
+                $this->Cell(0,0,"$".number_format($statement->get_invoice_item_subtotal(),2),0,0,'L');
+            }
+            $this->SetXY(170,$text);
+            if($statement->get_invoice_item_line_type() == 'Credit') {
+                $this->Cell(0,0,"$".number_format($statement->get_invoice_item_subtotal(),2),0,0,'L');
+            }
+            $this->SetXY(185,$text);
+            if($statement->get_invoice_item_line_type() == 'Debit') {
+                $balance = $balance + $statement->get_invoice_item_subtotal();
+            } else {
+                $balance = $balance - $statement->get_invoice_item_subtotal();
+            }
+            $this->Cell(0,0,"$".number_format($balance,2),0,0,'L');
+
+            $text = $text + 6;
+            $line = $line + 6;
+        }
+       
+
+
+    }
+
+
+    //Page footer
+	function Footer() {
+		//Position at 1.5 cm from bottom				
+		$this->SetY(-20);
+		//Arial italic 8
+		$this->SetFont('Arial','I',8);
+		//Page number
+		$this->Cell(0,10,'Page '.$this->PageNo().'/{nb}',0,0,'C');
+	}
+
+}
+
+
+?>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/invoice_part"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="add_invoice_part.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="71b32ea4743a889ba0e87d3b61e3805d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.invoice_part.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7b8ac6b52b20f6d4e0c11508026adcc5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_invoice_part.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="48339bb78f5cef46c5975890d97b4644"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.invoice_part.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="120c018536992518ea02bf1d865ec09e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_invoice_part.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f11f4bb5a0e885c748e7ac95ec2276d0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_invoice_part.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6b016560385bf642fb2d0f00c4bf837e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_invoice_part.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="095d7f4cff29d3e8d9ad7a4a3e0ec3c0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+</wc-entries>

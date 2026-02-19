@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/operating_system_manufacture"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="add_operating_system_manufacture_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e329baaba303b100d6d5ddd963aad554"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_operating_system_manufacture.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c567058fca55f2049f74d21c7ae509ba"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="80"
+   name="search_operating_system_manufacture.tpl"
+   text-time="2007-10-29T15:05:03.000000Z"
+   committed-date="2007-10-30T15:12:08.207648Z"
+   checksum="acc92577aaff1c1b2f18a96fd1a504c1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"
+   revision="80"/>
+<entry
+   committed-rev="1"
+   name="update_operating_system_manufacture_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5c8cfd84b9291e9836f2bea609ae6211"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_operating_system_manufacture.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="179c42ab6970a7bce01f4777484d41cf"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

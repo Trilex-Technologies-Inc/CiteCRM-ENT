@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="tax_type">
+		<field name="tax_type_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="tax_type_text" type="C" size="60">
+			<NOTNULL/>
+		</field>
+		<field name="tax_type_active" type="I" size="3"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+	</table>
+</schema>

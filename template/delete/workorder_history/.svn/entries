@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/delete/workorder_history"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="delete_workorder_history.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7cc4f466e95dbf871b2924664ae43542"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_workorder_history.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="849d0dce9ea578a92732cf3c3c488edb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_workorder_history_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="41c5c0d9c6cbe3f41a744cc476e7ee17"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_workorder_history.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9e68478b6ac0634044c7f6db0ea8b46d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_workorder_history_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="22e1433644f9b20e12a3f1480bf08de8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+</wc-entries>

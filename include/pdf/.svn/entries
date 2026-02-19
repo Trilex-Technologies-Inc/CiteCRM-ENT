@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/pdf"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="htmltoolkit.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="71b16636f0e3939eecae655701c00735"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="license.txt"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3a35c588ec8a4071e5f764fb143452d4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="html2fpdf.php-org"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1ef99a7c4f789afab0f7444867c7fa18"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:19.000000Z"/>
+<entry
+   committed-rev="1"
+   name="PDF_Opt.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c8e1da69b717eaadaa6b186f31930747"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:19.000000Z"/>
+<entry
+   committed-rev="1"
+   name="fpdf.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c775674dbc25156812787a00fcdf7d5d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:19.000000Z"/>
+<entry
+   name="font"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="credits.txt"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bc62bf6db01e3f8862b38eaf5843b8d0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="gif.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8100e5a2acbc5938eb8c5201573210d7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="html2fpdf.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b5cbef7620d7441cf4482485cc6738ff"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="no_img.gif"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="de0627cd374c195504d5a91126a5ee3a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="source2doc.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e13069016c12a0e0e9c36e62412ba6b6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

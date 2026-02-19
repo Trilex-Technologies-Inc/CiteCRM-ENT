@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/delete/suspension"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="add_suspension_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1d89afff02bb5a6f870d3e46b43df7e2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_suspension.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e215a02233b4954be800634820786a11"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_suspension.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="69b7620da239037bbc4ef435edbf050b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_suspension_frm.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="458a8fc0f9149c9e834e1bbf257721c7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_suspension.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="52fecb49dc19992df18ef9c35aeb4514"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+</wc-entries>

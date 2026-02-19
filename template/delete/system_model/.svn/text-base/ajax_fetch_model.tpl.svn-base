@@ -1,0 +1,1 @@
+{html_select_system_model name="system_model" system_manufacture_id=$system_manufacture_id value=$system_model}

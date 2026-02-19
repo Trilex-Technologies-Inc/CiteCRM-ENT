@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/product_status"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="add_product_status.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="72c362450eeac3c6e1b267405106cd52"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.product_status.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fc8b7c617c73eaf755b6cbdec2b93096"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_product_status.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="81ee25932e365bcf94ebad9840657891"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.product_status.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="39de91ed7631adb947c5c6c9490fab7f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_product_status.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fe2be84d76ac8b56bcb50bb409aa85c2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_product_status.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="eaadfbead57c96e75f3921b4926e09dd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_product_status.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="13df59836da3c2a9a517a64876524455"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+</wc-entries>

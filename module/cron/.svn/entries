@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="49"
+   name=""
+   committed-date="2007-10-16T12:10:12.534845Z"
+   url="svn://localhost/citecrm/application/module/cron"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="83"
+   name="cron_credit_contracts.php"
+   text-time="2007-11-01T14:42:51.000000Z"
+   committed-date="2007-11-01T14:43:52.088700Z"
+   checksum="f785b915cf264009fffc3bc41b4cc50a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"
+   revision="83"/>
+<entry
+   committed-rev="1"
+   name="cron_create_contracts.php.job"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="49"
+   name="cron_create_contracts_log"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-16T12:10:12.534845Z"
+   checksum="9d163e1c12f97b0921cee1a426103947"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="crontab.txt"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6de62ebd2a817f8ac825d0171a4f6208"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cron_create_contracts.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="144f1ffabb0d13ab73a6c8604ea00844"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cron_credit_contracts.php.job"
+   text-time="2007-11-01T14:00:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cron.conf.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d22c4b82fd0ebf217896971cf34b5665"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pseudo-cron.inc.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3e15618308b71f45037f1effc811085e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="83"
+   name="cron_credit_contracts_log"
+   text-time="2007-11-01T14:41:11.000000Z"
+   committed-date="2007-11-01T14:43:52.088700Z"
+   checksum="80928a5728e13c04ff7884c7244abe72"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"
+   revision="83"/>
+<entry
+   committed-rev="83"
+   name="pseudo-cron.log"
+   text-time="2007-11-01T14:13:08.000000Z"
+   committed-date="2007-11-01T14:43:52.088700Z"
+   checksum="ec6cae22d5eddeaf6153287a774ab3c9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"
+   revision="83"/>
+</wc-entries>

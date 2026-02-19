@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="sessions">
+		<field name="sesskey" type="C" size="32">
+			<KEY/>
+		</field>
+		<field name="expiry" type="I" size="11">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="expireref" type="C" size="64"></field>
+		<field name="data" type="X"></field>
+		<index name="expiry">
+			<col>expiry</col>
+		</index>
+	</table>
+</schema>

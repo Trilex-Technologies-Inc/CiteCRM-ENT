@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/nusoap-0.7.2/lib"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="class.soap_server.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="cebd62b1db7279b8bcfa73879b1acb39"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="nusoapmime.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b234269525ef9fe8472d3b11d16f0253"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.wsdl.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="03d688636fbefb9b2fd51ec03947ac8b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.wsdlcache.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="48a39f3cf7fb4cdbba57f19fa73e5bfa"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.soap_transport_http.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="16c7ab43cc817260d110e797909d03c9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.soap_fault.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="df04268eb33e50dba96c3b8220b7c395"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="changelog"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="04d75f50d0418fd9bfe120a733dd6c7f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.soap_parser.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="517cef735bf8b6100cabcb2ef009ab81"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.nusoap_base.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7e452f12227bc1c113222c8a55e5d53c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.xmlschema.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4142ee072c9ba7c0573e7724a3288a5c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.soapclient.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5e8d35454515b73f772fdac1d33e148e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="nusoap.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c3021486354eff805418414599966e16"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="class.soap_val.php"
+   text-time="2007-10-25T13:55:47.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="be81df65e818ab00dc1c985c6a2a6dd7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+</wc-entries>

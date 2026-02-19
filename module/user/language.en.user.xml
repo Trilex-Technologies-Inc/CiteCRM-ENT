@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<language id="user">
+<user_id>User ID</user_id>
+<user_type_id>User Type</user_type_id>
+<user_admin>Admin</user_admin>
+<user_status>Status</user_status>
+<user_username>Username</user_username>
+<user_password>Password</user_password>
+<user_first_name>First Name</user_first_name>
+<user_last_name>Last Name</user_last_name>
+<user_email>Email</user_email>
+<user_create_date>Created</user_create_date>
+<user_activation_date>Activated</user_activation_date>
+<last_modified>Last Modified</last_modified>
+<verify_password>Verify Password</verify_password>
+<verify_email>Verify Email</verify_email>
+<activation_code>Activation Code</activation_code>
+<error_user_first_name>Please Enter Your First Name!</error_user_first_name>
+<error_user_last_name>Please Enter Your Last Name!</error_user_last_name>
+<error_user_username>Username Must Be Between 6 and 16 Characters!</error_user_username>
+<error_user_username_valid>The Username is already in Use!</error_user_username_valid>
+<error_user_password>Password MustBe Between 8 and 16 Characters!</error_user_password>
+<error_user_password_2>Passwords Do Not Match!</error_user_password_2>
+<error_user_email>Email Addresses Do Not Match!</error_user_email>
+<error_user_email_valid>This email Address has already been used!</error_user_email_valid>
+<error_address_street>Please Enter Your Address!</error_address_street>
+<error_address_city>Please Enter Your City!</error_address_city>
+<error_address_state>Please Enter Your State!</error_address_state>
+<error_address_postal_code>Please Enter Your Zip/Postal Code!</error_address_postal_code>
+<error_address_country>Please Enter Your Country!</error_address_country>
+<error_personal_phone>Please Enter Your Phone Number Numbers Only No Spaces!</error_personal_phone>
+<error_invalid_activation_code>Invalid Activation Code!</error_invalid_activation_code>
+<error_enter_your_password>Please Enteryour Password</error_enter_your_password>
+<personal_information>Personal Information</personal_information>
+<contact_information>Contact Information</contact_information>
+<address>Address</address>
+<sign_up>Sign Up</sign_up>
+<lost_password>Lost Password</lost_password>
+<please_login>Please Login</please_login>
+<please_login_in_to_view_your_account>Please login in to view your account.</please_login_in_to_view_your_account>
+<update_personal_information>Update Personal Information</update_personal_information>
+</language>

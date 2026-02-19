@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/crm_group"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="language.en.crm_group.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="624f3f29f1ffe4cbf1cf15a40ab0f9df"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_crm_group.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="36b33ce18fbb94b60a57acc471319d01"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_crm_group.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a277f351ad1d76c2694b814b56fe7c7e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_crm_group.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3362e9228860ab439130c5d23b061db8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.crm_group.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="043fa08b30ff11413d67d5b1f6a0a3b8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_crm_group.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a3c971798cba3b9017daa5fdb0c648a4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_crm_group.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dfb5e70b5138d5f0c5766520a0ae65f5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+</wc-entries>

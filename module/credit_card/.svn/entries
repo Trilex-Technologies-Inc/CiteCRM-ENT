@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2007-10-11T03:17:19.145990Z"
+   url="svn://localhost/citecrm/application/module/credit_card"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="schema.credit_card.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7fb2688a09c774f4f4e2444add3f54b2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_credit_card.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="be1968b16f60fc6db119b5d11c7c52c9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_credit_card.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4f6dda9488a328d3de040af543a57f7b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.credit_card.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f4f6f9d72f00b907a2a92afe30e34e8e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="39"
+   name="ajax_load_credit_card.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="18128b746c8b54e7bd09f761f1dc81cf"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="39"
+   name="update_credit_card.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="81596bade71d68951db965f3424145fd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_credit_card.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8ddd2867ebc5ed61e35a98a2e714871d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="39"
+   name="search_credit_card.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="fc88e7152ac692660d3900400f185e03"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+</wc-entries>

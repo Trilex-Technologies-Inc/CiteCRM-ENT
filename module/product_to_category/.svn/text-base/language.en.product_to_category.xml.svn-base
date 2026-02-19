@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<language id="product_to_category">
+
+<!-- Fields -->
+<field_product_id>Product ID</field_product_id>
+<field_category_id>Category ID</field_category_id>
+
+<!-- Error -->
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

@@ -1,0 +1,762 @@
+Cron: contract_credit Started at 12:53:02 06-22-2007
+Processing 5 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Starting Contract #1 for company 1
+Company #1 has 10 hours labor this month. Contract is for 10.00 hours labor
+Invoice  created for Company #1
+Credit 10.00 hours labor @ $75.00 per hour
+Company #1 has no support minutes this month, Jun Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has 3 hours labor this month. Contract is for 2.00 hours labor
+Invoice  created for Company #2
+Credit 2.00 hours labor @ $65.00 per hour
+Credit 5.25 support minutes @ 1.00 per minute
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has 5 hours labor this month. Contract is for 4.00 hours labor
+Invoice  created for Company #3
+Credit 4.00 hours labor @ $65.00 per hour
+Company #3 has no support minutes this month, Jun Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Jun Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Jun Skipping
+Completed Contract #5 for company 6
+Cron: contract_credit End at 12:53:07 06-22-2007
+Cron: contract_credit Started at 23:12:11 07-15-2007
+Processing 7 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has  hours labor this month. Contract is for 2.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Jul Skipping
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has  hours labor this month. Contract is for 4.00 hours labor
+Company #3 has no time to Credit, skipping
+Company #3 has no support minutes this month, Jul Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Jul Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Jul Skipping
+Completed Contract #5 for company 6
+Starting Contract #6 for company 4
+Company #4 has  hours labor this month. Contract is for 2.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Jul Skipping
+Completed Contract #6 for company 4
+Starting Contract #7 for company 8
+Company #8 has  hours labor this month. Contract is for 2.00 hours labor
+Company #8 has no time to Credit, skipping
+Company #8 has no support minutes this month, Jul Skipping
+Completed Contract #7 for company 8
+Cron: contract_credit End at 23:12:11 07-15-2007
+Cron: contract_credit Started at 23:12:04 08-15-2007
+Processing 7 contracts for 00:00:00 08-01-2007 to 23:59:59 08-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Aug Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has  hours labor this month. Contract is for 2.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Aug Skipping
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has  hours labor this month. Contract is for 4.00 hours labor
+Company #3 has no time to Credit, skipping
+Company #3 has no support minutes this month, Aug Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Aug Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Aug Skipping
+Completed Contract #5 for company 6
+Starting Contract #6 for company 4
+Company #4 has  hours labor this month. Contract is for 2.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Aug Skipping
+Completed Contract #6 for company 4
+Starting Contract #7 for company 8
+Company #8 has  hours labor this month. Contract is for 2.00 hours labor
+Company #8 has no time to Credit, skipping
+Company #8 has no support minutes this month, Aug Skipping
+Completed Contract #7 for company 8
+Cron: contract_credit End at 23:12:04 08-15-2007
+Cron: contract_credit Started at 23:12:03 09-16-2007
+Processing 8 contracts for 00:00:00 09-01-2007 to 23:59:59 09-30-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Sep Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has  hours labor this month. Contract is for 2.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Sep Skipping
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has  hours labor this month. Contract is for 2.00 hours labor
+Company #3 has no time to Credit, skipping
+Company #3 has no support minutes this month, Sep Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 4
+Company #4 has  hours labor this month. Contract is for 2.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Sep Skipping
+Completed Contract #4 for company 4
+Starting Contract #5 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Sep Skipping
+Completed Contract #5 for company 5
+Starting Contract #6 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Sep Skipping
+Completed Contract #6 for company 6
+Starting Contract #7 for company 7
+Company #7 has  hours labor this month. Contract is for 2.00 hours labor
+Company #7 has no time to Credit, skipping
+Company #7 has no support minutes this month, Sep Skipping
+Completed Contract #7 for company 7
+Starting Contract #8 for company 8
+Company #8 has  hours labor this month. Contract is for 2.00 hours labor
+Company #8 has no time to Credit, skipping
+Company #8 has no support minutes this month, Sep Skipping
+Completed Contract #8 for company 8
+Cron: contract_credit End at 23:12:03 09-16-2007
+Cron: contract_credit Started at 23:12:02 10-16-2007
+Processing 8 contracts for 00:00:00 10-01-2007 to 23:59:59 10-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Oct Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has  hours labor this month. Contract is for 2.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Oct Skipping
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has  hours labor this month. Contract is for 2.00 hours labor
+Company #3 has no time to Credit, skipping
+Company #3 has no support minutes this month, Oct Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 4
+Company #4 has  hours labor this month. Contract is for 2.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Oct Skipping
+Completed Contract #4 for company 4
+Starting Contract #5 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Oct Skipping
+Completed Contract #5 for company 5
+Starting Contract #6 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Oct Skipping
+Completed Contract #6 for company 6
+Starting Contract #7 for company 7
+Company #7 has  hours labor this month. Contract is for 2.00 hours labor
+Company #7 has no time to Credit, skipping
+Company #7 has no support minutes this month, Oct Skipping
+Completed Contract #7 for company 7
+Starting Contract #8 for company 8
+Company #8 has  hours labor this month. Contract is for 2.00 hours labor
+Company #8 has no time to Credit, skipping
+Company #8 has no support minutes this month, Oct Skipping
+Completed Contract #8 for company 8
+Cron: contract_credit End at 23:12:02 10-16-2007
+Cron: contract_credit Started at 23:12:04 11-16-2007
+Processing 8 contracts for 00:00:00 11-01-2007 to 23:59:59 11-30-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Nov Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has  hours labor this month. Contract is for 2.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Nov Skipping
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has  hours labor this month. Contract is for 2.00 hours labor
+Company #3 has no time to Credit, skipping
+Company #3 has no support minutes this month, Nov Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 4
+Company #4 has  hours labor this month. Contract is for 2.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Nov Skipping
+Completed Contract #4 for company 4
+Starting Contract #5 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Nov Skipping
+Completed Contract #5 for company 5
+Starting Contract #6 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Nov Skipping
+Completed Contract #6 for company 6
+Starting Contract #7 for company 7
+Company #7 has  hours labor this month. Contract is for 2.00 hours labor
+Company #7 has no time to Credit, skipping
+Company #7 has no support minutes this month, Nov Skipping
+Completed Contract #7 for company 7
+Starting Contract #8 for company 8
+Company #8 has  hours labor this month. Contract is for 2.00 hours labor
+Company #8 has no time to Credit, skipping
+Company #8 has no support minutes this month, Nov Skipping
+Completed Contract #8 for company 8
+Cron: contract_credit End at 23:12:04 11-16-2007
+Cron: contract_credit Started at 23:12:04 12-16-2007
+Processing 8 contracts for 00:00:00 12-01-2007 to 23:59:59 12-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Dec Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has  hours labor this month. Contract is for 2.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Dec Skipping
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has  hours labor this month. Contract is for 2.00 hours labor
+Company #3 has no time to Credit, skipping
+Company #3 has no support minutes this month, Dec Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 4
+Company #4 has  hours labor this month. Contract is for 2.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Dec Skipping
+Completed Contract #4 for company 4
+Starting Contract #5 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Dec Skipping
+Completed Contract #5 for company 5
+Starting Contract #6 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Dec Skipping
+Completed Contract #6 for company 6
+Starting Contract #7 for company 7
+Company #7 has  hours labor this month. Contract is for 2.00 hours labor
+Company #7 has no time to Credit, skipping
+Company #7 has no support minutes this month, Dec Skipping
+Completed Contract #7 for company 7
+Starting Contract #8 for company 8
+Company #8 has  hours labor this month. Contract is for 2.00 hours labor
+Company #8 has no time to Credit, skipping
+Company #8 has no support minutes this month, Dec Skipping
+Completed Contract #8 for company 8
+Cron: contract_credit End at 23:12:04 12-16-2007
+Cron: contract_credit Started at 23:13:41 06-22-2007
+Processing 8 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jun Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 2
+Company #2 has  hours labor this month. Contract is for 2.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Jun Skipping
+Completed Contract #2 for company 2
+Starting Contract #3 for company 3
+Company #3 has  hours labor this month. Contract is for 2.00 hours labor
+Company #3 has no time to Credit, skipping
+Company #3 has no support minutes this month, Jun Skipping
+Completed Contract #3 for company 3
+Starting Contract #4 for company 4
+Company #4 has  hours labor this month. Contract is for 2.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Jun Skipping
+Completed Contract #4 for company 4
+Starting Contract #5 for company 5
+Company #5 has  hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Jun Skipping
+Completed Contract #5 for company 5
+Starting Contract #6 for company 6
+Company #6 has  hours labor this month. Contract is for 2.00 hours labor
+Company #6 has no time to Credit, skipping
+Company #6 has no support minutes this month, Jun Skipping
+Completed Contract #6 for company 6
+Starting Contract #7 for company 7
+Company #7 has  hours labor this month. Contract is for 2.00 hours labor
+Company #7 has no time to Credit, skipping
+Company #7 has no support minutes this month, Jun Skipping
+Completed Contract #7 for company 7
+Starting Contract #8 for company 8
+Company #8 has  hours labor this month. Contract is for 2.00 hours labor
+Company #8 has no time to Credit, skipping
+Company #8 has no support minutes this month, Jun Skipping
+Completed Contract #8 for company 8
+Cron: contract_credit End at 23:13:41 06-22-2007
+Cron: contract_credit Started at 00:29:15 07-22-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:29:15 07-22-2007
+Cron: contract_credit Started at 00:34:42 06-23-2007
+Processing 0 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Cron: contract_credit End at 00:34:42 06-23-2007
+Cron: contract_credit Started at 00:34:03 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:34:03 07-02-2007
+Cron: contract_credit Started at 00:35:31 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:35:31 07-02-2007
+Cron: contract_credit Started at 00:38:40 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:38:40 07-02-2007
+Cron: contract_credit Started at 00:38:54 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:38:54 07-02-2007
+Cron: contract_credit Started at 00:38:55 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:38:55 07-02-2007
+Cron: contract_credit Started at 00:38:59 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:38:59 07-02-2007
+Cron: contract_credit Started at 00:41:04 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:41:04 07-02-2007
+Cron: contract_credit Started at 00:50:14 06-23-2007
+Processing 1 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Starting Contract #1 for company 1
+Company #1 has 2 hours labor this month. Contract is for 2.00 hours labor
+Invoice  created for Company #1
+Credit 2.00 hours labor @ $65.00 per hour
+Company #1 has no support minutes this month, Jun Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:50:14 06-23-2007
+Cron: contract_credit Started at 00:50:50 06-23-2007
+Processing 1 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Starting Contract #1 for company 1
+Company #1 has 2 hours labor this month. Contract is for 2.00 hours labor
+Invoice  created for Company #1
+Credit 2.00 hours labor @ $65.00 per hour
+Company #1 has no support minutes this month, Jun Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:50:50 06-23-2007
+Cron: contract_credit Started at 00:56:51 06-23-2007
+Processing 1 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Starting Contract #1 for company 1
+Company #1 has  hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jun Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:56:51 06-23-2007
+Cron: contract_credit Started at 01:03:34 06-23-2007
+Processing 1 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jun Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 01:03:34 06-23-2007
+Cron: contract_credit Started at 00:50:58 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:50:58 07-02-2007
+Cron: contract_credit Started at 00:52:15 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:52:15 07-02-2007
+Cron: contract_credit Started at 00:52:39 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:52:39 07-02-2007
+Cron: contract_credit Started at 00:55:35 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has 2 hours labor this month. Contract is for 2.00 hours labor
+Invoice  created for Company #1
+Credit 2.00 hours labor @ $65.00 per hour
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 00:55:35 07-02-2007
+Cron: contract_credit Started at 01:28:05 06-23-2007
+Processing 1 contracts for 00:00:00 06-01-2007 to 23:59:59 06-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor this month. Contract is for 2.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Jun Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 01:28:05 06-23-2007
+Cron: contract_credit Started at 14:35:25 07-02-2007
+Processing 1 contracts for 00:00:00 07-01-2007 to 23:59:59 07-31-2007
+Starting Contract #1 for company 1
+Company #1 has 1 hours labor this month. Contract is for 2.00 hours labor
+Invoice  created for Company #1
+Credit 1 hours labor @ $65.00 per hour
+Company #1 has no support minutes this month, Jul Skipping
+Completed Contract #1 for company 1
+Cron: contract_credit End at 14:35:26 07-02-2007
+Cron: contract_credit Started at 21:34:53 10-12-2007
+Processing 4 contracts for 00:00:00 10-01-2007 to 23:59:59 10-31-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor this month. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Invoice #14 created for Company #1
+Credit 1 support minutes @ 1.00 per minute
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor this month. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Credit 20.00 support minutes @ 0.50 per minute
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor this month. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Credit 1 support minutes @ 0.50 per minute
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Oct Skipping
+Completed Contract #4 for company 5
+Cron: contract_credit End at 21:34:54 10-12-2007Cron: contract_credit Started at 07:14:01 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor this month. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Nov Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor this month. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Nov Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor this month. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Nov Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor this month. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Nov Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor this month. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, Nov Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor this month. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, Nov Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:14:01 11-01-2007
+Cron: contract_credit Started at 07:19:42 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Nov Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Nov Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Nov Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Nov Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, Nov Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, Nov Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:19:42 11-01-2007
+Cron: contract_credit Started at 07:22:37 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Nov Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Nov Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Nov Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Nov Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, Nov Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, Nov Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:22:37 11-01-2007
+Cron: contract_credit Started at 07:23:48 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Nov Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Nov Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Nov Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Nov Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, Nov Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, Nov Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:23:48 11-01-2007
+Cron: contract_credit Started at 07:33:22 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, Nov Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Nov Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Nov Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Nov Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, Nov Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, Nov Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:33:22 11-01-2007
+Cron: contract_credit Started at 07:36:26 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 7 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 10.00 hours labor
+Invoice  created for Company #1
+Credit 7 hours labor @ $75.00 per hour
+Company #1 has no support minutes this month, Nov Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, Nov Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, Nov Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, Nov Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, Nov Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, Nov Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:36:26 11-01-2007
+Cron: contract_credit Started at 07:38:01 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 10.00 hours labor
+Company #1 has no time to Credit, skipping
+Company #1 has no support minutes this month, -1 Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, -1 Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, -1 Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, -1 Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, -1 Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, -1 Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:38:01 11-01-2007
+Cron: contract_credit Started at 07:41:11 11-01-2007
+Processing 6 contracts for 00:00:00 10-01-2007 to 23:59:59 10-30-2007
+Starting Contract #1 for company 1
+Company #1 has 7 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 10.00 hours labor
+Invoice  created for Company #1
+Credit 7 hours labor @ $75.00 per hour
+Company #1 has no support minutes this month, -1 Skipping
+Completed Contract #1 for company 1
+Starting Contract #2 for company 4
+Company #4 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #4 has no time to Credit, skipping
+Company #4 has no support minutes this month, -1 Skipping
+Completed Contract #2 for company 4
+Starting Contract #3 for company 2
+Company #2 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #2 has no time to Credit, skipping
+Company #2 has no support minutes this month, -1 Skipping
+Completed Contract #3 for company 2
+Starting Contract #4 for company 5
+Company #5 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 2.00 hours labor
+Company #5 has no time to Credit, skipping
+Company #5 has no support minutes this month, -1 Skipping
+Completed Contract #4 for company 5
+Starting Contract #5 for company 12
+Company #12 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #12 has no time to Credit, skipping
+Company #12 has no support minutes this month, -1 Skipping
+Completed Contract #5 for company 12
+Starting Contract #6 for company 14
+Company #14 has 0 hours labor for 00:00:00 10-01-2007 to 00:00:00 10-30-2007. Contract is for 1.00 hours labor
+Company #14 has no time to Credit, skipping
+Company #14 has no support minutes this month, -1 Skipping
+Completed Contract #6 for company 14
+Cron: contract_credit End at 07:41:11 11-01-2007

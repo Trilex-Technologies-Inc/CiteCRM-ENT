@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="51"
+   name=""
+   committed-date="2007-10-17T04:49:59.413749Z"
+   url="svn://localhost/citecrm/application/module/lead_email"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="delete_lead_email.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="72032d1f54018f6be572c8556ec8e8e0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_lead_email.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1f78e1cf9504bfe1751085470824847a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_lead_email.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4ba52076bc3fd1f1b07c7997f49ad20f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.lead_email.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="54f60f85a25089af95bd4a5eaa2ab7d3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="51"
+   name="add_lead_email.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="edd56dbfd78e5facd77eaf784400565f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_lead_email.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="04a95227cb8ca1a5ed136d2122e3ae5d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.lead_email.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="efff8efc0ffe566e8efaf745f630c624"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+</wc-entries>

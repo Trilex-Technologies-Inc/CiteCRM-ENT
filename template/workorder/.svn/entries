@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="68"
+   name=""
+   committed-date="2007-10-25T03:21:56.289261Z"
+   url="svn://localhost/citecrm/application/template/workorder"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="ajax_view_workorder_notes.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5e889d008fc146b0b3449cffeb299d0b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_on_hold.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ce49469c3ff06b90f3c4569da58128f0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="38"
+   name="ajax_view_workorder_time.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="49dbeaf6d735bf10152cc5cc2dc42e57"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_assign_tech.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="18e7b30cfbc60427b81054784a5bd880"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="loadAjaxSubCategory.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3b0ddbf4c448e28c118b0d5a2b9a4077"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_workorder_info.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="437ee48145931a1c5492c4830f6734c5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="41"
+   name="ajax_view_service.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-12T12:14:05.641101Z"
+   checksum="4fe49214cc4598edc8ac1e81a94a3b4d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="56"
+   name="search_workorder.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="7550535b7ff77c5dba0d608a08bf4980"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_add_new_product.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d62fd087a311619b6f157ba35af5ab74"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="workorder_totals.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b7e94b6f2411c7f97801eb19fb43a630"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="68"
+   name="ajax_set_schedul.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-25T03:21:56.289261Z"
+   checksum="552b98a958e0d999c11f2d846110fda0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="56"
+   name="ajax_search_workorder.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="39a9153852f21dde4e9ca92cc11479b8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="80"
+   name="view_workorder.tpl"
+   text-time="2007-10-30T13:43:10.000000Z"
+   committed-date="2007-10-30T15:12:08.207648Z"
+   checksum="540b73842d338467f2e7f10bf8a9e7b8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"
+   revision="80"/>
+<entry
+   committed-rev="22"
+   name="ajax_load_workorder_by_employee.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-06T17:54:32.405751Z"
+   checksum="3aa1e176699a1a146ee144e3dbea9a9e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_by_system.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3731ab278c7368736680c399d7b6612c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_schedual.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8e21231e2a3be2dab523b1902924004e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="print_workorder_pdf.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5508479d8443dba0284d52eb67bde4ae"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_workorder_frm.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9a5b923fa180332fc5966c17036d45b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="print_workorder.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6679bd627f760226750da6f3d5031ee1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_workorder_frm.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="17c47b27bcef2292bd20d617c134af0b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_suspended.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c5da8011ebfb46d219c7abad937dccfa"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="38"
+   name="ajax_view_workorder_products.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="1eb635a2b1cfe6d7f947c9f9dbc0f61d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_add_system_to_workorder.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a494b24c8ee9166da51b45393951a9d3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_workorder.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="19ad4519963b5723740523f68a92e000"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_by_company.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4f7b1218d56766e0d854dcec60d2cc0e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_completed_workorder_by_employee.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3a8ac0cbd8dd360719086d6837a31f1e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_product.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f0651ad2135597207938fb5d1ca8f95a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_awating_parts.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="699f7fff2e1fb312d339e06742385fa6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_add_workorder_time.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="98302475b9bbf9db5cbbfdf8d8b7d641"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="41"
+   name="ajax_add_workorder_service.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-12T12:14:05.641101Z"
+   checksum="470eab3b2d30b99a2954ba5a0a4f798d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_workorder_box.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="376b8919be09026a6869235cd55b51d8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_view_workorder_system.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f66d1c6f212def781b0118897b41b3fa"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="41"
+   name="ajax_completed.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-12T12:14:05.641101Z"
+   checksum="24f3b1d06e90e36859e300cf920cfb0b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="37"
+   name="ajax_search_box.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-10T13:01:15.027469Z"
+   checksum="6957b37349fc48dbbae980eb276a0edc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_view_workorder_comments.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="455e421abebb51d2f457515fe344d026"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+</wc-entries>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<language id="user_address">
+	
+	<!-- Fields -->
+	<field_address>Address</field_address>
+	<field_address_type>Address Type</field_address_type>
+	<field_address_street>Street</field_address_street>
+	<field_address_street_2>Street 2</field_address_street_2>
+	<field_address_city>City</field_address_city>
+	<field_address_state>State / Prov</field_address_state>
+	<field_address_postal_code>Postal Code</field_address_postal_code>
+	<field_address_country>Country</field_address_country>
+	
+	<!-- Errors -->
+	<error_address_type>Please Select An Address Type!</error_address_type>
+	<error_address_street>Please Enter Your Address!</error_address_street>
+	<error_address_street_2>Please Enter Your Second Address!</error_address_street_2>
+	<error_address_city>Please Enter Your City!</error_address_city>
+	<error_address_state>Please Enter Your State!</error_address_state>
+	<error_address_postal_code>Please Enter Your Zip/Postal Code!</error_address_postal_code>
+	<error_address_country>Please Enter Your Country!</error_address_country>
+	
+</language>
+

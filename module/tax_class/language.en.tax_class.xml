@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<language id="tax_class">
+
+<!-- Fields -->
+<field_tax_class_title>Name</field_tax_class_title>
+<field_tax_class_description>Description</field_tax_class_description>
+<field_tax_type>Type</field_tax_type>
+<field_tax_class_active>Active</field_tax_class_active>
+
+<!-- Error -->
+<error_notEmpty_tax_class_title>The field Name must not be empty</error_notEmpty_tax_class_title>
+<error_notEmpty_tax_class_description>The field Description must not be empty</error_notEmpty_tax_class_description>
+<error_notEmpty_tax_type>The field Type must not be empty</error_notEmpty_tax_type>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

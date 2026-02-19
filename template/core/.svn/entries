@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="68"
+   name=""
+   committed-date="2007-10-25T03:21:56.289261Z"
+   url="svn://localhost/citecrm/application/template/core"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="topNavigation.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6d27143093f6a4b8792acfaab12ee834"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="57"
+   name="configure_crm.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-18T04:54:04.027458Z"
+   checksum="9a6484ccb1b84e3b7a30e093b74dbed1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="50"
+   name="configure_smtp.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-16T12:57:08.279905Z"
+   checksum="1ddfc5698c087bddd27470fea775271e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="54"
+   name="main.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-17T05:06:01.668038Z"
+   checksum="a4413a6bcc144558bdc12af2aa6ffb43"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="help.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0e1ba4d496d07011a04c61ae37a7c7ea"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="37"
+   name="header.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-10T13:01:15.027469Z"
+   checksum="a313fdf3b7285f045ead9e51c067c74d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="68"
+   name="left.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-25T03:21:56.289261Z"
+   checksum="4a165afb6656eef7b057c11a4ec3b7bc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="footer.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e7094a0e39286bd6366d6c73d9ac7b95"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="67"
+   name="tool_bar.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-23T21:53:55.531180Z"
+   checksum="74389e1a8333625eb8e07a4b51148d5c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="52"
+   name="configure_logo.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-17T04:56:16.094966Z"
+   checksum="12f5e0a3da47522bef1f8c0b884ce547"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="topTitle.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d865fa0d87a7cda185a81d7635d15533"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   name="Delete"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="help_contents.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="738bba0966ba189f6f2e35c657fff33b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="56"
+   name="configure_company_address.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="3375a6150018c149cda69e77fc5c05de"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="60"
+   name="map.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-19T15:08:51.439311Z"
+   checksum="eeb9a875d813d255f1e392d4261a27a2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+</wc-entries>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/user_to_company"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="search_user_to_company.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d4e0c49c4d08570fcfe61812c97f576e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_user_to_company.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7904776986990bbc247ccce6d2f22cae"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.user_to_company.xml"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f4514a2965a6095b4af165149bc4e1ba"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_user_to_company.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="eb234c619c4eec7463cf9901d8f64151"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_users.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b5774823c97dd394891f9f1fd5c88371"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_user_to_company.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e758a1b1bfdb863e3c1fcdeefcd7d651"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_user_to_company.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a012dda0075809bbde02b1e33814891b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+</wc-entries>

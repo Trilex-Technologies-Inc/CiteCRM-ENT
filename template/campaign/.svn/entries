@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2007-10-17T14:33:02.726800Z"
+   url="svn://localhost/citecrm/application/template/campaign"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="delete_campaign.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ac709d7ebe9dccdfb729e13676320b07"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="search_campaign.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="0a5f5b4013ff3fc8995a5244eef1f513"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="51"
+   name="ajax_load_lead_by_status.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="57c2bba2c7a4a67b869bdabc108f160c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_campaign_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f34cb6ddaeb796e0be1f2fb26bb53f81"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ajax_load_campaign_details.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="029fe7a799d07e6a70873fcc5f12db1d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="51"
+   name="view_campaign.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="d699f5131b8a0e00adee1e9fd607d27d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ajax_load_analytics.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="2803f57ceca6aa770e36c0c0cc55452c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="55"
+   name="add_campaign_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="40b6917556fc9dfd2b47f7895f4c5bc6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="51"
+   name="ajax_load_lead_converted.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="b211621f08dfd2cb9ea6e93f820e4e5d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

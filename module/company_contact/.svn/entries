@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/company_contact"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="add_company_contact.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="df9c866381e6894cd46c25f00aef34d7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.company_contact.xml"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9f0c85864d52dfbf80f9b708920d168d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_company_contact.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="70acfaf01de7ba25f02c76d85fad4a40"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_company_contact.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f1ffb37adfa9e3a7b025ac72c82ad773"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_company_contact.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fcd0cee28e147aaad28a4eb1ee52f022"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_company_contact.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c9022eb019a31552aea0888047b4ec19"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+</wc-entries>

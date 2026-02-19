@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="68"
+   name=""
+   committed-date="2007-10-25T03:21:56.289261Z"
+   url="svn://localhost/citecrm/application/classes"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   name="core"
+   kind="dir"/>
+<entry
+   name="getter"
+   kind="dir"/>
+</wc-entries>

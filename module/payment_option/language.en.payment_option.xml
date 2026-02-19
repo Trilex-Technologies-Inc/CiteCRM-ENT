@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<language id="payment_option">
+
+<!-- Fields -->
+<field_payment_option_text>Payment Type</field_payment_option_text>
+<field_payment_option_active>Active</field_payment_option_active>
+<field_payment_option_order>Order</field_payment_option_order>
+
+<!-- Error -->
+<error_notEmpty_payment_option_text>The field Payment Type must not be empty</error_notEmpty_payment_option_text>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

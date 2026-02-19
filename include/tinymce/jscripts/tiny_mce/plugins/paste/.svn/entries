@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/plugins/paste"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="editor_plugin.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5758ae47cb0eb2dd65d3213db44b3712"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pasteword.htm"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c5e287e22909f9945c1bf65ceb7e66aa"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   name="jscripts"
+   kind="dir"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="editor_plugin_src.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="42b02d2f12646391eecc69e037d5287a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="pastetext.htm"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4895645731e0148b7e730eff6b78a4e0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="readme.txt"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fe81b122bcf0e8599bb841cca33f967a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="blank.htm"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c071fad481334f6b06d4bb55bc76c2fe"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+</wc-entries>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/user_contact"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="admin_new_user_contact.php"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ac8f7fbe582428b6bc1a6b55aca4f262"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="user_delete_contact.php"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dd49b4a059d2b45963409b519debafbe"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="user_update_contact.php"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a79f9b8880a89c12da43bb477d1d4e53"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="user_new_contact.php"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c8884a75862977530b7d622fe4defb6e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="admin_update_user_contact.php"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c74927bac8809fb65c43d20466e60da2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="admin_delete_user_contact.php"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9f1e740266fb5bb7ecee021a7df1aa89"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.contact.xml"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9ba4dc784e88382d95c3d4d721de394c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.user_contact.xml"
+   text-time="2007-10-25T13:55:24.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5b3eb3ff3b946a1b9a256024812ec9c4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+</wc-entries>

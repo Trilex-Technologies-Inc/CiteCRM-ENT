@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="lead_call">
+		<field name="lead_call_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="lead_id" type="I" size="20"></field>
+		<field name="lead_call_subject" type="C" size="128">
+			<NOTNULL/>
+		</field>
+		<field name="lead_call_text" type="X">
+			<NOTNULL/>
+		</field>
+		<field name="lead_call_date" type="I" size="20"></field>
+		<field name="lead_call_duration" type="I" size="20"></field>
+		<field name="lead_call_by" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+	</table>
+</schema>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/module_method"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="add_module_method_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="439f377dab6ffdb0dbc97d9b17d5db38"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_module_method.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="66ad7cb15e48703080bbf9f63659efa0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_module_method.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4e38bebe5189b204967be5a7c88f811c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_module_method_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="80884c1d9a6e20880e69508529c3da25"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_module_method.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9f013943d44564ee2a578322f4bce607"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

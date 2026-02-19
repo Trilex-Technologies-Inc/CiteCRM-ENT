@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56"
+   name=""
+   committed-date="2007-10-18T04:51:39.708533Z"
+   url="svn://localhost/citecrm/application/module/invoice"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_payment_options.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="db0fd48544cf3c381e16ddb3256f3e48"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_line_items.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8c876911d1460eaa0ff1b92d97678cae"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="proc_workorder_payment.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5985e0d8c368d72f143d12c36da9873c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="957fae95da709e0f8d24c3cb6c398746"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="new_cc.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3b298dae3769127ddeddcdc08c1c28ec"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_by_company.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d8c2829cc7fed32011d68484fc0b15e7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="create.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e7543411616463d8fc9763c8854272fb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8f504683c05634f9930fa1af91b4d506"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="38"
+   name="ajax_new_payment_options.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="cb74c83b57cef97e054c542adb422b1b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.invoice.xml"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d7fbf2003a95ef42f398d08a113a3045"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="new_invocie.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="966ae23ca3b3c28526945a3c6d7eefb0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="38"
+   name="new_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="1076414d7793efdd0059a817ec27dffe"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="38"
+   name="ajax_select_payment_option.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="af36b7db79030937aeaf5e9df0873fd6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_paid_by_user.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="178894c02339df90f0a088bcf21758cd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="56"
+   name="print_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="423486fd8b3e08ed95f4d976a7ae1082"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="proc_cc.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a24678dda15acf80d049058eb9f6d4c5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_unpaid_by_user.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b7579df96afddf7a59bd34d42c3ea874"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d57b05b58b3c7b148408a3ce625e7c43"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="38"
+   name="ajax_record_payment.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="275744187813cbaf4c23313308821d62"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_payment.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6fd76d12bb92b3d963b76f8a72babcdd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="56"
+   name="print_statement.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="c6bad70fcb5e01dd97e520b44de694cd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="af33af5df9c55e77567c6112971638a3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_new_line_item.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4c36bb0fdbf6da755a2658d3286e61d7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:24.000000Z"/>
+<entry
+   committed-rev="38"
+   name="ajax_search_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="6da36b61533236a13c44bfb0a783124d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:25.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_invoice.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="02321c06cc3733faec128b0f32de75f2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:25.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_details.php"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b699eef1a8a54340819e1e2992019db8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:25.000000Z"/>
+<entry
+   committed-rev="38"
+   name="language.en.invoice.xml"
+   text-time="2007-10-25T13:55:25.000000Z"
+   committed-date="2007-10-11T01:22:53.754732Z"
+   checksum="8908a09432e322424ee16ea5dbbccdb2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:25.000000Z"/>
+</wc-entries>

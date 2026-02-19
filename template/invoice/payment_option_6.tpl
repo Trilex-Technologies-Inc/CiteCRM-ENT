@@ -1,0 +1,1 @@
+<!-- payment_option_6.tpl -->

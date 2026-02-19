@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<language id="file">
+
+<!-- Fields -->
+<field_file_type>File Type</field_file_type>
+<field_file_type_id>File Type ID</field_file_type_id>
+<field_file_size>Size</field_file_size>
+<field_file_name>Name</field_file_name>
+<field_file_ext>Exstension</field_file_ext>
+<field_file_create_date>Created</field_file_create_date>
+<field_file_upload_by>Uploaded By</field_file_upload_by>
+<field_file_active>Active</field_file_active>
+<field_file_mime_type>Mime Type</field_file_mime_type>
+<field_file_path>File Path</field_file_path>
+
+<!-- Error -->
+<error_notEmpty_file_type>The field File Type must not be empty</error_notEmpty_file_type>
+<error_notEmpty_file_type_id>The field File Type ID must not be empty</error_notEmpty_file_type_id>
+<error_notEmpty_file_name>The field Name must not be empty</error_notEmpty_file_name>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

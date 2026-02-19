@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<language id="lead_email">
+
+<!-- Fields -->
+<field_lead_id>Lead ID</field_lead_id>
+<field_mail_id>Mail ID</field_mail_id>
+<field_lead_mail_sent_by>Sent By</field_lead_mail_sent_by>
+<field_lead_mail_date_sent>Date Sent</field_lead_mail_date_sent>
+
+<!-- Error -->
+<error_notEmpty_lead_id>The field Lead ID must not be empty</error_notEmpty_lead_id>
+<error_notEmpty_mail_id>The field Mail ID must not be empty</error_notEmpty_mail_id>
+<error_notEmpty_lead_mail_sent_by>The field Sent By must not be empty</error_notEmpty_lead_mail_sent_by>
+<error_notEmpty_lead_mail_date_sent>The field Date Sent must not be empty</error_notEmpty_lead_mail_date_sent>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

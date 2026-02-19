@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="operating_system_manufacture">
+		<field name="operating_system_manufacture_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="operating_system_manufacture_name" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="operating_system_manufacture_website" type="C" size="100"></field>
+		<field name="operating_system_manufacture_active" type="I" size="4">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+	</table>
+</schema>

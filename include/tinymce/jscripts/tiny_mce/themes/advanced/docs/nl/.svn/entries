@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/themes/advanced/docs/nl"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="insert_anchor_button.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e027baa5153720a75df0b29f1a8682fb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="about.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b0383963ea42611800eecaa491c3f5f5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_link_button.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dbb479bb17ebc791eb841d92bba9403d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="style.css"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4b4ec579910d7529a1dc4061dcd1a67a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_image_button.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dfaed8ca25290e41e4449d4d644dd63a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="common_buttons.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a7ad4079ccc64170a465f8cc6c181149"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_table_button.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d8be74fceb2abe50889cd3ddb9908175"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ecb1ff81143f0cb8102f8ea07282d42a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_specchar_button.htm"
+   text-time="2007-10-25T13:55:17.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="cde45a83667ed48874ae99860f861b4a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:17.000000Z"/>
+</wc-entries>

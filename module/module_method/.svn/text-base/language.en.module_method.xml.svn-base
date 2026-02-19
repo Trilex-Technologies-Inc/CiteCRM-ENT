@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<language id="module">
+
+<!-- fields -->
+<field_module_method_id>Method ID</field_module_method_id>
+<field_module_id>Module ID</field_module_id>
+<field_module_method_name>Location</field_module_method_name>
+<field_module_method_translate>Method Name</field_module_method_translate>
+<field_module_method_admin_menu></field_module_method_admin_menu>
+<field_module_method_user_menu></field_module_method_user_menu>
+<field_module_method_public_menu></field_module_method_public_menu>
+<field_last_modified></field_last_modified>
+	
+<!-- Error -->
+	
+	
+<!-- Text -->
+<text_methods>Methods</text_methods>
+<text_page_setup>Page Setup</text_page_setup>
+<text_no_methods_defined>No methods defined</text_no_methods_defined>
+</language>

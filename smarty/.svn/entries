@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="67"
+   name=""
+   committed-date="2007-10-23T21:53:55.531180Z"
+   url="svn://localhost/citecrm/application/smarty"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   name="internals"
+   kind="dir"/>
+<entry
+   name="plugins"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="SmartyPaginate.class.php"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="224d4bd5657f2eb6dd7a53d113836fe9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   name="cache"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="SmartyValidate.class.php"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b1c8b3594abef796c1d7471b936ee8ca"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Smarty_Compiler.class.php"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d23f3c123e3da085a67003d8af594e69"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="debug.tpl"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="861630bd981a49c455633557e7976bf3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="RELEASE_NOTES"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d66430545434f43aacd18381533901db"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Smarty.class.php"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2e0c61b58359633676a09c2a2e7146e2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="Config_File.class.php"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b7aeec9bda8300a912dd014d5fb81184"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+</wc-entries>

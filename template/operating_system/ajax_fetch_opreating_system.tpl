@@ -1,0 +1,1 @@
+{html_select_opreating_system operating_system_manufacture_id=$operating_system_manufacture_id value=$operating_system_id}

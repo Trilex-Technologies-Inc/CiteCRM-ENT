@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="cc_payment">
+		<field name="cc_payment_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="invoice_id" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="cc_payment_amount" type="N" size="10">
+			<NOTNULL/>
+		</field>
+		<field name="cc_payment_number" type="C" size="60">
+			<NOTNULL/>
+		</field>
+		<field name="cc_payment_expirdate" type="C" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="cc_payment_enter_by" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="cc_payment_billing_attempt" type="I" size="3"></field>
+		<field name="cc_payment_status" type="C" size="20"></field>
+		<field name="cc_payment_date" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="cc_payment_date_proc" type="I" size="20"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="invoice_id">
+			<col>invoice_id</col>
+		</index>
+		<index name="cc_payment_enter_by">
+			<col>cc_payment_enter_by</col>
+		</index>
+	</table>
+</schema>

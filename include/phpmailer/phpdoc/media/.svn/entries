@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48"
+   name=""
+   committed-date="2007-10-14T17:32:18.771791Z"
+   url="svn://localhost/citecrm/application/include/phpmailer/phpdoc/media"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="48"
+   name="stylesheet.css"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-14T17:32:18.771791Z"
+   checksum="e32986e2e3009d7c91b33ece44a49ff4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="48"
+   name="banner.css"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-14T17:32:18.771791Z"
+   checksum="e43ca110d02f287cdaac6357ba539fff"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+</wc-entries>

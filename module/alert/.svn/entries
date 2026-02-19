@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56"
+   name=""
+   committed-date="2007-10-18T04:51:39.708533Z"
+   url="svn://localhost/citecrm/application/module/alert"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_alert.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0ccde6747531a31753ee38693af21ce0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="56"
+   name="create_new.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="bd8cfbf49e470a542cab5ad8f1739c87"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_edit_alert.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9efaf23828ea8b4ce47da800452f9572"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="56"
+   name="mark_read.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="b2f0bfef9ca5b4538c7dd1ef220721b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

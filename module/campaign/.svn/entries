@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2007-10-17T14:33:02.726800Z"
+   url="svn://localhost/citecrm/application/module/campaign"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="51"
+   name="view_campaign.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="dd51f397670f544e932f3b382d91a538"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="51"
+   name="ajax_load_analytics.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="1a11e04c7ce899a357e84be471d5b2ea"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.campaign.xml"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1f7fc9a0246a44b5f5a6adb4a07ff695"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_campaign.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7d847996bedb3c0be7bd16103d16b97d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_campaign.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dbd6af2129229f5bbbd29599eefeb009"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="51"
+   name="search_campaign.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="7fa373c65d07c65805f6f59a538a9e43"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="51"
+   name="ajax_load_lead_by_status.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="ed99ea60f8fc41220d66d7f4db441c2d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="51"
+   name="ajax_load_campaign_details.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="7a3d4e206df8422e86823dbdcff49aa0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.campaign.xml"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="223c04b5276612bd7bf1dd98818cc4e5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="55"
+   name="add_campaign.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="7bfb73976c55d3f5cf35c83f28b4b042"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+</wc-entries>

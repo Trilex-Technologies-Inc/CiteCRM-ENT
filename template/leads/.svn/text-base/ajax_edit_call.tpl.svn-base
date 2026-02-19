@@ -1,0 +1,39 @@
+<!-- ajax_edit_call.tpl -->
+<table width="100%">
+	<tr>
+		<td><span class="greetUser">Edit Call "<i>{$lead_callObj->get_lead_call_subject()}</i>"</span></td>
+    </tr>
+</table>
+
+<table cellpadding="5" cellspacing="0" class="formArea" >
+    <tr>
+        <td class="formAreaTitle" colspan="2">Start Date</td>
+		<td class="formAreaTitle" colspan="2">End Date</td>
+	</tr><tr>
+        <td class="fieldValue" colspan="2">
+            {html_select_date end_year=+$SELECT_YEAR_INCREMENT start_year=$CURRENT_YEAR time=$lead_callObj->get_lead_call_date()}
+            {html_select_time display_seconds=false minute_interval=15 prefix=start time=$lead_callObj->get_lead_call_date()}
+        </td>
+        <td class="fieldValue" colspan="2">
+             {html_select_date prefix=end end_year=+$SELECT_YEAR_INCREMENT start_year=$CURRENT_YEAR time=$lead_callObj->get_lead_call_duration()} {html_select_time display_seconds=false minute_interval=15 time=0 prefix=end time=$lead_callObj->get_lead_call_duration()}
+        </td>
+    </tr><tr>
+
+		<td class="fieldValue" colspan="4"><b>Call Subject</b>
+            <input type="text" name="lead_call_subject" value="{$lead_callObj->get_lead_call_subject()}" size="60" id="lead_call_subject">
+        </td>
+	</tr><tr>
+		<td class="formAreaTitle" colspan="4">Call Details</td>
+	</tr><tr>
+		<td class="fieldValue" colspan="4"><textarea name="lead_call_text" id="lead_call_text">{$lead_callObj->get_lead_call_text()}</textarea></td>
+	</tr><tr>
+        <td class="formAreaTitle" colspan="4">Delete <input type="checkbox" id="delete"></td>
+   </tr><tr> 
+		<td class="fieldValue" colspan="4">
+            <input type="hidden" id="lead_call_id" value="{$lead_callObj->get_lead_call_id()}">
+            <input type="submit" name="submit" value="Save" onclick="update_call()" id="submit">
+            <input type="button" name="cancel" value="Cancel" onclick="javascript:load_activity('Call');">
+        </td>
+	</tr>
+</table>
+<br>

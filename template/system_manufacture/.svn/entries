@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/system_manufacture"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="80"
+   name="search_system_manufacture.tpl"
+   text-time="2007-10-29T15:01:21.000000Z"
+   committed-date="2007-10-30T15:12:08.207648Z"
+   checksum="fccd24f69bdeda9678eb7c659209385f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"
+   revision="80"/>
+<entry
+   committed-rev="1"
+   name="update_system_manufacture_frm.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4effd4e372e49f6d08b34076d9833fc1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="76"
+   name="ajax_search_system_manufacture.tpl"
+   text-time="2007-10-28T19:33:26.000000Z"
+   committed-date="2007-10-28T20:06:56.328756Z"
+   checksum="188927205add8fd5dfb28567a6fa295e"
+   last-author="jaimie"
+   kind="file"
+   revision="76"/>
+<entry
+   committed-rev="77"
+   name="ajax_edit_system_manufacture.tpl"
+   text-time="2007-10-29T12:56:14.000000Z"
+   committed-date="2007-10-29T13:11:26.884211Z"
+   checksum="ed8689ad17949fe502f17242ba180deb"
+   last-author="jaimie"
+   kind="file"
+   revision="77"/>
+<entry
+   committed-rev="1"
+   name="view_system_manufacture.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="17d537a6b0cebd3211eef74fb6eeb847"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="77"
+   name="ajax_add_system_manufacture.tpl"
+   text-time="2007-10-29T14:16:22.000000Z"
+   committed-date="2007-10-29T13:11:26.884211Z"
+   checksum="6a85d85a6baff303bada8d283547e75d"
+   last-author="jaimie"
+   kind="file"
+   revision="77"/>
+<entry
+   committed-rev="1"
+   name="add_system_manufacture_frm.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0f72067a45cff86587d7d8ea1411406a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_system_manufacture.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="32eb6a3e01ab6d414a0b5176cb4da51f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+</wc-entries>

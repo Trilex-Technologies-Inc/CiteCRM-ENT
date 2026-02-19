@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/vendor_contact"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="view_vendor_contact.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0dde26c410bda7c892b92002de2d738a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_vendor_contact_frm.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="aa2d9ba83ecb9428af96e7201c22e5ae"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_vendor_contact.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="576fc24bcfa292673948cb729ec4602d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_vendor_contact.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a462d34b65aac2ddb452a435455b7a16"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_vendor_contact_frm.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="139eeb08052d15e5ddf79f546d4d334a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+</wc-entries>

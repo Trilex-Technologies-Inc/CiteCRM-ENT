@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="67"
+   name=""
+   committed-date="2007-10-23T21:53:55.531180Z"
+   url="svn://localhost/citecrm/application/smarty/plugins"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="function.fetch_system_owner.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="63c58d4d0a160de69488ced32fd45010"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.spacify.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="66993120ab60306acd278a327c5af448"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isEmail.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c35bc927716d2130fe690c8535644d18"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.escape.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3bd0b2464f2fe8e2688da39079d84190"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.count_paragraphs.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c64e0f47b6435424a7bf9647eed06c1e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="82"
+   name="function.fetch_lead_call.php"
+   text-time="2007-10-31T13:26:12.000000Z"
+   committed-date="2007-10-31T14:38:28.738354Z"
+   checksum="b84e95beb6a362b333b9eac10d189a91"
+   last-author="jaimie"
+   kind="file"
+   revision="82"/>
+<entry
+   committed-rev="1"
+   name="validate_transform.makeDate.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="20b5cd08eb3e7fcf60e91e8bcbe854f3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.lead_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4c1b7d847a62e1fb2559e44af583402f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_yesno.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0fc8616600e194003bed7555a0649edd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="22"
+   name="modifier.link_date_time.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-06T17:54:32.405751Z"
+   checksum="d2223ab519a44eef9c545bdd9e3982d5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_payment_details.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0e88f553ae8afa3da3ff22bb62e06c08"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.eval.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3fedd0e2a4c285200c12fe6427bc2739"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isDateEqual.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="046575f991141a9a57ad68f308baa30b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_calendar_end_date.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="aacf36b0ed30718ecf1ec3e3a8dcb966"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_invoice.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4f095c10b40c64afff1ee3a4cd033ecd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_product_manufacture.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a6fbf436c114dd341cf3e560dc4d8230"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.count_characters.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="91694b84f8b86aa551ff49ced16dbd11"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_system_manufacture.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="72f8ca97f15109fad8765cd0ef1cc2ff"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.lower.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5520933762ceac07d49e658c52587279"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.validActivationCode.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="95934af8cb3d174b735aac5da13da2b8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_campaign_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5350670cc9743eefc71adb1fafb65bc0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_workorder_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6c8bb2d8293abca44ffb20ef4c88fc80"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.usernameExists.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="735e3ff51124aa60493987b983764ef1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="58"
+   name="function.html_select_operating_system_manufacture.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-18T15:17:19.679324Z"
+   checksum="2ea78db035d9aa9833ecda8cb093ace5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_table.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="da9f72eaf114dbcf0f416683b4bae5b1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_contact_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="87635038ce999f7ccbc069083d2a62d3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isDateOnOrBefore.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="27ee760f8aecc60d35b73d3faa8c8ece"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_company_contact.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3be724aed9012dee9938f61be26b27d1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isDateAfter.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f0f3fdc64e64508f1d436657708f7003"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isDateBefore.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a0d3a30ef27dd440a4237bde37aa8e90"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.paginate_prev.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0139c84f3f4e2ae314d3a1201d7c42d3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isPrice.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3c61c269ca8d20a12d675d0130087016"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.category_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e1edebb1e2552d24ff8703da7f9accd9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.math.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0b33b8526bcff403e3d650c3d7eb982b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.state_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c9cbce223d1d27216388234e981981c1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.display_cc_number.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c25a5041a174144d23d33784362e3e2a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_project_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c21f51bdf641b3e86a2d737399d4e8a9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.validateSql.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d3c177132fc456befc7341da7b2dc499"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="58"
+   name="function.html_select_user_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-18T15:17:19.679324Z"
+   checksum="2d39ea845a92d55c5833052259d05c88"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_lead.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="af58259e5702e71e297046c1f830ef60"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.fetch_main_menu_specials.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e2a62aa65eb9901fb9116993d5e99b33"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.config_load.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fa6466c59cab6333c64ac270dd6c53b1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_user_system.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a8b500039a0a12571f1edcee34f18139"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="compiler.assign.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6c3aaef0d3723c9f5875c7cd3610c1e6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_address_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9b53441ae57a747f386b6e8177ffa7cd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.strip.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b1281f77297db8c1e50bc1fd883ebd78"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isNumber.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fb0edc2bb7e683611550022ed1177de6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.validate_init.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="945cb949aab7ea7789a6154910634a6c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.system_model_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e7470f2e9f8dd51cf20112fca6bbd7b2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_billing_rate.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="979a71c01d8eed7813440377732c9cbd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.format_mb.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="84693bf1b594a3e4476fddc367623e60"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.cat.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9dbc6c2d6d78165d9d0ffae481509b6a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.display_cc_expr.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="99848135644d1b6eba61946c582466b7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.replace.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b7d144b301a878c3015f9ba96b1922c6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.fetch_employee.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="56d6daeedaf4b6dde1fe3062e23180f0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.campaign_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="05ee3630d722250ea27d4d3fb44bb181"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_company.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9a08feb4cb970e3a22c7aa0b56982c32"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.default.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="11c16bd6f7dde6d576d7f93433652925"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isDate.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8194d2d2d61b89851b7c77f8c82ca28e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_page.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3cda139617776ca86b5f93e96bc90686"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="51"
+   name="function.html_select_lead_email.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="600aec0d2ba76fce052c4be6006052e3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_product_category.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0de04fd56f6bf0d5a710a8e7c90337f2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.display_box_bottom.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="85336e07e7d698a93050bdce6d7ef405"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_state.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="511aaabd76306913d862495861f90853"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_plugins.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5e6c9c02508a2f18048efe237a6e91b4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.notEmpty.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="36b4704145a79b8cba3cf535120912d8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.paginate_middle.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7cf860a59ae7d92654b164b191235bf6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isModule.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4b9a29cbda99a324c92e3641c4085e0f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_company_users.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4e17da5ff76aa8472420f0e1ab798390"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isDateOnOrAfter.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1afc6957b98833c265f29f5c06d8501a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.company_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="37c3d8b2c38de848ef6ef9daaf83e06b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.counter.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9531e844efd007c593dadd6173cb0bbd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.fetch_project_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7f1462c6483ad42c5d4f31ae645efa9b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_transform.default.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b3f6b804e169719c5d64cc1fb829d1a3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="41"
+   name="function.html_select_service.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-12T12:14:05.641101Z"
+   checksum="367e44563fb141e4abfce62fd612e303"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_country.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="06947131fc1d096c413e58314ad5cf78"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.payment_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="16cc8469b43268f3b79fef61b307c463"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.contract_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="de0c0b3c97b9ca02f0a594ea6918542b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.system_manufacture_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="29d38c22fee1e5d0c1b441a4c7cb53ba"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.validate.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2296dec6837a217b7958df11ac7bc043"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="21"
+   name="function.display_box_top.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-05T14:21:32.995984Z"
+   checksum="c7b5cb9acdcccc8eb26676e47b307f95"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.dummyValid.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5e45b40a556ca8b38752b788e660737f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_checkboxes.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a05460918e36fd9ef66d955754868a3e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isFileType.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="49ed0d6694547c15ed4b1c518b4591e6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="20"
+   name="function.display_main_box_top.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-05T05:56:29.456886Z"
+   checksum="bc86d408a5fff6dc65057241916e4cf5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_user_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7a1d0ca58999ae1692e1a42502ad346c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.yesno.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e9c7f5af1a41001fb9baabc8b9c62b60"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_transform.trim.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="06475d83d77319101203db3e0e23e773"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="67"
+   name="function.load_company_name_by_invoice.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-23T21:53:55.531180Z"
+   checksum="749d5f526255f87136dcac3f15819c63"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isRegExp.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a76607b4d4509005be5e11321b0f4a06"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isInt.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d0d34a01d52c64f388f48c8041b8527e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.display_main_nav.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0f5c3cd88e53041d32b2554ad6e1a76c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isRange.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="14878537de64836cd49fb50a6d515ad7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.lead_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4341181c6dd718d40cf8cac1325178a1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.debug_print_var.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="08316533750e1d7b0e9c801f99fb5e1f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.paginate_next.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1aef99324ff1c76eae206e0f27fe29e8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="82"
+   name="function.fetch_lead_meeting.php"
+   text-time="2007-10-31T13:37:08.000000Z"
+   committed-date="2007-10-31T14:38:28.738354Z"
+   checksum="2ace6a8a38678822a00f13822354dfcb"
+   last-author="jaimie"
+   kind="file"
+   revision="82"/>
+<entry
+   committed-rev="82"
+   name="function.fetch_company_meeting.php"
+   text-time="2007-10-31T14:28:43.000000Z"
+   committed-date="2007-10-31T14:38:28.738354Z"
+   checksum="010af42d2c5b5f142ff37970b2a75923"
+   last-author="jaimie"
+   kind="file"
+   revision="82"/>
+<entry
+   committed-rev="1"
+   name="modifier.nl2br.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1d16b98e8ec34aac69f0827fab1dc999"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isEqual.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2ef43ae82c0380c6a3488f70f02330f0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_lead_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6e41978bc32467a796b60f912b65783c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="51"
+   name="modifier.campaign_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-17T04:49:59.413749Z"
+   checksum="b5691a9f0b18d118d748a171573b36fe"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_calendar_employee.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c7d05a4491bbd23501b201732de097dd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_lead_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="42fdfed8a2ea189877e14c3b7f31fd85"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.cycle.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="db7b2e51bd5e26f93032929dcb2d531b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_accepted_credit_cards.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="41f43c9aa39d1512c567a88f631567db"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_employee.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="22184f290d8db16bf55ac1e519a7f32c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_radios.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6a00315efe8f8202823ade3bf3e6e513"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.paginate_last.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="07f8fc7440843fe82d5d64a4aeb4ae5b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.country_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="33acbeaced409f205d9ebd96511616ff"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="41"
+   name="function.fetch_workorder_totals.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-12T12:14:05.641101Z"
+   checksum="2e0c5e737e0c074b23bb6b19542e7ba4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.wordwrap.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b80bdf801ac29e3aa4662a0428b676e4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="shared.make_timestamp.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="29ffe6553da8fda72147a12273105e10"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_time.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a0a1115093ac51f176bc8b278ef056a6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isCCExpDate.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="236f29513aa9d030deabbe0e518dce90"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.product_manufacture_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1e94103cfd7901e5c1235c1b7725ebef"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_system_model.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="89021f5b6c406d809db354a8aedffd34"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isFloat.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f1c43cc1c04ee6b88e3dd26642ab1bd0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.user_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7ea6a0659510fadf4fcd78178145e902"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.fetch.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="51259f99b6554fa1a6a60013a5e7880a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.indent.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ea1f5db88c00e850c3968e434eadb074"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.phone_format.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d84b32b842aded2a0a018ed40c1cca0a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.truncate.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d33cd7c8656b803b42dbd5ef0442dd79"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.paginate_first.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="428316f131a0b3a940651007e3cfedd3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.display_names.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9659ff58a053b359b6484ad4a6e6eeec"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="22"
+   name="function.fetch_help.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-06T17:54:32.405751Z"
+   checksum="f65ac4a98bd6282ebf1ddfb8493079b5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="shared.escape_special_chars.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2f7221015323ba27d2ed5ae20450fa0d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.upper.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0ef0e9784273f5d5384f34ad303bd15e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.display_company_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bde8b284f3ab7433745826b94bdcaa29"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_user_by_workorder.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8850a333a499f09fa4a7903371b4e7bc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.operating_system_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="abe7de08c631cc6a3d6781cf44e4ac5b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_product_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="473ad11055df985d56fe4af41b4c751f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_image.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="de11daabe07795fe4229b8d0185489dd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.count_sentences.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c22e43e96e6ecd34cc18bc5235d59337"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="61"
+   name="function.html_select_company_task.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="9e8619b6f690c462615f86c79e7dc3c7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_calendar_duration.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c444d46bc0b993ad818f60c792d9c2f0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="58"
+   name="function.html_select_opreating_system.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-18T15:17:19.679324Z"
+   checksum="1ce40fa4bc68d32af293674f055529d9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.count_words.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="073467c9ea7434647bb9ff27fe09183b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="61"
+   name="function.html_select_task_due.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="0e684c150a57a0b6b6ca7c304a83b21c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isURL.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0f45c55c088e277e4a651dcc6395fd5e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.string_format.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="401048107fc62eecf175d2a0ab997161"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isCCNum.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fdbf3f0c432237702a9b98e424b48e1d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.strip_tags.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="481144a581e2d56a2182add2e09c5641"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.fetch_workorder_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bc8c24075642bcce53e1de9b6379ed08"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.workorder_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="268123753097c9e0c6121d8002c1c8ee"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="82"
+   name="function.fetch_workorder_description.php"
+   text-time="2007-10-31T14:35:42.000000Z"
+   committed-date="2007-10-31T14:38:28.738354Z"
+   checksum="3e70eeac8306f5a775a1d8d0282e70ed"
+   last-author="jaimie"
+   kind="file"
+   revision="82"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_modules.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="561d1881d3891b1a39aa2987573e095a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_lead_by_lead_meeting.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="534a5b1974ab25a10ed8e0b5a31ef95a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isFileSize.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c8ab903871e698afe3ac7e2c07d3177e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.date_format.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9c0102288dc388c9862f19e9df20635a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_company_address.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5d0aacb7741149d92f7accc8c0faf15c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.capitalize.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b417f146424ebf40a2c820b57171bd2e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="block.textformat.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f4e1cc15997ff132066f5e4e09e92054"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_campaign.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="10f29f57ebb2cc9a48af1ea3f59a61d5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.popup.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1e8b78080d08a386ba297c0dbb7c3a7b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.assign_debug_info.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0abdfebfea185a7b1a727d9546e244be"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="outputfilter.trimwhitespace.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f3c436ee39a02c65bb7c02fc096abcca"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isValidCompanyToUser.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5d56c4cbd7e74c2128ad55710acb869d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_payment_options.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="866f73efd46e3f20f7f02a6cdac3b781"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.emailExists.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="64e5a23076b76603fbefc01ff45bb6d2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.regex_replace.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d4e8f465bc8adbd6119e788dfea53d66"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_options.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b634076ab0424a5b8310ff733c5615a6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.mailto.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f7673634ee0ed6147781810506464319"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_calendar_link.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ede9214e74cbbb36bfd8dfaba5d44f79"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.popup_init.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b2353a42807535109e1f037c0d51f19c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.debug.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4963d564da17a2578fc5f56d9c53e7bc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.product_status.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d5255a2a813903bf2c34443dfcc9f976"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_company_system.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b2c2732a5262843036dae2cb3013c2d5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.load_company_by_workorder.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d2c92970fb6d55f830bc13f1764646a2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modifier.operating_system_manufacture_name.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="50b203936f312155c9a575e52676a175"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_date.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="41470a5a74bd18bb4fa63e335db8e534"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.html_select_contract_type.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6fd182e802db31276b616e6ec41ba998"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="validate_criteria.isLength.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ace25f472ecd4cb309c3ca0483ce69e3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+<entry
+   committed-rev="1"
+   name="function.fetch_main_menu_products.php"
+   text-time="2007-10-25T13:55:09.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="94aa51c407f1b0a5e56cf718dc455e87"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:09.000000Z"/>
+</wc-entries>

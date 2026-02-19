@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<language id="vendor_contact">
+	
+	<field_vendor_contact_id>Vendor Contact ID</field_vendor_contact_id>
+	<field_vendor_id>Vendor</field_vendor_id>
+	<field_vendor_contact_type>Contact Type</field_vendor_contact_type>
+	<field_vendor_contact_value>Value</field_vendor_contact_value>
+	<field_last_modified>Last Modified</field_last_modified>
+	
+	
+	<text_view_vendor_contact>View vendor_contact ID#</text_view_vendor_contact>
+	
+</language>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56"
+   name=""
+   committed-date="2007-10-18T04:51:39.708533Z"
+   url="svn://localhost/citecrm/application/module/billing_rates"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="32"
+   name="ajax_load_billing_rates.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-09T04:21:22.187014Z"
+   checksum="a2c19a08c374fc0b038327b2c3078a06"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="32"
+   name="update_billing_rates.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-09T04:21:22.187014Z"
+   checksum="b391ac91a80591beb5065a76a78f46a1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="56"
+   name="delete_billing_rates.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="a879da3768c13d74b94aff72f6c2c137"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="32"
+   name="search_billing_rates.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-09T04:21:22.187014Z"
+   checksum="ceeec62845ed2a12898afbadc2ec49ac"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="32"
+   name="add_billing_rates.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-09T04:21:22.187014Z"
+   checksum="4565f697e783c552a43c0548ee9bedd1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.billing_rates.xml"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a61229d9c776bbfa1f77b50c55b6fb51"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_billing_rates.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="419a2d53fe82728b9bf146e42cbcaa7e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

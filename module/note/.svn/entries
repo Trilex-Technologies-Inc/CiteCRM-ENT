@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="35"
+   name=""
+   committed-date="2007-10-10T12:17:59.453860Z"
+   url="svn://localhost/citecrm/application/module/note"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="35"
+   name="ajax_load_by_user.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-10T12:17:59.453860Z"
+   checksum="2683fafee57ef1b12953493d3826007e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_note.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="43d51ab4ec465b2aeac3a06397655cad"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_note.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1127ce7a1db5852d4230f8ce70fbaf75"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.note.xml"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ad7f29b6f0b4eda34b9c722b6c0ed372"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_edit_note.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fb5b0f9ef842786f32e5c07d71036c1b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_note.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="34300ab32c571b16ab05e0e4cc8555dd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_by_lead.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5c52d0567837a71e4c3f96c56bdcc0e4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.note.xml"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="125787ac921901b2268d574fc6557bdb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_new_note.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e63c7bb265692f31738b7b5779353dc8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_load_by_company.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d85434729340edc64866481d837d7769"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_note.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ab32ca419263b8ad289a254f7f380c4e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_note.php"
+   text-time="2007-10-25T13:55:26.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="997381851a6505ddcc02552443713544"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:26.000000Z"/>
+</wc-entries>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/themes/advanced/jscripts"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="source_editor.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="17bfab5171bfa2b38db1d4f8d51c17e2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="anchor.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c854b48697f00e9854f4fe5b121069d5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="about.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="622568c0578474ba8a28b9daf0b388d9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="charmap.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f058f998e781427a479eddca969220c7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="color_picker.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="849849f7ff62f9eb4b32e1544bbe0f87"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="link.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a99ac747f7f6c20c8833c6e0f4fb8d3f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="image.js"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="cf0b676a72babbf426e06604271276a3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+</wc-entries>

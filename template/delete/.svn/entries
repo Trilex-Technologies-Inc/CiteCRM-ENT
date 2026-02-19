@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/delete"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   name="workorder_status"
+   kind="dir"/>
+<entry
+   name="company_contact"
+   kind="dir"/>
+<entry
+   name="invoice_part"
+   kind="dir"/>
+<entry
+   name="cc_payment"
+   kind="dir"/>
+<entry
+   name="bill"
+   kind="dir"/>
+<entry
+   name="system_to_workorder"
+   kind="dir"/>
+<entry
+   name="workorder_time"
+   kind="dir"/>
+<entry
+   name="crm_group"
+   kind="dir"/>
+<entry
+   name="workorder_history"
+   kind="dir"/>
+<entry
+   name="navigation"
+   kind="dir"/>
+<entry
+   name="setup"
+   kind="dir"/>
+<entry
+   name="system_model"
+   kind="dir"/>
+<entry
+   name="project"
+   kind="dir"/>
+<entry
+   name="company_to_workorder"
+   kind="dir"/>
+<entry
+   name="install"
+   kind="dir"/>
+<entry
+   name="suspension"
+   kind="dir"/>
+<entry
+   name="project_type"
+   kind="dir"/>
+<entry
+   name="project_status"
+   kind="dir"/>
+<entry
+   name="check_payment"
+   kind="dir"/>
+<entry
+   name="invoice_labor"
+   kind="dir"/>
+<entry
+   name="company_address"
+   kind="dir"/>
+<entry
+   name="bug"
+   kind="dir"/>
+<entry
+   name="portfolio"
+   kind="dir"/>
+</wc-entries>

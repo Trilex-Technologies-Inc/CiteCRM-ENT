@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<language id="lead_call">
+
+<!-- Fields -->
+<field_lead_id>Lead</field_lead_id>
+<field_lead_call_subject>Subject</field_lead_call_subject>
+<field_lead_call_text>Details</field_lead_call_text>
+<field_lead_call_date>Date</field_lead_call_date>
+<field_lead_call_duration>Duration</field_lead_call_duration>
+<field_lead_call_by>Employee</field_lead_call_by>
+
+<!-- Error -->
+<error_notEmpty_lead_call_subject>The field Subject must not be empty</error_notEmpty_lead_call_subject>
+<error_notEmpty_lead_call_text>The field Details must not be empty</error_notEmpty_lead_call_text>
+<error_notEmpty_lead_call_by>The field Employee must not be empty</error_notEmpty_lead_call_by>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

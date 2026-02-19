@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/examples"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="logo.jpg"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="257b4aa628ea43e7c03c85bf1734ee79"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_image_list.js"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7912907d457e977045059d76e192669f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_full.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="030fcc26abdd0852af0309ff7af86249"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_full.css"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="045f9a3378e52724248aba4443213338"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_advanced.css"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="900aac3a09be9fe2e14a476407e2d159"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_advanced.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c4509ad06a57024078920d0d7d0a0d21"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="logo_over.jpg"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="817d1ea5d4f9f283bf31b51ce81ea19c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_simple.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5af7979cf3553af1d779883e440206a1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_word.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="467939292f5a97097acc0fca12f4dbbe"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_word.css"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6177708af40c057a13c3696cddddb311"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_flash_list.js"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="49e8e7c08b8262105502da878011fc08"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="example_link_list.js"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3f842026ca67a289432d26260640d848"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+</wc-entries>

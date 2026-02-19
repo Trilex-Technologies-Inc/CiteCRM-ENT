@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="check_payment">
+		<field name="check_payment_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="invoice_id" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="check_payment_amount" type="N" size="14"></field>
+		<field name="check_payment_number" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="check_payment_enter_by" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="check_payment_date" type="I" size="20"></field>
+		<field name="check_payment_status" type="C" size="10"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="invoice_id">
+			<col>invoice_id</col>
+		</index>
+		<index name="check_payment_enter_by">
+			<col>check_payment_enter_by</col>
+		</index>
+	</table>
+</schema>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="lead_meeting">
+		<field name="lead_meeting_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="lead_id" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="lead_meeting_start" type="I" size="20"></field>
+		<field name="lead_meeting_end" type="I" size="20"></field>
+		<field name="lead_meeting_subject" type="C" size="128"></field>
+		<field name="lead_meeting_created_by" type="I" size="20"></field>
+		<field name="lead_meeting_active" type="I" size="3"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="lead_id">
+			<col>lead_id</col>
+		</index>
+	</table>
+</schema>

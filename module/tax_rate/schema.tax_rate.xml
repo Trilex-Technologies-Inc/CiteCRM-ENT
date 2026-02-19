@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="tax_rate">
+		<field name="tax_rate_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="tax_rate_zone_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="tax_class_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="tax_rate_priority" type="I" size="4"></field>
+		<field name="tax_rate_value" type="N" size="10"></field>
+		<field name="tax_rate_description" type="X"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="tax_rate_zone_id">
+			<col>tax_rate_zone_id</col>
+		</index>
+		<index name="tax_class_id">
+			<col>tax_class_id</col>
+		</index>
+	</table>
+</schema>

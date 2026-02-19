@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<language id="company_meeting">
+	
+	<!-- Fields -->
+	<field_company_meeting_start>Start</field_company_meeting_start>
+	<field_company_meeting_end>End</field_company_meeting_end>
+	<field_company_meeting_subject>Subject</field_company_meeting_subject>
+	<field_company_meeting_created_by>Created By</field_company_meeting_created_by>
+	<field_company_meeting_text>Description</field_company_meeting_text>
+	<field_company_meeting_active>Active</field_company_meeting_active>
+	
+	<!-- text -->
+	<text_meetings>Meetings</text_meetings>
+	<text_new_meeting>New Meeting</text_new_meeting>
+	<text_edit_meeting>Edit Meeting</text_edit_meeting>
+	
+	<!-- Buttons -->
+	<button_save>Save</button_save>
+	<button_cancel>Cancel</button_cancel>
+
+</language>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/template/bookmark"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="ajax_view_bookmarks.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="721196bdc21ca437062193ec3eeb6520"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="load_bookmark_toc.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e4916e4ea4d1d962e7602a7dc0fc90fb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+</wc-entries>

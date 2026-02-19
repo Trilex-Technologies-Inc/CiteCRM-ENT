@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="test_six">
+		<field name="test_six_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="field_one" type="C" size="25">
+			<NOTNULL/>
+		</field>
+		<field name="field_two" type="C" size="50">
+			<NOTNULL/>
+		</field>
+		<field name="field_hidden" type="C" size="100"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+	</table>
+</schema>

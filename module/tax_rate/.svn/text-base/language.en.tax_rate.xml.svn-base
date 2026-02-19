@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<language id="tax_rate">
+
+<!-- Fields -->
+<field_tax_rate_zone_id>Zone</field_tax_rate_zone_id>
+<field_tax_class_id>Tax Class</field_tax_class_id>
+<field_tax_rate_priority>Priority</field_tax_rate_priority>
+<field_tax_rate_value>Value</field_tax_rate_value>
+<field_tax_rate_description>Description</field_tax_rate_description>
+
+<!-- Error -->
+<error_notEmpty_tax_rate_zone_id>The field Zone must not be empty</error_notEmpty_tax_rate_zone_id>
+<error_notEmpty_tax_class_id>The field Tax Class must not be empty</error_notEmpty_tax_class_id>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

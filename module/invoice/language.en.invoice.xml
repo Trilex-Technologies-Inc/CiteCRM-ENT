@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<language id="invoice">
+
+<!-- Fields -->
+<field_invoice_id>Invoice Id</field_invoice_id>
+<field_invoice_create_date>Date Created</field_invoice_create_date>
+<field_invoice_create_by>Created By</field_invoice_create_by>
+<field_invoice_due_date>Due Date</field_invoice_due_date>
+<field_invoice_amount>Amount</field_invoice_amount>
+<field_invoice_discount_amount>Discount</field_invoice_discount_amount>
+<field_invoice_total_amount>Total</field_invoice_total_amount>
+<field_invoice_status>Status</field_invoice_status>
+<field_invoice_paid_date>Date Paid</field_invoice_paid_date>
+<field_invoice_paid_amount>Paid Amount</field_invoice_paid_amount>
+<field_invoice_payment_type>Payment Type</field_invoice_payment_type>
+<field_invoice_barcode>Barcode</field_invoice_barcode>
+<field_invoice_payment_enter_by>Payment By</field_invoice_payment_enter_by>
+<field_invoice_memo>Memo</field_invoice_memo>
+<field_last_modified>Last Modified</field_last_modified>
+
+<!-- Payment Fields -->
+<field_payment_payment_id>Payment Id</field_payment_payment_id>
+<field_payment_cc_payment_amount>Payment Amount</field_payment_cc_payment_amount>
+<field_payment_cc_payment_number>CC Number</field_payment_cc_payment_number>
+<field_payment_cc_payment_expirdate>Expr Date</field_payment_cc_payment_expirdate>
+<field_payment_cc_payment_enter_by>Enter By</field_payment_cc_payment_enter_by>
+<field_payment_cc_payment_billing_attempt>Biling Attempt</field_payment_cc_payment_billing_attempt>
+<field_payment_cc_payment_status>Status</field_payment_cc_payment_status>
+<field_payment_cc_payment_date>Payment Date</field_payment_cc_payment_date>
+<field_payment_cc_payment_date_proc>Processed</field_payment_cc_payment_date_proc>
+<field_payment_check_payment_id>Payment ID</field_payment_check_payment_id>
+<field_payment_check_payment_amount>Amount</field_payment_check_payment_amount>
+<field_payment_check_payment_number>Check Number</field_payment_check_payment_number>
+<field_payment_check_payment_enter_by>Enter By</field_payment_check_payment_enter_by>
+<field_payment_check_payment_date>Check Date</field_payment_check_payment_date>
+<field_payment_check_payment_status>Status</field_payment_check_payment_status>
+
+
+<!-- Error -->
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+<text_credit_card>Credit Card</text_credit_card>
+<text_no_proc_date>N/A</text_no_proc_date>
+
+</language>

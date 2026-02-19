@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="address">
+		<field name="address_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="address_type" type="C" size="8">
+			<NOTNULL/>
+			<DEFAULT value="Home"/>
+		</field>
+		<field name="user_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="account_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="address_street" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="address_street_2" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="address_city" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="address_state" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="address_postal_code" type="C" size="50">
+			<NOTNULL/>
+		</field>
+		<field name="address_country" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="address_date_create" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="user_id">
+			<col>user_id</col>
+		</index>
+		<index name="account_id">
+			<col>account_id</col>
+		</index>
+	</table>
+</schema>

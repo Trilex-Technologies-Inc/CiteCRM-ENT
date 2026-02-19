@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<language id="calendar">
+
+<!-- Fields -->
+<field_calendar_year>Year</field_calendar_year>
+<field_calendar_month>Month</field_calendar_month>
+<field_calendar_day>Day</field_calendar_day>
+<field_calendar_hour>Hour</field_calendar_hour>
+<field_calendar_min>Min</field_calendar_min>
+<field_calendar_type>Entry Type</field_calendar_type>
+<field_user_id>User</field_user_id>
+<field_calendar_title>Title</field_calendar_title>
+<field_calendar_text>Description</field_calendar_text>
+<field_calendar_avtive>Active</field_calendar_avtive>
+<field_calendar_private>Private</field_calendar_private>
+
+<!-- Error -->
+<error_notEmpty_calendar_year>The field Year must not be empty</error_notEmpty_calendar_year>
+<error_notEmpty_calendar_month>The field Month must not be empty</error_notEmpty_calendar_month>
+<error_notEmpty_calendar_day>The field Day must not be empty</error_notEmpty_calendar_day>
+<error_notEmpty_calendar_hour>The field Hour must not be empty</error_notEmpty_calendar_hour>
+<error_notEmpty_calendar_min>The field Min must not be empty</error_notEmpty_calendar_min>
+<error_notEmpty_calendar_type>The field Entry Type must not be empty</error_notEmpty_calendar_type>
+<error_notEmpty_user_id>The field User must not be empty</error_notEmpty_user_id>
+<error_notEmpty_calendar_title>The field Title must not be empty</error_notEmpty_calendar_title>
+<error_notEmpty_calendar_text>The field Description must not be empty</error_notEmpty_calendar_text>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

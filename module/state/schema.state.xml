@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="state">
+		<field name="state_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="country_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="state_code" type="C" size="10">
+			<NOTNULL/>
+		</field>
+		<field name="state_active" type="I" size="4">
+			<NOTNULL/>
+			<DEFAULT value="1"/>
+		</field>
+		<field name="state_text" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="state_code">
+			<UNIQUE/>
+			<col>state_code</col>
+		</index>
+		<index name="country_id">
+			<col>country_id</col>
+		</index>
+	</table>
+</schema>

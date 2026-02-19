@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="user">
+		<field name="user_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="user_type_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="user_admin" type="I" size="4">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="user_status" type="C" size="9">
+			<NOTNULL/>
+			<DEFAULT value="Active"/>
+		</field>
+		<field name="user_username" type="C" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="user_password" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="user_first_name" type="C" size="50">
+			<NOTNULL/>
+		</field>
+		<field name="user_last_name" type="C" size="50">
+			<NOTNULL/>
+		</field>
+		<field name="user_email" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="user_create_date" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="user_activation_date" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="user_username">
+			<UNIQUE/>
+			<col>user_username</col>
+		</index>
+		<index name="user_type">
+			<col>user_type_id</col>
+		</index>
+		<index name="user_status">
+			<col>user_status</col>
+		</index>
+		<index name="user_admin">
+			<col>user_admin</col>
+		</index>
+	</table>
+</schema>

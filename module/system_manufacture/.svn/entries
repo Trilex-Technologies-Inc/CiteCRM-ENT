@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/module/system_manufacture"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="77"
+   name="ajax_add_system_manufacture.php"
+   text-time="2007-10-28T23:32:12.000000Z"
+   committed-date="2007-10-29T13:11:26.884211Z"
+   checksum="ee578d99aa382d4ea879cb64ffef9a4e"
+   last-author="jaimie"
+   kind="file"
+   revision="77"/>
+<entry
+   committed-rev="1"
+   name="update_system_manufacture.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4d518b9dd9593b390d1c99de5a3e1097"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_system_manufacture.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6a40534806c139d698cb8ddfa6e3da23"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="76"
+   name="search_system_manufacture.php"
+   text-time="2007-10-28T19:02:47.000000Z"
+   committed-date="2007-10-28T20:06:56.328756Z"
+   checksum="a788c8cbd2e4e1fe5e9d42f9b205e39d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"
+   revision="76"/>
+<entry
+   committed-rev="77"
+   name="ajax_delete_system_manufacture.php"
+   text-time="2007-10-29T13:05:35.000000Z"
+   committed-date="2007-10-29T13:11:26.884211Z"
+   checksum="50ca0807eaaeababaa6ed908762737ad"
+   last-author="jaimie"
+   kind="file"
+   revision="77"/>
+<entry
+   committed-rev="1"
+   name="schema.system_manufacture.xml"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="49ebb33047623a32c6d60ad9c19dfd32"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_system_manufacture.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2c47d51b3fdb258cb0dd09fc0ddbd846"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+<entry
+   committed-rev="77"
+   name="ajax_search_system_manufacture.php"
+   text-time="2007-10-28T22:46:30.000000Z"
+   committed-date="2007-10-29T13:11:26.884211Z"
+   checksum="5a934aed93153b3cab03ea38f8aede82"
+   last-author="jaimie"
+   kind="file"
+   revision="77"/>
+<entry
+   committed-rev="79"
+   name="ajax_edit_system_manufacture.php"
+   text-time="2007-10-28T22:41:53.000000Z"
+   committed-date="2007-10-29T13:17:16.028362Z"
+   checksum="ac109d7407d145fc29a9429f1b1a6936"
+   last-author="jaimie"
+   kind="file"
+   revision="79"/>
+<entry
+   committed-rev="1"
+   name="view_system_manufacture.php"
+   text-time="2007-10-25T13:55:27.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e30ad0096ad329053a054685b5a1c300"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:27.000000Z"/>
+</wc-entries>

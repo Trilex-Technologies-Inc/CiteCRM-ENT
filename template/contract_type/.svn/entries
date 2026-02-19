@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56"
+   name=""
+   committed-date="2007-10-18T04:51:39.708533Z"
+   url="svn://localhost/citecrm/application/template/contract_type"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="56"
+   name="search_contract_type.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="c721ddf89624445f1996abbbe2b18581"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_contract_type_frm.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="361218c1972cdfd5372274853b65dfcb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_edit_contract_type.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="96c338c55162ff52d545f25f347c9bac"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="56"
+   name="ajax_search_contract_type.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="73a977e650085afd0fe28aa6da4b2e26"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_contract_type.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d84fa680b4df71ea1e76063bbd3c6044"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="56"
+   name="ajax_add_contract_type.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="ac58c9c5e0a8c8c28cf772f8d96c3c87"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_contract_type_frm.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="eb268634bd601a8ec74bdb101229893f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_contract_type.tpl"
+   text-time="2007-10-25T13:55:53.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d0ece0140e403fb5b7972c147eb83be4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:53.000000Z"/>
+</wc-entries>

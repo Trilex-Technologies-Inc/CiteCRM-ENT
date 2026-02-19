@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<language id="cc_payment">
+
+<!-- Fields -->
+<field_invoice_id>Invoice ID</field_invoice_id>
+<field_cc_payment_amount>CC Amount</field_cc_payment_amount>
+<field_cc_payment_number>CC Number</field_cc_payment_number>
+<field_cc_payment_expirdate>CC Date</field_cc_payment_expirdate>
+<field_cc_payment_enter_by>Entered By</field_cc_payment_enter_by>
+<field_cc_payment_billing_attempt>Billing Attempt</field_cc_payment_billing_attempt>
+<field_cc_payment_status>Status</field_cc_payment_status>
+<field_cc_payment_date>Date Created</field_cc_payment_date>
+<field_cc_payment_date_proc>Date Processesd</field_cc_payment_date_proc>
+
+<!-- Error -->
+<error_notEmpty_invoice_id>The field Invoice ID must not be empty</error_notEmpty_invoice_id>
+<error_notEmpty_cc_payment_amount>The field CC Amount must not be empty</error_notEmpty_cc_payment_amount>
+<error_notEmpty_cc_payment_number>The field CC Number must not be empty</error_notEmpty_cc_payment_number>
+<error_notEmpty_cc_payment_expirdate>The field CC Date must not be empty</error_notEmpty_cc_payment_expirdate>
+<error_notEmpty_cc_payment_enter_by>The field Entered By must not be empty</error_notEmpty_cc_payment_enter_by>
+<error_notEmpty_cc_payment_date>The field Date Created must not be empty</error_notEmpty_cc_payment_date>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

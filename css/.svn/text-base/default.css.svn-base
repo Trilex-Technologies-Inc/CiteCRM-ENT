@@ -1,0 +1,621 @@
+BODY {
+    background: #ffffff;
+    margin: 0px;
+    font:11px Tahoma;
+    color: #6e6e6e;
+  }
+
+/* Links */
+
+
+
+
+A {
+    font-family: Tahoma,Verdana;
+    font-size: 11px;
+    color: #5CA0C7;
+  }
+
+
+A:visited {
+    color: #5CA0C7;
+  }
+
+
+A:hover {
+    color: #5CA0C7;
+  }
+
+
+A:active {
+    color: #5CA0C7;
+  }
+
+/* Logo */
+
+
+
+TD.logo {
+    background-repeat : no-repeat;
+    height : 114;
+    width : 142;
+  }
+
+/* Navigation Header Table */
+
+
+
+TD.navigationHeaderLeft {
+    background-image : url('http://www.citecrm.com/images/theme/navigationHeader.gif');
+    height:32px;
+    padding-left:15px;
+  }
+
+
+TD.navigationHeader {
+    background-image : url('http://www.citecrm.com/images/theme/navigationHeader.gif');
+    height:32px;
+  }
+
+
+TD.navigationHeaderRight {
+    height:32px;
+    padding-right:15px;
+  }
+
+
+SPAN.greetUser {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    color: #6699FF;
+    font-weight: bold;
+  }
+
+/* Footer */
+
+
+
+TR.footer {
+    background: #ffffff;
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 9px;
+    text-align:center;
+  }
+
+
+TD.footerBar {
+    background-image : url('http://www.citecrm.com/images/theme/footerBar.gif');
+    height:40px;
+  }
+
+/* Page Class */
+
+
+
+.innerPage {
+    background:#C3D9EA;
+  }
+
+
+TD.titleBar {
+    background-image : url('http://www.citecrm.com/images/theme/infoBoxHeading.gif');
+    color : #FFFFFF;
+    font-family : Myriad, Tahoma, Verdana, Arial, sans-serif;
+    font-size : 14px;
+    font-weight : bold;
+    height : 30px;
+    padding-left:5px;
+  }
+
+
+.menu {
+    border:1px solid #1c679f;
+  }
+
+
+.menuHead {
+    background: #FFFFFF;
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 11px;
+    background:#C3D9EA;
+  }
+
+/* Info Boxes */
+
+
+
+.infoBox {
+    background-color : #ffffff;
+    border-bottom-color : #1c679f;
+    border-bottom-style : solid;
+    border-bottom-width : 1px;
+    border-left-color : #1c679f;
+    border-left-style : solid;
+    border-left-width : 1px;
+    border-right-color : #1c679f;
+    border-right-style : solid;
+    border-right-width : 1px;
+    border-top-color : #1c679f;
+    border-top-style : solid;
+    border-top-width : 1px;
+  }
+
+
+.infoBoxContents {
+    background: #FFFFFF;
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+  }
+
+
+.infoBoxMenu {
+    background: #ECECEC;
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+    border:1px solid #1c679f;
+  }
+
+
+.infoBoxNotice {
+    background: #FF8E90;
+  }
+
+
+.infoBoxNoticeContents {
+    background: #FFE6E6;
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+	
+  }
+
+
+TD.infoBoxHeading {
+    background-image : url('http://www.citecrm.com/images/theme/infoBoxHeading.gif');
+    color : #FFFFFF;
+    font-family : Myriad, Tahoma, Verdana, Arial, sans-serif;
+    font-size : 14px;
+    font-weight : bold;
+    height : 30px;
+    padding:5px;
+  }
+
+
+TD.infoBoxLeft {
+    background-image : url('http://www.citecrm.com/images/theme/infoBoxLeft.gif');
+    height: 30px;
+    width:12px;
+  }
+
+
+TD.infoBoxRight {
+    background-image : url('http://www.citecrm.com/images/theme/infoBoxRight.gif');
+    height : 30px;
+    width:12px;
+  }
+
+
+TD.infoBox, SPAN.infoBox {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+  }
+
+TD.boxText{
+	padding:5px;
+}
+
+.row1 {
+
+    background-color: #FFFFFF;
+}
+				
+.row2 {
+
+    background-color: #ECECEC;
+	
+}
+
+/* Product Listing Tables */
+
+
+
+TABLE.productListing {
+
+	 border: 1px solid #1c679f;
+     border-collapse: collapse;
+	 padding:5px;
+	
+  }
+
+
+.productListing-heading {
+    background-color : #6699FF;
+    color : #FFFFFF;
+    font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    font-weight : bold;
+    border: 1px solid #1c679f;
+    border-collapse: collapse; 
+  }
+
+TD.boxed {
+	 font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    margin: 1px;
+    border: 1px solid #1c679f;
+}
+
+TD.productListing-data {
+    font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    margin: 1px;
+  
+    border: 1px solid #1c679f;
+  }
+
+.time-heading {
+    background-color : #6699FF;
+    color : #FFFFFF;
+    font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    font-weight : bold;
+    border-left: 1px solid #1c679f;
+    border-collapse: collapse; 
+}
+
+.time-heading2 {
+    background-color : #6699FF;
+    color : #FFFFFF;
+    font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    font-weight : bold;
+    border-bottom: 1px solid #1c679f;
+}
+
+.workorder-data{
+	font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    color:white;
+    margin: 1px;
+  	background: #E6E6FA;
+    border: 1px solid #1c679f;
+}
+
+.personal-data{
+	font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    color:black;
+    margin: 1px;
+  	background: #FAFAD2;
+  	border: 1px solid #1c679f;
+}
+.lead-meeting{
+	font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    color:black;
+    margin: 1px;
+  	background: #FFE4E1;
+    border: 1px solid #1c679f;
+}
+.lead-call{
+	font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    color:black;
+    margin: 1px;
+  	background: #FFDAB9;
+    border: 1px solid #1c679f;
+}
+.company_meeting{
+	font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    color:black;
+    margin: 1px;
+  	background: #F0F8FF;
+    border: 1px solid #1c679f;
+}
+
+TD.employee{
+	font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    color:black;
+    margin: 1px;
+  	background: gray;
+    border: 1px solid #1c679f;
+}
+
+.no-data{
+	font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    margin: 1px;
+    border-bottom: 1px solid #1c679f;
+}
+
+.small {
+	 font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+    margin: 1px;
+}
+
+.productTitle {
+    color: #5CA0C7;
+    font-family: Myriad, Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+
+.productPrice {
+    color: #848484;
+    font-family: Myriad, Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+  }
+
+
+.productDesc {
+    color: #848484;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+    font-size: 9px;
+  }
+
+
+A.productTitle {
+    color: #5CA0C7;
+    font-family: Myriad, Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+
+A.productTitle:hover {
+    color: #5CA0C7;
+    font-family: Myriad, Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+.dataTable{
+	border-left: 1px solid #1c679f;
+	border-right: 1px solid #1c679f;
+	border-bottom: 1px solid #1c679f;
+    border-collapse: collapse; 
+
+}
+
+TD.data {
+    font-family : Tahoma, Verdana, Arial, sans-serif;
+    font-size : 10px;
+	text-align:left;
+    margin: 1px;
+	padding:3px;
+
+}
+
+TD.title {
+    font-family : Tahoma, Verdana, Arial, sans-serif;
+	text-align:right;
+    font-size : 10px;
+	font-weight:bold;
+    margin: 1px;
+	background-color: #F0F8FF;
+	padding:3px;
+	
+}
+
+
+
+/* Form Fields */
+
+
+
+FORM {
+    display: inline;
+    margin:0px;
+  }
+
+
+TD.fieldKey {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+  }
+
+
+TD.fieldValue {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 11px;
+  }
+
+
+CHECKBOX, INPUT, RADIO, SELECT {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 11px;
+  }
+
+
+TEXTAREA {
+    width: 100%;
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 11px;
+  }
+
+.box {
+	background: #f1f9fe;
+	border-top-width: 1px;
+	border-top-color: #7b9ebd;
+	border-top-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #7b9ebd;
+	border-bottom-style: solid;
+}
+
+
+TABLE.formArea {
+    background: #f1f9fe;
+    border-color: #7b9ebd;
+    border-style: solid;
+    border-width: 1px;
+  }
+
+
+TD.formAreaTitle {
+    font-family: Tahoma,Tahoma, Verdana, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+  }
+
+
+.inputRequirement {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+    color: #ff0000;
+  }
+
+/* Error */
+
+.formField{
+
+}
+
+.formError{
+	border: 1px solid #ff0000;
+	border-collapse: collapse;
+}
+
+
+SPAN.errorText {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    color: #ff0000;
+  }
+
+
+TD.errorText {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    color: #ff0000;
+  }
+
+/* message box */
+.error{
+	 font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 12px;
+    color: #ff0000;
+
+}
+
+
+.messageBox {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+  }
+
+
+.messageStackError, .messageStackWarning {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+    background-color: #ffb3b5;
+  }
+
+
+.messageStackSuccess {
+    font-family:Tahoma, Verdana, Arial, sans-serif;
+    font-size: 10px;
+    background-color: #99ff00;
+  }
+
+/* Category */
+
+
+
+A.category {
+    font-family: Tahoma,Verdana;
+    font-size: 11px;
+    color: #5CA0C7;
+  }
+
+
+A.category:hover {
+    font-family: Tahoma,Verdana;
+    font-size: 11px;
+    color: #5CA0C7;
+  }
+
+#content{
+	padding:5px;
+}	
+
+.toolbar {
+	background-image: url(http://www.citecrm.com/images/theme/swsh.gif);
+	text-decoration: none;
+	height:20px;
+}
+
+ul.subpanelTablist{
+	padding: 3px 0;
+	margin: 0;
+	font: 12px Tahoma,Verdana;
+	font-weight: bold;
+}
+ 
+ul.subpanelTablist li{
+	list-style: none;
+	margin: 0;
+	display: inline;
+}
+
+ul.subpanelTablist li a{
+	background-repeat: repeat-x;
+	background-position: top;
+	padding: 3px 8px;
+	margin: 0px;
+	border-top: 1px solid #1c679f;
+	border-right: 1px solid #1c679f;
+	border-bottom: none;
+	text-decoration: none;
+}
+
+ul.subpanelTablist li a:link { text-decoration: none; }
+ul.subpanelTablist li a:visited { text-decoration: none; }
+ul.subpanelTablist li a:active { text-decoration: none; }
+
+ul.subpanelTablist li a:hover{
+	border-top: 1px solid #1c679f;
+	background-color: #6699FF;
+	color:#FFFFFF;
+}
+
+ul.subpanelTablist li a.current, ul.subpanelTablist li a.current:hover{	
+	border-left: 1px solid #1c679f;
+	font-weight: bold;
+	background-color: #6699FF;
+	color:#FFFFFF;
+}
+
+#spaceBox{
+	background-color: #6699FF;	
+	height:8px;
+	border-bottom: 1px solid #1c679f;
+	border-left: 1px solid #1c679f;
+	border-right:1px solid #1c679f;
+}
+
+#contentBox {
+	
+}
+
+#callTimer {
+	color: red;
+	text-decoration:blink;
+}
+
+#dhtmltooltip{
+position: absolute;
+width: 250px;
+border: 1px solid black;
+padding: 2px;
+background-color: #efefef;
+visibility: hidden;
+z-index: 100;
+
+}
+

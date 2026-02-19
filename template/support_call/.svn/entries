@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="68"
+   name=""
+   committed-date="2007-10-25T03:21:56.289261Z"
+   url="svn://localhost/citecrm/application/template/support_call"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="63"
+   name="ajax_view_support_call.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-23T15:07:55.464032Z"
+   checksum="627224674914712e00c0eae9429160d7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="68"
+   name="ajax_start_support_call.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-25T03:21:56.289261Z"
+   checksum="9e17dbfb900cddc59a0a02a215731ec8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="63"
+   name="ajax_load_support_calls.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-23T15:07:55.464032Z"
+   checksum="231a0cb0e31ca8992c87b300b4160237"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_end_support_call.tpl"
+   text-time="2007-10-25T13:55:52.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="db3a8e43e652e94224b90d03a9589126"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:52.000000Z"/>
+</wc-entries>

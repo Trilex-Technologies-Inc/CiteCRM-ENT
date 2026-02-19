@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="product">
+		<field name="product_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="product_type" type="I" size="11"></field>
+		<field name="product_quantity" type="I" size="11"></field>
+		<field name="product_model" type="C" size="64"></field>
+		<field name="product_image" type="C" size="64"></field>
+		<field name="product_price" type="N" size="15"></field>
+		<field name="product_virtual" type="I" size="1"></field>
+		<field name="product_date_added" type="I" size="11"></field>
+		<field name="product_date_available" type="I" size="11"></field>
+		<field name="product_weight" type="N" size="15"></field>
+		<field name="product_status" type="I" size="1"></field>
+		<field name="tax_class_id" type="I" size="11"></field>
+		<field name="manufacturer_id" type="I" size="11"></field>
+		<field name="product_ordered" type="I" size="11"></field>
+		<field name="product_quantity_order_min" type="I" size="11"></field>
+		<field name="product_quantity_order_units" type="I" size="11"></field>
+		<field name="product_priced_by_attribute" type="I" size="1"></field>
+		<field name="product_is_free" type="I" size="1"></field>
+		<field name="product_is_call" type="I" size="1"></field>
+		<field name="product_is_always_free_shipping" type="I" size="1"></field>
+		<field name="product_quantity_order_max" type="I" size="11"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="product_type">
+			<col>product_type</col>
+		</index>
+		<index name="product_virtual">
+			<col>product_virtual</col>
+		</index>
+		<index name="tax_class_id">
+			<col>tax_class_id</col>
+		</index>
+		<index name="manufacturer_id">
+			<col>manufacturer_id</col>
+		</index>
+	</table>
+</schema>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2007-10-11T03:17:19.145990Z"
+   url="svn://localhost/citecrm/application/module/payment_option"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="39"
+   name="search_payment_option.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="e1525a178a170efa73a55b48bf80c4f8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.payment_option.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="addd4e9b437e850e769178c2547997e9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.payment_option.xml"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c92c5b1a8c0721e240dce44391de0818"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="39"
+   name="update_payment_option.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="dc47d85ab12cab1998eddf4ffb5e520d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+<entry
+   committed-rev="39"
+   name="ajax_load_payment_option.php"
+   text-time="2007-10-25T13:55:28.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="0d052760f38bc83462f63ba518b7cf7b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:28.000000Z"/>
+</wc-entries>

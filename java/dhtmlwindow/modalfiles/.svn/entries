@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/java/dhtmlwindow/modalfiles"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="modal.css"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="aaeb9d4579abcae3373064b135168b15"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="newsletter.htm"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="108830f22a0b42fbfebf549319809517"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="blackdot.gif"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8fb6f5e727d57cda729de1f16a08a2a1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="modal.js"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c3530108fabbc3afe35949af57486b6e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="agreement.htm"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4071809a8df0959660a6248e5ed6dbcc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+</wc-entries>

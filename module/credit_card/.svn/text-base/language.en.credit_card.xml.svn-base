@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<language id="credit_card">
+
+<!-- Fields -->
+<field_credit_card_type>Type</field_credit_card_type>
+<field_credit_card_name>Name</field_credit_card_name>
+<field_credit_card_active>Active</field_credit_card_active>
+
+<!-- Error -->
+<error_notEmpty_credit_card_type>The field Type must not be empty</error_notEmpty_credit_card_type>
+<error_notEmpty_credit_card_name>The field Name must not be empty</error_notEmpty_credit_card_name>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

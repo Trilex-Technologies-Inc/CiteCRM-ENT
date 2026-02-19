@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/jscalendar"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="img.gif"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5b260ed979aba4e1de1b8d839aceb44b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   name="lang"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="menuarrow.gif"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b5a91d7a2755198b2eb729541ad3288c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="calendar-blue.css"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bad2a476017232178bb62161af7e1b62"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="calendar-setup_stripped.js"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="10b4603e31dc49a9a2f8d7b2b933c717"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="README"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bc5c3da62c2602615853f75a1d4a6d22"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:13.000000Z"/>
+<entry
+   committed-rev="1"
+   name="calendar_stripped.js"
+   text-time="2007-10-25T13:55:13.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7c7336328608e6c18e2d869159b98e39"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:13.000000Z"/>
+</wc-entries>

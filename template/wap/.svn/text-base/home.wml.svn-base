@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+
+
+
+<wml>
+
+<card id="card" title="Home">
+
+
+{display_main_nav assign=menuNav}
+
+{foreach from=$menuNav item=result}
+<a style='color:#737373;text-decoration:none' href="{$ROOT_URL}/?page={$result->getPageSetupName()}">{$result->getPageSetupDisplayName()}</a><br>
+
+{/foreach}
+
+
+</card>
+
+</wml>

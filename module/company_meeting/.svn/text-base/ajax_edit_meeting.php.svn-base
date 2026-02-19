@@ -1,0 +1,64 @@
+<?php
+
+/**
+ * @author Jaimie
+ * @copyright 2007
+ */
+
+require_once(CLASS_PATH."/core/company_meeting.class.php");
+require_once(CLASS_PATH."/core/calendar.class.php");
+$meetingObj = new company_meeting();
+if($_POST['submit']){
+
+	
+	$calendarObj    = new calendar();
+
+	$startMonth		= $_POST['startMonth'];
+	$startDay		= $_POST['startDay'];
+	$startYear		= $_POST['startYear'];
+	$startHour		= $_POST['startHour'];
+	$startMinute	= $_POST['startMinute'];
+
+	$endMonth		= $_POST['endMonth'];
+	$endDay			= $_POST['endDay'];
+	$endYear		= $_POST['endYear'];
+	$endHour		= $_POST['endHour'];
+	$endMinute		= $_POST['endMinute'];
+
+	$company_meeting_start		= mktime($startHour,$startMinute,0,$startMonth,$startDay,$startYear);
+	$company_meeting_end		= mktime($endHour,$endMinute,0,$endMonth,$endDay,$endYear);
+
+	$company_id					= $_POST['company_id'];
+	$company_meeting_subject	= "Company Meeting: " . $_POST['company_meeting_subject'];
+    $company_meeting_text      	= $core->prepare_post($_POST['company_meeting_text']);
+	$company_meeting_active		= $_POST['company_meeting_active'];
+	$company_meeting_id			= $_POST['company_meeting_id'];
+    $company_meeting_by         = $_SESSION['SESSION_USER_ID'];
+
+	$meetingObj->edit_company_meeting($company_meeting_id,$company_id,$company_meeting_subject,$company_meeting_text,$company_meeting_start,$company_meeting_end,$company_meeting_active);
+
+    // Set Calendar
+    $calendarObj->load_by_type('company meeting',$company_meeting_id);
+    
+    $cal_id = $calendarObj->get_calendar_id();
+    
+    $calendarObj->delete_calendar($cal_id);
+    $calendarObj->delete_calendar_end($cal_id);
+    
+    $start_id = $calendarObj->set_event($startHour,$startMinute,$startMonth,$startDay,$startYear,'start',$company_meeting_by,$company_meeting_subject,$company_meeting_text,'1','0','company meeting',$company_meeting_id,'0');
+	
+    $calendarObj->set_event($endHour,$endMinute,$endMonth,$endDay,$endYear,'end',$company_meeting_by,"Company Meeting $company_meeting_id",$company_meeting_subject,'1','0','company meeting',$company_meeting_id,$start_id);
+
+    // Log
+    $core->log_action($_SESSION['SESSION_USER_ID'],'Create','Created Meeting Meeting ID #'.$company_meeting_id);
+} else {
+	$company_meeting_id = $_POST['company_meeting_id'];
+	$meetingObj->view_meeting($company_meeting_id);
+	
+	$company_meeting_text = $core->prepare_edit($meetingObj->get_company_meeting_text());
+	$smarty->assign('company_meeting_text',$company_meeting_text);
+	$smarty->assign('meetingObj',$meetingObj);
+	$smarty->display('company_meeting/ajax_edit_meeting.tpl');
+}	
+
+?>

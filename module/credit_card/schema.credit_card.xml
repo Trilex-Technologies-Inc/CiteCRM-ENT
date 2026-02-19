@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="credit_card">
+		<field name="credit_card_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="credit_card_type" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="credit_card_name" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="credit_card_active" type="I" size="3"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="credit_card_active">
+			<col>credit_card_active</col>
+		</index>
+	</table>
+</schema>

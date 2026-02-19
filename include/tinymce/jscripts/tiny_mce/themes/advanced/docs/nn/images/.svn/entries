@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/themes/advanced/docs/nn/images"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="html_source_window.gif"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e085b11ec7dfbc232c0c6a68d3641ab9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_image_window.gif"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0e62e4c0fb7fac2ed5e70f7ea17c669b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_table_window.gif"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f798e29399ab491b4e926abeb4d99e6f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_specchar_window.gif"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="789cd686c725e5897101eb8dc05d2769"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_anchor_window.gif"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a1327b0243de34c0eeebd90b90871e95"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="insert_link_window.gif"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8572ead671c34552a4f117df882c44a7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+</wc-entries>

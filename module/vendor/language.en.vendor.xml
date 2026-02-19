@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<language id="vendor">
+
+	<!-- Fields -->
+	<field_vendor_id>Vendor ID</field_vendor_id>
+	<field_vendor_name>Name</field_vendor_name>
+	<field_vendor_website>Website</field_vendor_website>
+	<field_vendor_create_date>Date Created</field_vendor_create_date>
+	<field_vendor_active>Active</field_vendor_active>
+	<field_view_vendor>Last Modified</field_view_vendor>
+	
+	<!-- Errors -->
+	<error_></error_>
+	
+	<!-- Text -->
+	<text_view_vendor>View Vendor</text_view_vendor>
+	<text_add_new_record_to_vendor>Add New Vendor</text_add_new_record_to_vendor>
+	
+</language>

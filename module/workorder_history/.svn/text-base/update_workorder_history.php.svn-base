@@ -1,0 +1,46 @@
+<?php
+	/**
+* Type:     Cite CMS PHP Page<br>
+	* Name:     update_workorder_history.php<br>
+	* Purpose:  Update a Single Work Order History row<br>
+	* 
+	* @author Cite CMS Module Developer
+	* @access Public
+	* @version 1.0
+	*/
+
+	$core->verifyAdmin();
+	require(CLASS_PATH.'/core/workorder_history.class.php');
+
+
+// If form Submission
+if(isset($_REQUEST['submit']) ) {
+	// Conect to smarty validator
+	SmartyValidate::connect($smarty);
+		// If valid Post Disconect and add new workorder_history
+		if(SmartyValidate::is_valid($_POST)) {
+			SmartyValidate::disconnect();
+			$workorder_history = new workorder_history();
+			$workorder_history->update_workorder_history($_REQUEST);
+			$core->force_page("index.php?page=workorder_history:view_workorder_history&workorder_history_id=".$_REQUEST['workorder_history_id']);
+		} else {
+			// error, redraw the form
+			$smarty->assign($_POST);
+			$smarty->display('workorder_history/update_workorder_history_frm.tpl');
+		}
+} else {
+	// Display the Form
+
+$workorder_history = new workorder_history();
+$workorder_history->view_workorder_history($_REQUEST['workorder_history_id']);
+
+	SmartyValidate::connect($smarty, true);
+	SmartyValidate::register_form('update_workorder_history_frm');
+	SmartyValidate::register_validator('workorder_id',	'workorder_id', 'notEmpty');
+	SmartyValidate::register_validator('workorder_history_text',	'workorder_history_text', 'notEmpty');
+	SmartyValidate::register_validator('workorder_history_create_date',	'workorder_history_create_date', 'notEmpty');
+
+$smarty->assign('workorder_history',$workorder_history);
+$smarty->display('workorder_history/update_workorder_history_frm.tpl');
+}
+?>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="company_to_workorder">
+		<field name="company_to_workorder_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="company_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="workorder_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="company_id">
+			<col>company_id</col>
+		</index>
+		<index name="workorder_id">
+			<col>workorder_id</col>
+		</index>
+	</table>
+</schema>

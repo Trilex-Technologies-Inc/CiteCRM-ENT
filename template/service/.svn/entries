@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="40"
+   name=""
+   committed-date="2007-10-11T04:02:01.473179Z"
+   url="svn://localhost/citecrm/application/template/service"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="40"
+   name="load_all.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-11T04:02:01.473179Z"
+   checksum="7506be78bab7af41efc7237d092f12da"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="40"
+   name="ajax_load_all.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-11T04:02:01.473179Z"
+   checksum="350403d79868953f5d6807837e1cf6ea"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="40"
+   name="ajax_view.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-11T04:02:01.473179Z"
+   checksum="bdd196616661e00013e6b6bcbd9ddb05"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="40"
+   name="ajax_add_service_frm.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-11T04:02:01.473179Z"
+   checksum="e8f25199a91a518c93119a3bc78b9090"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+</wc-entries>

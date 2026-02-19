@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/java/dhtmlwindow/windowfiles"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="bird.jpg"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4990cbc81d08c9f01534f8bf369ab282"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="resize.gif"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a6006d7d20e57e8852ccbd107e080daa"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="min.gif"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e559c098dd37c5161b535b55fe0e99cf"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="restore.gif"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4820aad84768b93ba851ccea2342617e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dog.jpg"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e72fc2f2c440741e8a39d5c571e079f7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="close.gif"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="75da489bfbe57f32de9be3b32c4767c5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="max.gif"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3b13648303e4a9bbbdfaf35bc42c5147"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+</wc-entries>

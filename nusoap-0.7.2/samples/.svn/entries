@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/nusoap-0.7.2/samples"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient1.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6ce2c3ccee3747f82c785af5ca068711"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient2.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="663537cb95096bcc1d4eecd08e921155"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient3.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ffd60e23ff0acd8434217509fa723adc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient4.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e3384c3b0a7c4c90650607fb9ed7dbd1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient5.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="edc85deb0e124b378dfb27ab0c49e837"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient3b.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6f2848d95421868f6b84628dc7da3301"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient3c.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ec57ec10f1c809bf2607a18fe15f5ac2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient6.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e07269b60762a6d7644f25d028f9b6ec"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="client1.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="af1b14c3405be97b4bd1402c05ebcc69"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient7.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1e23f9394e82d65e92a9b610877ac258"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="getfile1client.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="348f582af5c58a85fd6a48d903346ee8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="client2.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9daa5e12f6a6efee21ca3f7ee482fb31"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient8.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0a1fc2a3ff92c8efa025f471e5685101"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="getfile2client.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9e38d84ffc37f63decb4cffb500dae5a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="sslclient.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7956962c29aebeb95493b588e7106b0a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient9.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="724713110fa0bf21193fc63b5ebe82df"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="client3.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="a3780843d45a20453e7db69e5dad4a95"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient10.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="aa2d78a10c28e502933609572e8beac4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient11.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="19b68fbbcfdaa9dac7e8744d2840f1f3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient12.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="4b028c91f4436400e64200f7ad71fd87"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient13.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5199139a33150e87a7415736df9ac5e7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wsdlclient14.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7b693510b4d31df5072d0090abc49c28"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index.html"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="71612fb77566dc688fbe8b26bf79dbfc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mimeclient.php"
+   text-time="2007-10-25T13:55:46.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c9e8954e0ea5ba02ac90ea4a7f93fd12"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:46.000000Z"/>
+</wc-entries>

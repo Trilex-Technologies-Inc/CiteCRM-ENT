@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<language id="vendor_address">
+
+
+	<field_vendor_address_id>Vendor Address ID</field_vendor_address_id>
+	<field_vendor_id>Vendor</field_vendor_id> 
+	<field_vendor_address_type>Address Type</field_vendor_address_type>
+	<field_vendor_street_1>Street</field_vendor_street_1>
+	<field_vendor_street_2>Street Cont</field_vendor_street_2>
+	<field_vendor_city>City</field_vendor_city>
+	<field_vendor_state_id>State / Prov</field_vendor_state_id>
+	<field_vendor_postal_code>Postal Code</field_vendor_postal_code>
+	<field_vendor_country_id>Country</field_vendor_country_id>
+	<field_last_modified></field_last_modified>
+	
+	<error_vendor_address_type>Please Select a Vendor Address Type.</error_vendor_address_type>
+	<error_vendor_street_1>Please Enter The Vendors Street Address.</error_vendor_street_1>
+	<error_vendor_city>Please Enter The Vendors City.</error_vendor_city>
+	<error_vendor_state_id>Please Select The Vendors State</error_vendor_state_id>
+	<error_vendor_postal_code>Please Enter The Vendors Postal Code</error_vendor_postal_code>
+	<error_vendor_country_id>Please Select The Vendors Country</error_vendor_country_id>
+	
+	<text_view_vendor_address>View vendor_address ID#</text_view_vendor_address>
+	<text_add_new_record>Add New Vendor Address</text_add_new_record>
+	
+</language>

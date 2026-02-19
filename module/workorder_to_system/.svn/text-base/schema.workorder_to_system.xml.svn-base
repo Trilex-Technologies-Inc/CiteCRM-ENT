@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="workorder_to_system">
+		<field name="workorder_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="system_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+	</table>
+</schema>

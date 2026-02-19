@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2007-10-13T18:08:15.660221Z"
+   url="svn://localhost/citecrm/application/images/theme"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="progressbar2.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5559cf396fa47053ba02d0d70dc4d58d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="44"
+   name="logo.jpg"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-13T18:08:15.660221Z"
+   checksum="94325196ff527cdd0ad42e63156cfadb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="index32.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f6c5696d0ae68bb2a08e4cc152742557"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="spacer.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="df3e567d6f16d040326c7a0ea29a4f41"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="iconMoveUp_20x20.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="44401ffce3d67be407c97a5409d4cd34"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="infoBoxLeft.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="234fc73bd51e48db1e5bce5c89b460b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="b-1.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e53dfe6d87c061423dac9e0b7ceff466"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="iconMoveDwn_20x20.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="32742c93504dd95038175546bca4be24"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="footerBar.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="91b9fbbe4dcf3f3853bb58c90fcdd81d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="infoBoxHeading.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="234fc73bd51e48db1e5bce5c89b460b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="swsh.gif"
+   text-time="2007-10-25T13:55:41.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bd141a5ad36f0c15d0ef4610aaf00cbe"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:32.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ITs Managed Service Request Letterhead.tif"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="ceb7021dac7f5dff69f69ae91bbeddd4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="m_price.jpg"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e9314f9078bb17dd8359792323134fee"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="progressbar.gif"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1edd95b922def39310886d36ac744ea1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="itm.gif"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="3a4470718affb53fa9224445ed9b7d9c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="its_logo.png"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="46c11e9c32c408209be66f3341f8410d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="infoBoxRight.gif"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="234fc73bd51e48db1e5bce5c89b460b0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="titleBar.gif"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bd141a5ad36f0c15d0ef4610aaf00cbe"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="navigationHeader.gif"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dc1f119b5bf858e613de356b743bf44d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+<entry
+   committed-rev="1"
+   name="progressbar1.gif"
+   text-time="2007-10-25T13:55:42.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="da8f386cd58276d56cf4910637cfea20"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:41.000000Z"/>
+</wc-entries>

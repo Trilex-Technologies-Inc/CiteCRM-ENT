@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="46"
+   name=""
+   committed-date="2007-10-13T18:19:47.638243Z"
+   url="svn://localhost/citecrm/application/system_audit"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="46"
+   name="wa_xml2html.xsl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-13T18:19:47.638243Z"
+   checksum="a1343e074b3108627a83ad583c88f851"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

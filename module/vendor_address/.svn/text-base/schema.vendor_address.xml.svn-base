@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="vendor_address">
+		<field name="vendor_address_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="vendor_id" type="I" size="20"></field>
+		<field name="vendor_address_type" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="vendor_street_1" type="C" size="60">
+			<NOTNULL/>
+		</field>
+		<field name="vendor_street_2" type="C" size="60"></field>
+		<field name="vendor_city" type="C" size="60">
+			<NOTNULL/>
+		</field>
+		<field name="vendor_state_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="vendor_postal_code" type="C" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="vendor_country_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="vendor_id">
+			<col>vendor_id</col>
+		</index>
+		<index name="vendor_state_id">
+			<col>vendor_state_id</col>
+		</index>
+		<index name="vendor_country_id">
+			<col>vendor_country_id</col>
+		</index>
+	</table>
+</schema>

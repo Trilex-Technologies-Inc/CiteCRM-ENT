@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<language id="user_contact">
+	
+	<!-- Fields -->	
+	<field_user_contact_type>Contact Type</field_user_contact_type>
+	<field_user_contact_value>Value</field_user_contact_value>
+	<field_user_contact_create_date>Created</field_user_contact_create_date>
+
+	<!-- Text -->
+	<text_update_user_contact>Edit User Contact</text_update_user_contact>
+	<text_new_user_contact>New User Contact</text_new_user_contact>
+	
+	<!-- Errors -->
+	<error_user_contact_type>Please Select A Contact Type!</error_user_contact_type>
+	<error_user_contact_value>Please Enter the Contact Value!</error_user_contact_value>
+	
+</language>
+

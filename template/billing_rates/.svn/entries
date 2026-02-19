@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56"
+   name=""
+   committed-date="2007-10-18T04:51:39.708533Z"
+   url="svn://localhost/citecrm/application/template/billing_rates"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="56"
+   name="search_billing_rates.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="36f9d27b3cf29887fc61b3b6f08ccd9e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="56"
+   name="update_billing_rates_frm.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="588a829e0bac3b0c66de016c0ce5fe1b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_billing_rates.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9039ab3f1014b043688af45fb5ac4c5b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="32"
+   name="add_billing_rates_frm.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-09T04:21:22.187014Z"
+   checksum="276fcdedb1c502fe9cce7e5035d02e07"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_billing_rates.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="625efe1762df7c6b587158a1db359b9d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="32"
+   name="ajax_load_billing_rates.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-09T04:21:22.187014Z"
+   checksum="4561549969813a70f359ff5643dac90d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+</wc-entries>

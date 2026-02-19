@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/plugins"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   name="preview"
+   kind="dir"/>
+<entry
+   name="insertdatetime"
+   kind="dir"/>
+<entry
+   name="directionality"
+   kind="dir"/>
+<entry
+   name="zoom"
+   kind="dir"/>
+<entry
+   name="noneditable"
+   kind="dir"/>
+<entry
+   name="inlinepopups"
+   kind="dir"/>
+<entry
+   name="cleanup"
+   kind="dir"/>
+<entry
+   name="autosave"
+   kind="dir"/>
+<entry
+   name="table"
+   kind="dir"/>
+<entry
+   name="advlink"
+   kind="dir"/>
+<entry
+   name="print"
+   kind="dir"/>
+<entry
+   name="iespell"
+   kind="dir"/>
+<entry
+   name="flash"
+   kind="dir"/>
+<entry
+   name="emotions"
+   kind="dir"/>
+<entry
+   name="save"
+   kind="dir"/>
+<entry
+   name="fullpage"
+   kind="dir"/>
+<entry
+   name="searchreplace"
+   kind="dir"/>
+<entry
+   name="fullscreen"
+   kind="dir"/>
+<entry
+   name="advhr"
+   kind="dir"/>
+<entry
+   name="contextmenu"
+   kind="dir"/>
+<entry
+   name="_template"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="readme.txt"
+   text-time="2007-10-25T13:55:16.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b7ebe9c943f635853a60c4b37200ba11"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   name="paste"
+   kind="dir"/>
+<entry
+   name="advimage"
+   kind="dir"/>
+</wc-entries>

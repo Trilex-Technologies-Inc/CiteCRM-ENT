@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="22"
+   name=""
+   committed-date="2007-10-06T17:54:32.405751Z"
+   url="svn://localhost/citecrm/application/template/file"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="22"
+   name="ajax_load_file.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-06T17:54:32.405751Z"
+   checksum="7f3ca698b4f00bd149987f8d412dd5bf"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   name="delete"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="search_file.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="936b2e2a2687c53ed784835a59e4fad6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_file_frm.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="372ac38537ac10b30f1381ca5e312b5e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_file.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0c6308a6cac2ebce2625000b6a849647"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="22"
+   name="ajax_new_file.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-06T17:54:32.405751Z"
+   checksum="f785efbd0b296fc5696c422533aafdba"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+</wc-entries>

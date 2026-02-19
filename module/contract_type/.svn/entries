@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="56"
+   name=""
+   committed-date="2007-10-18T04:51:39.708533Z"
+   url="svn://localhost/citecrm/application/module/contract_type"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="ajax_add_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="53931e318ee622af686bd879e9ff193b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.contract_type.xml"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="72296f7f9fcc181cbdb2ff69c20d22b4"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d81e05804602536ed508b33b410ff4eb"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="290ef6f7f41caa93ca4a2ad5d13f1e92"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="search_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0c1656c459c24e02f5a121919e8d2b8f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_edit_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9c63f4e743e55b530da2621e4df4259e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8cc2766788163db7d56e6672320468fd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.contract_type.xml"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c51778e1fda29f5ac6676bd8c85fccc5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="56"
+   name="ajax_search_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-18T04:51:39.708533Z"
+   checksum="91b335669762ee64bad017e3172cb2a8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_contract_type.php"
+   text-time="2007-10-25T13:55:30.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="34aa60c5f6796fc214385759b2691d80"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:30.000000Z"/>
+</wc-entries>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="lead_status">
+		<field name="lead_status_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="lead_status_text" type="C" size="255">
+			<NOTNULL/>
+		</field>
+		<field name="lead_status_active" type="I" size="3"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+	</table>
+</schema>

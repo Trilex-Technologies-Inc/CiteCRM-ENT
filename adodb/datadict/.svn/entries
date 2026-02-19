@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/adodb/datadict"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="datadict-postgres.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f4c8454ef68ca30233791bc003045b52"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-sybase.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="902c985e27482b974fc7f74127bf51e3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-firebird.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="90931cb1ef02c1206aae63ea0f02f772"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-db2.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fbb5659e37bcd856811a0158bf7440e1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-sapdb.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="50fafacc15fb606ee0c5038a9336c98d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-informix.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="becc7780ef4c0c4b18ea1bab6f94b532"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-generic.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8e91069b001c3ee9e9aad835bd2e9e74"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-mssql.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dae6b8683ca2d0768e65affb58746183"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:47.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-access.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f2f005b0d772906d6b335a97aa546e5d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-oci8.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="e76682db6e99fc0f3cc1d6098045e2af"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-ibase.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="61a6f5313a7e9cfd6cd95ea103b4bfdd"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="datadict-mysql.inc.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="2c7bc581ff6ea4406a268e90d9f7f104"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

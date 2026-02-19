@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<language id="check_payment">
+
+<!-- Fields -->
+<field_invoice_id>Invoice ID</field_invoice_id>
+<field_check_payment_amount>Payment Amount</field_check_payment_amount>
+<field_check_payment_number>Check Number</field_check_payment_number>
+<field_check_payment_enter_by>Entered By</field_check_payment_enter_by>
+<field_check_payment_date>Payment Date</field_check_payment_date>
+<field_check_payment_status>Status</field_check_payment_status>
+
+<!-- Error -->
+<error_notEmpty_invoice_id>The field Invoice ID must not be empty</error_notEmpty_invoice_id>
+<error_isPrice_check_payment_amount>The field Payment Amount is not a valid price</error_isPrice_check_payment_amount>
+<error_notEmpty_check_payment_number>The field Check Number must not be empty</error_notEmpty_check_payment_number>
+<error_notEmpty_check_payment_enter_by>The field Entered By must not be empty</error_notEmpty_check_payment_enter_by>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

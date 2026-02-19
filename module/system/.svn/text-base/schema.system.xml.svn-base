@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="system">
+		<field name="system_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="system_serial_num" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="system_manufacture_id" type="I" size="20"></field>
+		<field name="system_model_id" type="I" size="20"></field>
+		<field name="operating_system_manufacture_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="operating_system_id" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="system_name" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="system_ip_address" type="C" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="system_host_name" type="C" size="50">
+			<NOTNULL/>
+		</field>
+		<field name="system_purchase_date" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="system_purchase_price" type="N" size="10">
+			<NOTNULL/>
+			<DEFAULT value="0.0000"/>
+		</field>
+		<field name="system_waranty_text" type="X">
+			<NOTNULL/>
+		</field>
+		<field name="system_warenty_expire_date" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="system_active" type="I" size="4">
+			<DEFAULT value="1"/>
+		</field>
+		<field name="system_last_service" type="I" size="20"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="system_manufacture_id">
+			<col>system_manufacture_id</col>
+		</index>
+		<index name="system_model_id">
+			<col>system_model_id</col>
+		</index>
+		<index name="operating_system_id">
+			<col>operating_system_id</col>
+		</index>
+		<index name="operating_system_manufacture_id">
+			<col>operating_system_manufacture_id</col>
+		</index>
+		<index name="system_serial_num">
+			<col>system_serial_num</col>
+		</index>
+	</table>
+</schema>

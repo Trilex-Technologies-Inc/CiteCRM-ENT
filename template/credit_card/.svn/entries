@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2007-10-11T03:17:19.145990Z"
+   url="svn://localhost/citecrm/application/template/credit_card"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="delete_credit_card.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5aeaef9c384f2754b780ba33cf1aa44c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="39"
+   name="ajax_load_credit_card.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="4f6ce09582f6dbf73761b8dd02fddf50"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="39"
+   name="search_credit_card.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-11T03:17:19.145990Z"
+   checksum="d5515e92643b44c9ba4281d9d227131f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="update_credit_card_frm.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="8e1bff03fcf0eaa7da548e2f82e53ab0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_credit_card.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="fdfe9da8fa59509b2e9d1d1a02583c29"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+<entry
+   committed-rev="1"
+   name="add_credit_card_frm.tpl"
+   text-time="2007-10-25T13:55:49.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="b68a6cd862f8c706b6bfe8afea4a2aa8"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:49.000000Z"/>
+</wc-entries>

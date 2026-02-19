@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="68"
+   name=""
+   committed-date="2007-10-25T03:21:56.289261Z"
+   url="svn://localhost/citecrm/application/include"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="authPages.inc.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="17350399f4c3ba63732e253de2e9ef1e"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="company.conf.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5afd59a5fd380c956c260c292446d989"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   name="phpmailer"
+   kind="dir"/>
+<entry
+   committed-rev="68"
+   name="core.conf.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-25T03:21:56.289261Z"
+   checksum="c62605849bfaeeaa240e739a13e84d0d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   name="jscalendar"
+   kind="dir"/>
+<entry
+   name="font"
+   kind="dir"/>
+<entry
+   name="tinymce"
+   kind="dir"/>
+<entry
+   name="pdf"
+   kind="dir"/>
+</wc-entries>

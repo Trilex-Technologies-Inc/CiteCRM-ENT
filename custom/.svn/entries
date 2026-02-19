@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="36"
+   name=""
+   committed-date="2007-10-10T12:25:15.139664Z"
+   url="svn://localhost/citecrm/application/custom"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="36"
+   name="wo_disclaimer.php"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-10T12:25:15.139664Z"
+   checksum="fc046bd1b275adcee91b31c6a48eabf1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

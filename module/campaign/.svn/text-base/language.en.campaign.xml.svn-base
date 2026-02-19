@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<language id="campaign">
+
+<!-- Fields -->
+<field_campaign_type_id>Campaign</field_campaign_type_id>
+<field_campaign_name>Name</field_campaign_name>
+<field_campaign_start_date>Start</field_campaign_start_date>
+<field_campaign_end_date>End</field_campaign_end_date>
+<field_campaign_cost>Cost</field_campaign_cost>
+<field_campaign_active>Active</field_campaign_active>
+
+<!-- Error -->
+<error_notEmpty_campaign_name>The field Name must not be empty</error_notEmpty_campaign_name>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

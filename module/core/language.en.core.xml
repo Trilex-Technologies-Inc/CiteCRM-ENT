@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+
+<language id="core">
+
+	<!-- Text -->
+	<text_your_account>Your Account</text_your_account>
+	<text_view_account>View Account</text_view_account>
+	<text_change_password>Change Password</text_change_password>
+	<text_change_email>Change Email</text_change_email>
+	<text_log_off>Log Out</text_log_off>
+	<text_login>Login</text_login>
+	<text_sign_up>Sign up</text_sign_up>
+	<text_lost_password>Lost Password</text_lost_password>
+	<text_menu>Menu</text_menu>
+	<text_admin>Admin</text_admin>
+	<text_public>Public</text_public>
+	<text_edit>Edit</text_edit>
+	<text_delete>Delete</text_delete>
+	<text_add>Add</text_add>
+    <text_main_menu>Main Menu</text_main_menu>
+    <text_contact>Contact</text_contact>
+    <text_admin_menu>Admin Menu</text_admin_menu> 
+    <text_setup>Setup</text_setup>
+    <text_home>Home</text_home>
+    <text_contact_us>Contact Us</text_contact_us>
+    <text_edit>Edit</text_edit>
+    <text_pages>Pages</text_pages>
+    
+	<!-- fields -->
+	<field_email>Email</field_email>
+	<field_password>Password</field_password>
+    <field_page_setup_name>Page Name</field_page_setup_name>
+    <field_page_setup_display_name>Display Name</field_page_setup_display_name>
+    <field_page_setup_page_title>Title</field_page_setup_page_title>
+    <field_page_setup_description>Description</field_page_setup_description>
+    <field_page_setup_keywords>Keywords</field_page_setup_keywords>
+    <field_page_setup_order>Display Order</field_page_setup_order>
+    <field_page_setup_menu>Display In Menu</field_page_setup_menu>
+    <field_page_setup_active>Active</field_page_setup_active>
+    <field_page_setup_static_page>Static Page</field_page_setup_static_page>
+    <field_page_views>Views</field_page_views>
+    <field_last_modified>Last Modified</field_last_modified>
+    
+    
+    <!-- Buttons -->
+	<button_activation>Activation</button_activation>
+	<button_submit>Submit</button_submit>
+	
+    <!-- Admin Setup Menue -->
+    <menue_user_types>User Types</menue_user_types>
+    <menue_country>Country</menue_country>
+    <menue_billing_rates>Billing Rates</menue_billing_rates>
+    <menue_payment_options>Payment Options</menue_payment_options>
+    <menue_tax_rates>Tax Rates</menue_tax_rates>
+    <menue_workorder_status>Workorder Status</menue_workorder_status>
+    <menue_system_manufacture>System Manufactures</menue_system_manufacture>
+    <menue_operating_system>Operating Systems</menue_operating_system>
+    <menue_product_status>Product Status</menue_product_status>
+    <menue_credit_cards>Credit Cards</menue_credit_cards>
+    <menue_main_menu>Main Menu</menue_main_menu>
+    
+</language>

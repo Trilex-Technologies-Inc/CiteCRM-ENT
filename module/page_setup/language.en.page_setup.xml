@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<language id="page_setup">
+
+	<!-- Fields -->
+	<field_page_setup_id></field_page_setup_id>
+	<field_page_setup_name></field_page_setup_name>
+	<field_page_setup_display_name></field_page_setup_display_name>
+	<field_page_setup_page_title>Meta Title</field_page_setup_page_title>
+	<field_page_setup_description>Meta Description</field_page_setup_description>
+	<field_page_setup_keywords>Meta Keywords</field_page_setup_keywords>
+	<field_page_setup_order></field_page_setup_order>
+	<field_page_setup_menu></field_page_setup_menu>
+	<field_page_setup_active>Active</field_page_setup_active>
+	<field_page_views>Page Views</field_page_views>
+	<field_last_modified>Last Modified</field_last_modified>
+	<!-- Errors -->
+	
+	<!-- Text -->
+	
+	
+</language>

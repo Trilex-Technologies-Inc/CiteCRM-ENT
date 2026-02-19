@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<language id="product">
+
+<!-- Fields -->
+<field_product_type>Product Type</field_product_type>
+<field_product_quantity>Qty</field_product_quantity>
+<field_product_model>Model</field_product_model>
+<field_product_image>Image</field_product_image>
+<field_product_price>Price</field_product_price>
+<field_product_virtual>Virtual</field_product_virtual>
+<field_product_date_added>Date Added</field_product_date_added>
+<field_product_date_available>Date Available</field_product_date_available>
+<field_product_weight>Weight</field_product_weight>
+<field_product_status>Status</field_product_status>
+<field_tax_class_id>Tax Class</field_tax_class_id>
+<field_manufacturer_id>Manufacture</field_manufacturer_id>
+<field_product_ordered>Ordered</field_product_ordered>
+<field_product_quantity_order_min>Min Order</field_product_quantity_order_min>
+<field_product_quantity_order_units>Order Units</field_product_quantity_order_units>
+<field_product_priced_by_attribute>Priced By Attribute</field_product_priced_by_attribute>
+<field_product_is_free>Is Free</field_product_is_free>
+<field_product_is_call>Call</field_product_is_call>
+<field_product_is_always_free_shipping>Free Shipping</field_product_is_always_free_shipping>
+<field_product_quantity_order_max>Max Order</field_product_quantity_order_max>
+
+<!-- Error -->
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

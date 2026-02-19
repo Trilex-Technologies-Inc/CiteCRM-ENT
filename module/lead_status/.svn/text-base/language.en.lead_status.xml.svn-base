@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<language id="lead_status">
+
+<!-- Fields -->
+<field_lead_status_text>Status</field_lead_status_text>
+<field_lead_status_active>Active</field_lead_status_active>
+
+<!-- Error -->
+<error_notEmpty_lead_status_text>The field Status must not be empty</error_notEmpty_lead_status_text>
+
+<!-- Text -->
+<text_add_new_record_to>Add New Record to</text_add_new_record_to>
+<text_records_found>Records Found</text_records_found>
+<text_displaying_page>Displaying Page</text_displaying_page>
+<text_of>Of</text_of>
+<text_view>View</text_view>
+<text_no_results_found>No Results Found</text_no_results_found>
+
+</language>

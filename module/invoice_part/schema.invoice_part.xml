@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="invoice_part">
+		<field name="invoice_part_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="invoice_id" type="I" size="20"></field>
+		<field name="product_id" type="I" size="20"></field>
+		<field name="invoice_part_qty" type="I" size="20"></field>
+		<field name="invoice_part_amount" type="N" size="10"></field>
+		<field name="invoice_part_sub_total" type="N" size="10"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="invoice_id">
+			<col>invoice_id</col>
+		</index>
+		<index name="product_id">
+			<col>product_id</col>
+		</index>
+	</table>
+</schema>

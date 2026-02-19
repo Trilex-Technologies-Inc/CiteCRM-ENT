@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="lead_email">
+		<field name="lead_email_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="lead_id" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="mail_id" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="lead_mail_sent_by" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="lead_mail_date_sent" type="I" size="20">
+			<NOTNULL/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+	</table>
+</schema>

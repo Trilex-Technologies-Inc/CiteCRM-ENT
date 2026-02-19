@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="page_setup">
+		<field name="page_setup_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="page_setup_name" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="page_setup_display_name" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="page_setup_page_title" type="C" size="100">
+			<NOTNULL/>
+		</field>
+		<field name="page_setup_description" type="X">
+			<NOTNULL/>
+		</field>
+		<field name="page_setup_keywords" type="X">
+			<NOTNULL/>
+		</field>
+		<field name="page_setup_order" type="I" size="8">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="page_setup_menu" type="I" size="4">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="page_setup_active" type="I" size="4">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="page_views" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name=" page_setup_menu">
+			<col>page_setup_menu</col>
+		</index>
+		<index name="page_setup_active">
+			<col>page_setup_active</col>
+		</index>
+		<index name=" page_setup_display_name">
+			<col>page_setup_display_name</col>
+		</index>
+	</table>
+</schema>

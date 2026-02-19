@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="68"
+   name=""
+   committed-date="2007-10-25T03:21:56.289261Z"
+   url="svn://localhost/citecrm/application/template/leads"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="67"
+   name="ajax_add_email.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-23T21:53:55.531180Z"
+   checksum="a66840938bea2fe2f203a9599dddffc6"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="83"
+   name="ajax_add_meeting.tpl"
+   text-time="2007-10-31T14:51:58.000000Z"
+   committed-date="2007-11-01T14:43:52.088700Z"
+   checksum="a68e54da023429c85c98b8bc74b42af5"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"
+   revision="83"/>
+<entry
+   committed-rev="1"
+   name="ajax_edit_call.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="79713d9484af7485de2ca82b20a6c8b1"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="83"
+   name="ajax_add_call.tpl"
+   text-time="2007-10-31T14:58:51.000000Z"
+   committed-date="2007-11-01T14:43:52.088700Z"
+   checksum="a2a2f81da67ce9e7e6320f2bc66475b9"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"
+   revision="83"/>
+<entry
+   committed-rev="63"
+   name="add.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-23T15:07:55.464032Z"
+   checksum="3dcd0500e3ad939ca94c4586c3103bf7"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_add_appointment.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="bdbbcfde2d3257c211e9090e1ce7bd8b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="22"
+   name="search_leads.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-06T17:54:32.405751Z"
+   checksum="6136fc5e8c0f41f3f9b1f7e0d33424d0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="59"
+   name="ajax_lead_details.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-19T14:51:44.625893Z"
+   checksum="97edcde386e6027453b6e986e250d507"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="59"
+   name="ajax_edit_lead.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-19T14:51:44.625893Z"
+   checksum="e30a34382bf9d0ef5b9020bd473679dc"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="83"
+   name="view_lead.tpl"
+   text-time="2007-10-31T15:00:42.000000Z"
+   committed-date="2007-11-01T14:43:52.088700Z"
+   checksum="afab79f8059e49deb3ea380e835a58b2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"
+   revision="83"/>
+<entry
+   committed-rev="1"
+   name="ajax_search_leads.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d602623e127cdf71b661064d8fdfc850"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ajax_edit_meeting.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="5d5f9fe0d3d2e7fc7063db0aa3d292d3"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="1"
+   name="convert.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="12bb0acf28ca1b4dbee1be05ee6dd72d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="68"
+   name=""
+   committed-date="2007-10-25T03:21:56.289261Z"
+   url="svn://localhost/citecrm/application/template/company_meeting"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="61"
+   name="ajax_load_by_company.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-22T14:31:24.698916Z"
+   checksum="fd1f46f3c6a9dec8c1fbce45350e9eb0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="68"
+   name="ajax_new_meeting.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-25T03:21:56.289261Z"
+   checksum="306ada477eac5c64148ea7d84ddf302b"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+<entry
+   committed-rev="68"
+   name="ajax_edit_meeting.tpl"
+   text-time="2007-10-25T13:55:51.000000Z"
+   committed-date="2007-10-25T03:21:56.289261Z"
+   checksum="f885ba01602d45ff8de4faa13aa09354"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:51.000000Z"/>
+</wc-entries>

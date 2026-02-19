@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="55"
+   name=""
+   committed-date="2007-10-17T14:33:02.726800Z"
+   url="svn://localhost/citecrm/application/module/campaign_type"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="1"
+   name="view_campaign_type.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0584c933950ce33b0a8b9f42fe3a34c0"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="language.en.campaign_type.xml"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="95cd11f4b657cc162964b416ce30b442"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="55"
+   name="ajax_load_campaign_type.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="80793eaefaec1aafd56538c96e134666"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="55"
+   name="delete_campaign_type.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="6bd53fe634f4c891c650da5d6df5b943"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="55"
+   name="update_campaign_type.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="2a6ece34f751ff24b9e53b1cf2bea001"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="55"
+   name="search_campaign_type.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="ebaaed0aa814219a23cc8067bba9a0ea"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="1"
+   name="schema.campaign_type.xml"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="21d3b22dcaf66f6ee03f765ae3bfbca2"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+<entry
+   committed-rev="55"
+   name="add_campaign_type.php"
+   text-time="2007-10-25T13:55:23.000000Z"
+   committed-date="2007-10-17T14:33:02.726800Z"
+   checksum="6d184e12cb585675bed0c908c4fc41ae"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:23.000000Z"/>
+</wc-entries>

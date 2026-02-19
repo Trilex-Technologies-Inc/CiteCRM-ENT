@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<schema version="0.2">
+	<table name="tax_class">
+		<field name="tax_class_id" type="I" size="20">
+			<KEY/>
+			<AUTOINCREMENT/>
+		</field>
+		<field name="tax_class_title" type="C" size="64">
+			<NOTNULL/>
+		</field>
+		<field name="tax_class_description" type="X">
+			<NOTNULL/>
+		</field>
+		<field name="tax_type" type="I" size="20">
+			<NOTNULL/>
+			<DEFAULT value="0"/>
+		</field>
+		<field name="tax_class_active" type="I" size="3"></field>
+		<field name="last_modified" type="T">
+			<DEFAULT value="CURRENT_TIMESTAMP"/>
+		</field>
+		<index name="tax_type">
+			<col>tax_type</col>
+		</index>
+	</table>
+</schema>

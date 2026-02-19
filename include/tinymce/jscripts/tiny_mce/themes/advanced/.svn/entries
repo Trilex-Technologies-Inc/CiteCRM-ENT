@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-10-03T14:22:41.339449Z"
+   url="svn://localhost/citecrm/application/include/tinymce/jscripts/tiny_mce/themes/advanced"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   name="jscripts"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="anchor.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="9930809042b8f1ebaab51d4ea23c5c8f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="about.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="00841c9fca4b4f1e101b2b98e1ea4301"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="charmap.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="0391875972ec40c7e1cbe0842791ab5c"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="color_picker.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="f68446b78dd2fe6d93b413128045c4db"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   committed-rev="1"
+   name="editor_template_src.js"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="dca7706c1e2435232c39bdf57ec32fda"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   name="langs"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="link.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="6c3c4f78977636971fee22e156e8c27f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:16.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   name="docs"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="image.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="7c492f5526dec43ff3bfe56db2e3d78a"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="editor_template.js"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="56a2229af6dedce4bc82f82ec4bbc582"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+<entry
+   committed-rev="1"
+   name="source_editor.htm"
+   text-time="2007-10-25T13:55:18.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="c929527771f026cdfbca2d76cd510d99"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:18.000000Z"/>
+</wc-entries>

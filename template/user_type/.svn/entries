@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="58"
+   name=""
+   committed-date="2007-10-18T15:17:19.679324Z"
+   url="svn://localhost/citecrm/application/template/user_type"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="31"
+   name="ajax_load_user_type.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-09T03:07:10.533304Z"
+   checksum="aeb17360289957f78ff9253b01a29296"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="delete_user_type.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="d10710c72de43f46c984825580c07a4d"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="58"
+   name="search_user_type.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-18T15:17:19.679324Z"
+   checksum="5740db9ac867f7d343506ad977558012"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="31"
+   name="update_user_type_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-09T03:07:10.533304Z"
+   checksum="a2e5947842781437019e38cd7af1281f"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="1"
+   name="view_user_type.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-03T14:22:41.339449Z"
+   checksum="1a4b7779fe09df4b34b8baedce475f43"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+<entry
+   committed-rev="31"
+   name="add_user_type_frm.tpl"
+   text-time="2007-10-25T13:55:48.000000Z"
+   committed-date="2007-10-09T03:07:10.533304Z"
+   checksum="f06cae21f81cd4a5ad6327231e4ccf95"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:48.000000Z"/>
+</wc-entries>

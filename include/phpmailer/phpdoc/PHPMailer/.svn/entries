@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="48"
+   name=""
+   committed-date="2007-10-14T17:32:18.771791Z"
+   url="svn://localhost/citecrm/application/include/phpmailer/phpdoc/PHPMailer"
+   last-author="jaimie"
+   kind="dir"
+   uuid="04f50c4c-973b-0410-8bed-9e719ba64a20"
+   revision="71"/>
+<entry
+   committed-rev="48"
+   name="_class_phpmailer_php.html"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-14T17:32:18.771791Z"
+   checksum="654496ee3624410e7ffc136a9e79d598"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="48"
+   name="_class_smtp_php.html"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-14T17:32:18.771791Z"
+   checksum="e3d492cb46488da8e8d6567b86fd5f63"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="48"
+   name="PHPMailer.html"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-14T17:32:18.771791Z"
+   checksum="4a52e0c271a1e24dd801c5a524100873"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+<entry
+   committed-rev="48"
+   name="SMTP.html"
+   text-time="2007-10-25T13:55:12.000000Z"
+   committed-date="2007-10-14T17:32:18.771791Z"
+   checksum="50efd15fd5907270b8b77df82ebb25ab"
+   last-author="jaimie"
+   kind="file"
+   prop-time="2007-10-25T13:55:12.000000Z"/>
+</wc-entries>
